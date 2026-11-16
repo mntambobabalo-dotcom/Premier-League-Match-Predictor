@@ -1,0 +1,28 @@
+{
+  "version": "0.3.0",
+  "start_season": 2015,
+  "feature_set": "v3_form_goals_shots_venue_discipline_corners_fouls",
+  "candidates": [
+    "training_frequency",
+    "multinomial_logistic_regression",
+    "independent_poisson",
+    "xgboost",
+    "recent_logistic",
+    "recent_poisson",
+    "recent_xgboost"
+  ],
+  "recent_model_half_life_days": 1095.75,
+  "selection": "minimum pooled log loss on up to three most recent completed development seasons; latest season excluded",
+  "audit": "last season, already viewed in older versions; exploratory rather than pristine holdout",
+  "confidence_thresholds": [
+    0.5,
+    0.6,
+    0.7
+  ],
+  "no_accuracy_guarantee": true,
+  "injuries": "only if timestamped pre-match historical availability is supplied; no retrospective season totals",
+  "calibration_matches_requested": 190,
+  "latest_refit_calibration_matches_requested": 190,
+  "season_identity": "Use source filename or explicit Season, including July 2020 in 2019/20",
+  "quality_policy": "Retain outcome and quarantine both affected-side shot values when target shots exceed total; explicit flag and provenance"
+}

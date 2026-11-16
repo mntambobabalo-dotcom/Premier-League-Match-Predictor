@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "epl-research-predictor"
+version = "0.4.0"
+description = "Prematch football probabilities with chronological evaluation"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "pandas>=2.2,<3", "scikit-learn>=1.5,<2", "scipy>=1.11,<2"]
+
+[project.optional-dependencies]
+boost = ["xgboost>=3,<4"]
+
+[project.scripts]
+epl = "epl_predictor.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["epl_predictor*"]

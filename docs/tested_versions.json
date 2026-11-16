@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scikit-learn": "1.8.0",
+  "scipy": "1.17.0",
+  "xgboost": "3.4.1",
+  "package": "0.3.0",
+  "tests_passed": 36
+}

@@ -1,0 +1,2604 @@
+{
+  "status": "saved_calculations_verified",
+  "latest_season": "2026/27",
+  "limits": [
+    "Raw source files are absent here: source integrity, full odds coverage, odds benchmarks and completeness of the paper filter cannot be independently rechecked.",
+    "No model refit, calibration fit, threshold search or new holdout evaluation was performed.",
+    "Calibration bins are descriptive. Wilson intervals assume independent trials; shared teams/dates may increase uncertainty.",
+    "Archived quote timing and card settlement equivalence remain unaudited. No historical prices for double chance, exact score, BTTS or cards.",
+    "Historical fits differ from the latest paper refit. Injury training coverage remains zero."
+  ],
+  "results": {
+    "all_walk_forward": {
+      "matches": 3520,
+      "events": {
+        "home": {
+          "matches": 3520,
+          "mean_probability": 0.4476505213956364,
+          "actual_rate": 0.440625,
+          "probability_minus_actual": 0.007025521395636321,
+          "brier": 0.21281770392732352,
+          "ece_10_bins": 0.012119193846808594,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 48,
+              "mean_probability": 0.07622536580466326,
+              "actual_rate": 0.10416666666666667
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 236,
+              "mean_probability": 0.15157263101075885,
+              "actual_rate": 0.15254237288135594
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 485,
+              "mean_probability": 0.2535240112086793,
+              "actual_rate": 0.24329896907216494
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 713,
+              "mean_probability": 0.3509920008973117,
+              "actual_rate": 0.3520336605890603
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 732,
+              "mean_probability": 0.4496853431663882,
+              "actual_rate": 0.42896174863387976
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 575,
+              "mean_probability": 0.5461995786686531,
+              "actual_rate": 0.5234782608695652
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 373,
+              "mean_probability": 0.6448729959678442,
+              "actual_rate": 0.6487935656836461
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 235,
+              "mean_probability": 0.7430968222546643,
+              "actual_rate": 0.7617021276595745
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 113,
+              "mean_probability": 0.8451426943205478,
+              "actual_rate": 0.8407079646017699
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 10,
+              "mean_probability": 0.9182500643138682,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "draw": {
+          "matches": 3520,
+          "mean_probability": 0.22855701929640204,
+          "actual_rate": 0.2346590909090909,
+          "probability_minus_actual": -0.006102071612688861,
+          "brier": 0.17797304173200526,
+          "ece_10_bins": 0.006363408793933595,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 54,
+              "mean_probability": 0.08259173035168065,
+              "actual_rate": 0.07407407407407407
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 646,
+              "mean_probability": 0.16577600814630414,
+              "actual_rate": 0.17027863777089783
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 2819,
+              "mean_probability": 0.2457138681139115,
+              "actual_rate": 0.25221709826179495
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 1,
+              "mean_probability": 0.3020590087154804,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "away": {
+          "matches": 3520,
+          "mean_probability": 0.3237924593079616,
+          "actual_rate": 0.3247159090909091,
+          "probability_minus_actual": -0.0009234497829475406,
+          "brier": 0.19021904532401165,
+          "ece_10_bins": 0.011809787923450148,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 258,
+              "mean_probability": 0.06718423253307419,
+              "actual_rate": 0.06976744186046512
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 624,
+              "mean_probability": 0.1543413075791039,
+              "actual_rate": 0.16185897435897437
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 830,
+              "mean_probability": 0.25051867117805343,
+              "actual_rate": 0.2433734939759036
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 765,
+              "mean_probability": 0.3473364970050682,
+              "actual_rate": 0.33464052287581697
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 515,
+              "mean_probability": 0.4454384946581776,
+              "actual_rate": 0.45436893203883494
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 284,
+              "mean_probability": 0.5442979189593877,
+              "actual_rate": 0.5774647887323944
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 145,
+              "mean_probability": 0.6480383446925415,
+              "actual_rate": 0.6689655172413793
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 81,
+              "mean_probability": 0.7361227527185137,
+              "actual_rate": 0.7037037037037037
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 18,
+              "mean_probability": 0.8272830483568574,
+              "actual_rate": 0.7777777777777778
+            }
+          ]
+        },
+        "1X": {
+          "matches": 3520,
+          "mean_probability": 0.6762075406920384,
+          "actual_rate": 0.6752840909090909,
+          "probability_minus_actual": 0.0009234497829475062,
+          "brier": 0.19021904532401165,
+          "ece_10_bins": 0.01180978792345015,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 18,
+              "mean_probability": 0.17271695164314257,
+              "actual_rate": 0.2222222222222222
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 81,
+              "mean_probability": 0.2638772472814862,
+              "actual_rate": 0.2962962962962963
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 145,
+              "mean_probability": 0.35196165530745843,
+              "actual_rate": 0.3310344827586207
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 284,
+              "mean_probability": 0.45570208104061216,
+              "actual_rate": 0.4225352112676056
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 515,
+              "mean_probability": 0.5545615053418225,
+              "actual_rate": 0.545631067961165
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 765,
+              "mean_probability": 0.6526635029949318,
+              "actual_rate": 0.665359477124183
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 830,
+              "mean_probability": 0.7494813288219465,
+              "actual_rate": 0.7566265060240964
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 624,
+              "mean_probability": 0.8456586924208961,
+              "actual_rate": 0.8381410256410257
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 258,
+              "mean_probability": 0.9328157674669257,
+              "actual_rate": 0.9302325581395349
+            }
+          ]
+        },
+        "X2": {
+          "matches": 3520,
+          "mean_probability": 0.5523494786043637,
+          "actual_rate": 0.559375,
+          "probability_minus_actual": -0.0070255213956363525,
+          "brier": 0.21281770392732352,
+          "ece_10_bins": 0.012119193846808549,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 10,
+              "mean_probability": 0.08174993568613163,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 113,
+              "mean_probability": 0.1548573056794521,
+              "actual_rate": 0.1592920353982301
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 235,
+              "mean_probability": 0.2569031777453357,
+              "actual_rate": 0.23829787234042554
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 373,
+              "mean_probability": 0.3551270040321558,
+              "actual_rate": 0.3512064343163539
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 575,
+              "mean_probability": 0.45380042133134696,
+              "actual_rate": 0.4765217391304348
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 732,
+              "mean_probability": 0.5503146568336118,
+              "actual_rate": 0.5710382513661202
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 713,
+              "mean_probability": 0.6490079991026882,
+              "actual_rate": 0.6479663394109397
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 485,
+              "mean_probability": 0.7464759887913206,
+              "actual_rate": 0.756701030927835
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 236,
+              "mean_probability": 0.848427368989241,
+              "actual_rate": 0.847457627118644
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 48,
+              "mean_probability": 0.9237746341953367,
+              "actual_rate": 0.8958333333333334
+            }
+          ]
+        },
+        "12": {
+          "matches": 3520,
+          "mean_probability": 0.771442980703598,
+          "actual_rate": 0.7653409090909091,
+          "probability_minus_actual": 0.006102071612688829,
+          "brier": 0.17797304173200523,
+          "ece_10_bins": 0.006363408793933574,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 1,
+              "mean_probability": 0.6979409912845196,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 2819,
+              "mean_probability": 0.7542861318860885,
+              "actual_rate": 0.747782901738205
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 646,
+              "mean_probability": 0.8342239918536958,
+              "actual_rate": 0.8297213622291022
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 54,
+              "mean_probability": 0.9174082696483195,
+              "actual_rate": 0.9259259259259259
+            }
+          ]
+        },
+        "over_2.5": {
+          "matches": 3520,
+          "mean_probability": 0.5348313582634547,
+          "actual_rate": 0.5420454545454545,
+          "probability_minus_actual": -0.007214096281999845,
+          "brier": 0.24442316302914105,
+          "ece_10_bins": 0.013031439988305967,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 50,
+              "mean_probability": 0.38077306829066837,
+              "actual_rate": 0.4
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 1142,
+              "mean_probability": 0.4655676651657737,
+              "actual_rate": 0.47285464098073554
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 1745,
+              "mean_probability": 0.5453586986420715,
+              "actual_rate": 0.5604584527220631
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 489,
+              "mean_probability": 0.635712648485754,
+              "actual_rate": 0.6196319018404908
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 91,
+              "mean_probability": 0.7351663958870156,
+              "actual_rate": 0.7142857142857143
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 3,
+              "mean_probability": 0.8249659292822028,
+              "actual_rate": 0.6666666666666666
+            }
+          ]
+        },
+        "under_2.5": {
+          "matches": 3520,
+          "mean_probability": 0.46516864173654526,
+          "actual_rate": 0.45795454545454545,
+          "probability_minus_actual": 0.007214096281999821,
+          "brier": 0.24442316302914105,
+          "ece_10_bins": 0.013031439988305948,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 3,
+              "mean_probability": 0.17503407071779717,
+              "actual_rate": 0.3333333333333333
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 91,
+              "mean_probability": 0.2648336041129841,
+              "actual_rate": 0.2857142857142857
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 489,
+              "mean_probability": 0.36428735151424596,
+              "actual_rate": 0.3803680981595092
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 1745,
+              "mean_probability": 0.45464130135792846,
+              "actual_rate": 0.439541547277937
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 1142,
+              "mean_probability": 0.5344323348342263,
+              "actual_rate": 0.5271453590192644
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 50,
+              "mean_probability": 0.6192269317093316,
+              "actual_rate": 0.6
+            }
+          ]
+        },
+        "btts": {
+          "matches": 3520,
+          "mean_probability": 0.5230372923509236,
+          "actual_rate": 0.5286931818181818,
+          "probability_minus_actual": -0.005655889467258281,
+          "brier": 0.24678413415410874,
+          "ece_10_bins": 0.008117409100152805,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 1,
+              "mean_probability": 0.2888358599219675,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 38,
+              "mean_probability": 0.37857287840684684,
+              "actual_rate": 0.3684210526315789
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 998,
+              "mean_probability": 0.46959686304059345,
+              "actual_rate": 0.46593186372745493
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 2305,
+              "mean_probability": 0.5412309846825296,
+              "actual_rate": 0.5501084598698481
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 177,
+              "mean_probability": 0.6187293127297112,
+              "actual_rate": 0.6384180790960452
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 1,
+              "mean_probability": 0.7064864749668154,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "yellow_over_3.5": {
+          "matches": 3520,
+          "mean_probability": 0.4422344149411808,
+          "actual_rate": 0.47102272727272726,
+          "probability_minus_actual": -0.028788312331546467,
+          "brier": 0.24950025106840593,
+          "ece_10_bins": 0.0460011623005896,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 89,
+              "mean_probability": 0.27237159186605614,
+              "actual_rate": 0.2696629213483146
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 963,
+              "mean_probability": 0.36221537393861064,
+              "actual_rate": 0.4215991692627207
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 1709,
+              "mean_probability": 0.4468687081202906,
+              "actual_rate": 0.4903452311293154
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 643,
+              "mean_probability": 0.5369970139294822,
+              "actual_rate": 0.5163297045101088
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 107,
+              "mean_probability": 0.6338756362205402,
+              "actual_rate": 0.4953271028037383
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 8,
+              "mean_probability": 0.7424714046477525,
+              "actual_rate": 0.5
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 1,
+              "mean_probability": 0.8584973669818008,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "red_any": {
+          "matches": 3520,
+          "mean_probability": 0.10740163626999837,
+          "actual_rate": 0.10909090909090909,
+          "probability_minus_actual": -0.0016892728209107154,
+          "brier": 0.100489995770858,
+          "ece_10_bins": 0.04147131813957803,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 1872,
+              "mean_probability": 0.06572508542176271,
+              "actual_rate": 0.1063034188034188
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 1406,
+              "mean_probability": 0.13580126106580157,
+              "actual_rate": 0.112375533428165
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 194,
+              "mean_probability": 0.23490460565045637,
+              "actual_rate": 0.11855670103092783
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 35,
+              "mean_probability": 0.33950605595403366,
+              "actual_rate": 0.02857142857142857
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 9,
+              "mean_probability": 0.4575049414968797,
+              "actual_rate": 0.2222222222222222
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 3,
+              "mean_probability": 0.5654340533355126,
+              "actual_rate": 0.3333333333333333
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 1,
+              "mean_probability": 0.8117746142792928,
+              "actual_rate": 0.0
+            }
+          ]
+        }
+      },
+      "picks": {
+        "top_1x2": {
+          "matches": 3520,
+          "hits": 1877,
+          "coverage": 1.0,
+          "hit_rate": 0.5332386363636363,
+          "wilson_95": [
+            0.5167302924804937,
+            0.5496745111221948
+          ],
+          "mean_probability": 0.5352865815657336
+        },
+        "top_1x2_at_least_65pct": {
+          "matches": 683,
+          "hits": 505,
+          "coverage": 0.1940340909090909,
+          "hit_rate": 0.739385065885798,
+          "wilson_95": [
+            0.7051901244898143,
+            0.7709022776221063
+          ]
+        },
+        "top_draw_cover": {
+          "matches": 3520,
+          "hits": 2703,
+          "coverage": 1.0,
+          "hit_rate": 0.7678977272727273,
+          "wilson_95": [
+            0.7536636340950494,
+            0.7815477316941418
+          ],
+          "mean_probability": 0.7638436008621357
+        },
+        "top_total_2_5": {
+          "matches": 3520,
+          "hits": 1980,
+          "coverage": 1.0,
+          "hit_rate": 0.5625,
+          "wilson_95": [
+            0.5460526185809078,
+            0.5788111146891051
+          ],
+          "mean_probability": 0.5605603769942235
+        },
+        "top_exact_score": {
+          "matches": 3520,
+          "hits": 417,
+          "coverage": 1.0,
+          "hit_rate": 0.1184659090909091,
+          "wilson_95": [
+            0.10820393162624932,
+            0.12955973300271792
+          ]
+        }
+      },
+      "total_goals_mae": 1.305906808352147,
+      "scoreline_log_loss": 2.9451716161819474,
+      "paper_prices": {
+        "bet365_1x2": {
+          "priced_fixtures_reported": 3520,
+          "odds_coverage_reported": 1.0,
+          "matches": 594,
+          "hits": 151,
+          "coverage": 0.16875,
+          "hit_rate": 0.2542087542087542,
+          "wilson_95": [
+            0.22084968780296702,
+            0.29072650737091577
+          ],
+          "selection_coverage_of_priced_fixtures": 0.16875,
+          "selection_calibration": {
+            "matches": 594,
+            "mean_probability": 0.30005066038401595,
+            "actual_rate": 0.2542087542087542,
+            "probability_minus_actual": 0.04584190617526174,
+            "brier": 0.16197895713668725,
+            "ece_10_bins": 0.046341780139329214,
+            "calibration_bins": [
+              {
+                "probability_range": [
+                  0.0,
+                  0.1
+                ],
+                "matches": 5,
+                "mean_probability": 0.09432943815666568,
+                "actual_rate": 0.0
+              },
+              {
+                "probability_range": [
+                  0.1,
+                  0.2
+                ],
+                "matches": 194,
+                "mean_probability": 0.16767758651528814,
+                "actual_rate": 0.13402061855670103
+              },
+              {
+                "probability_range": [
+                  0.2,
+                  0.3
+                ],
+                "matches": 293,
+                "mean_probability": 0.23613511847799307,
+                "actual_rate": 0.20477815699658702
+              },
+              {
+                "probability_range": [
+                  0.6,
+                  0.7
+                ],
+                "matches": 28,
+                "mean_probability": 0.672771766055836,
+                "actual_rate": 0.5357142857142857
+              },
+              {
+                "probability_range": [
+                  0.7,
+                  0.8
+                ],
+                "matches": 51,
+                "mean_probability": 0.7439230625302551,
+                "actual_rate": 0.7450980392156863
+              },
+              {
+                "probability_range": [
+                  0.8,
+                  0.9
+                ],
+                "matches": 22,
+                "mean_probability": 0.8341934862304048,
+                "actual_rate": 0.5
+              },
+              {
+                "probability_range": [
+                  0.9,
+                  1.0
+                ],
+                "matches": 1,
+                "mean_probability": 0.9114612436289508,
+                "actual_rate": 1.0
+              }
+            ]
+          },
+          "paper_net_units": -9.489999999999998,
+          "paper_return": -0.015976430976430974,
+          "mean_estimated_return": 0.18231471704251528
+        },
+        "bet365_total_2_5": {
+          "priced_fixtures_reported": 2759,
+          "odds_coverage_reported": 0.7838068181818182,
+          "matches": 1229,
+          "hits": 526,
+          "coverage": 0.34914772727272725,
+          "hit_rate": 0.42799023596419855,
+          "wilson_95": [
+            0.40059437334129655,
+            0.45583485465585893
+          ],
+          "selection_coverage_of_priced_fixtures": 0.4454512504530627,
+          "selection_calibration": {
+            "matches": 1229,
+            "mean_probability": 0.503689839817438,
+            "actual_rate": 0.42799023596419855,
+            "probability_minus_actual": 0.07569960385323947,
+            "brier": 0.24827728521533124,
+            "ece_10_bins": 0.07748985086076654,
+            "calibration_bins": [
+              {
+                "probability_range": [
+                  0.2,
+                  0.3
+                ],
+                "matches": 7,
+                "mean_probability": 0.2714133162677982,
+                "actual_rate": 0.42857142857142855
+              },
+              {
+                "probability_range": [
+                  0.3,
+                  0.4
+                ],
+                "matches": 81,
+                "mean_probability": 0.3709300299834104,
+                "actual_rate": 0.3333333333333333
+              },
+              {
+                "probability_range": [
+                  0.4,
+                  0.5
+                ],
+                "matches": 468,
+                "mean_probability": 0.4572242249386924,
+                "actual_rate": 0.3782051282051282
+              },
+              {
+                "probability_range": [
+                  0.5,
+                  0.6
+                ],
+                "matches": 588,
+                "mean_probability": 0.5409361315446941,
+                "actual_rate": 0.47278911564625853
+              },
+              {
+                "probability_range": [
+                  0.6,
+                  0.7
+                ],
+                "matches": 71,
+                "mean_probability": 0.6270852747645413,
+                "actual_rate": 0.4647887323943662
+              },
+              {
+                "probability_range": [
+                  0.7,
+                  0.8
+                ],
+                "matches": 13,
+                "mean_probability": 0.742333037186643,
+                "actual_rate": 0.6153846153846154
+              },
+              {
+                "probability_range": [
+                  0.8,
+                  0.9
+                ],
+                "matches": 1,
+                "mean_probability": 0.8648208818034415,
+                "actual_rate": 0.0
+              }
+            ]
+          },
+          "paper_net_units": -33.5,
+          "paper_return": -0.02725793327908869,
+          "mean_estimated_return": 0.14426149069471877
+        }
+      }
+    },
+    "latest_season": {
+      "matches": 100,
+      "events": {
+        "home": {
+          "matches": 100,
+          "mean_probability": 0.43739618486486864,
+          "actual_rate": 0.42,
+          "probability_minus_actual": 0.01739618486486863,
+          "brier": 0.22604465289643966,
+          "ece_10_bins": 0.13195888361761457,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 13,
+              "mean_probability": 0.25982913821223935,
+              "actual_rate": 0.23076923076923078
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 30,
+              "mean_probability": 0.348869701481296,
+              "actual_rate": 0.43333333333333335
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 30,
+              "mean_probability": 0.4505330087814458,
+              "actual_rate": 0.36666666666666664
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 16,
+              "mean_probability": 0.5358740227451047,
+              "actual_rate": 0.25
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 4,
+              "mean_probability": 0.6290883096950318,
+              "actual_rate": 1.0
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 6,
+              "mean_probability": 0.743171900818223,
+              "actual_rate": 1.0
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 1,
+              "mean_probability": 0.8303893742343604,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "draw": {
+          "matches": 100,
+          "mean_probability": 0.24069612184016356,
+          "actual_rate": 0.27,
+          "probability_minus_actual": -0.029303878159836465,
+          "brier": 0.19470648106470892,
+          "ece_10_bins": 0.058599685866641146,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 9,
+              "mean_probability": 0.16275448726002617,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 91,
+              "mean_probability": 0.24840463515028705,
+              "actual_rate": 0.2967032967032967
+            }
+          ]
+        },
+        "away": {
+          "matches": 100,
+          "mean_probability": 0.32190769329496777,
+          "actual_rate": 0.31,
+          "probability_minus_actual": 0.011907693294967747,
+          "brier": 0.19681052811404565,
+          "ece_10_bins": 0.08868111700704459,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 4,
+              "mean_probability": 0.07710606478244975,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 9,
+              "mean_probability": 0.15195291321780824,
+              "actual_rate": 0.1111111111111111
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 28,
+              "mean_probability": 0.25402795311093535,
+              "actual_rate": 0.2857142857142857
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 33,
+              "mean_probability": 0.34439689840257726,
+              "actual_rate": 0.36363636363636365
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 21,
+              "mean_probability": 0.44540190652431166,
+              "actual_rate": 0.23809523809523808
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 5,
+              "mean_probability": 0.5366896960009839,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "1X": {
+          "matches": 100,
+          "mean_probability": 0.6780923067050321,
+          "actual_rate": 0.69,
+          "probability_minus_actual": -0.011907693294967787,
+          "brier": 0.19681052811404565,
+          "ece_10_bins": 0.0886811170070445,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 5,
+              "mean_probability": 0.46331030399901596,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 21,
+              "mean_probability": 0.5545980934756883,
+              "actual_rate": 0.7619047619047619
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 33,
+              "mean_probability": 0.6556031015974226,
+              "actual_rate": 0.6363636363636364
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 28,
+              "mean_probability": 0.7459720468890645,
+              "actual_rate": 0.7142857142857143
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 9,
+              "mean_probability": 0.8480470867821918,
+              "actual_rate": 0.8888888888888888
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 4,
+              "mean_probability": 0.9228939352175501,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "X2": {
+          "matches": 100,
+          "mean_probability": 0.5626038151351314,
+          "actual_rate": 0.58,
+          "probability_minus_actual": -0.017396184864868665,
+          "brier": 0.22604465289643966,
+          "ece_10_bins": 0.13195888361761468,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 1,
+              "mean_probability": 0.1696106257656396,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 6,
+              "mean_probability": 0.25682809918177696,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 4,
+              "mean_probability": 0.37091169030496807,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 16,
+              "mean_probability": 0.46412597725489535,
+              "actual_rate": 0.75
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 30,
+              "mean_probability": 0.549466991218554,
+              "actual_rate": 0.6333333333333333
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 30,
+              "mean_probability": 0.6511302985187043,
+              "actual_rate": 0.5666666666666667
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 13,
+              "mean_probability": 0.7401708617877607,
+              "actual_rate": 0.7692307692307693
+            }
+          ]
+        },
+        "12": {
+          "matches": 100,
+          "mean_probability": 0.7593038781598365,
+          "actual_rate": 0.73,
+          "probability_minus_actual": 0.02930387815983644,
+          "brier": 0.19470648106470892,
+          "ece_10_bins": 0.05859968586664104,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 91,
+              "mean_probability": 0.7515953648497129,
+              "actual_rate": 0.7032967032967034
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 9,
+              "mean_probability": 0.8372455127399738,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "over_2.5": {
+          "matches": 100,
+          "mean_probability": 0.5282337300719749,
+          "actual_rate": 0.47,
+          "probability_minus_actual": 0.05823373007197491,
+          "brier": 0.25165255933072705,
+          "ece_10_bins": 0.06228791338568014,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 1,
+              "mean_probability": 0.3903211829488203,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 29,
+              "mean_probability": 0.480214895622607,
+              "actual_rate": 0.4482758620689655
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 64,
+              "mean_probability": 0.5423363908887239,
+              "actual_rate": 0.46875
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 6,
+              "mean_probability": 0.6328818057191228,
+              "actual_rate": 0.6666666666666666
+            }
+          ]
+        },
+        "under_2.5": {
+          "matches": 100,
+          "mean_probability": 0.47176626992802506,
+          "actual_rate": 0.53,
+          "probability_minus_actual": -0.05823373007197494,
+          "brier": 0.25165255933072705,
+          "ece_10_bins": 0.06228791338568016,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 6,
+              "mean_probability": 0.36711819428087705,
+              "actual_rate": 0.3333333333333333
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 64,
+              "mean_probability": 0.45766360911127607,
+              "actual_rate": 0.53125
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 29,
+              "mean_probability": 0.519785104377393,
+              "actual_rate": 0.5517241379310345
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 1,
+              "mean_probability": 0.6096788170511798,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "btts": {
+          "matches": 100,
+          "mean_probability": 0.54080746045184,
+          "actual_rate": 0.49,
+          "probability_minus_actual": 0.05080746045184004,
+          "brier": 0.2543045517342448,
+          "ece_10_bins": 0.06779800287633782,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 13,
+              "mean_probability": 0.47311329836731625,
+              "actual_rate": 0.5384615384615384
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 85,
+              "mean_probability": 0.5495753826370959,
+              "actual_rate": 0.4823529411764706
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 2,
+              "mean_probability": 0.6081828211278699,
+              "actual_rate": 0.5
+            }
+          ]
+        },
+        "yellow_over_3.5": {
+          "matches": 100,
+          "mean_probability": 0.5008457741385043,
+          "actual_rate": 0.58,
+          "probability_minus_actual": -0.07915422586149563,
+          "brier": 0.25610063580938097,
+          "ece_10_bins": 0.0881232746376914,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 8,
+              "mean_probability": 0.3774048652537411,
+              "actual_rate": 0.5
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 43,
+              "mean_probability": 0.45814142424377585,
+              "actual_rate": 0.627906976744186
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 42,
+              "mean_probability": 0.5456382097744846,
+              "actual_rate": 0.5476190476190477
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 7,
+              "mean_probability": 0.6354932055442547,
+              "actual_rate": 0.5714285714285714
+            }
+          ]
+        },
+        "red_any": {
+          "matches": 100,
+          "mean_probability": 0.11985441319971715,
+          "actual_rate": 0.18,
+          "probability_minus_actual": -0.06014558680028286,
+          "brier": 0.1549307908068728,
+          "ece_10_bins": 0.07918896148070705,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 43,
+              "mean_probability": 0.07539054101987086,
+              "actual_rate": 0.18604651162790697
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 49,
+              "mean_probability": 0.1386016188182869,
+              "actual_rate": 0.1836734693877551
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 7,
+              "mean_probability": 0.2315661387449113,
+              "actual_rate": 0.14285714285714285
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 1,
+              "mean_probability": 0.3312057628068304,
+              "actual_rate": 0.0
+            }
+          ]
+        }
+      },
+      "picks": {
+        "top_1x2": {
+          "matches": 100,
+          "hits": 42,
+          "coverage": 1.0,
+          "hit_rate": 0.42,
+          "wilson_95": [
+            0.3279838267435473,
+            0.5179351329695703
+          ],
+          "mean_probability": 0.48390754983336826
+        },
+        "top_1x2_at_least_65pct": {
+          "matches": 9,
+          "hits": 9,
+          "coverage": 0.09,
+          "hit_rate": 1.0,
+          "wilson_95": [
+            0.7008549515804559,
+            1.0
+          ]
+        },
+        "top_draw_cover": {
+          "matches": 100,
+          "hits": 69,
+          "coverage": 1.0,
+          "hit_rate": 0.69,
+          "wilson_95": [
+            0.5937394428051057,
+            0.7722030278762395
+          ],
+          "mean_probability": 0.7246036716735317
+        },
+        "top_total_2_5": {
+          "matches": 100,
+          "hits": 51,
+          "coverage": 1.0,
+          "hit_rate": 0.51,
+          "wilson_95": [
+            0.4134801193402717,
+            0.6057800106955886
+          ],
+          "mean_probability": 0.5419026669518865
+        },
+        "top_exact_score": {
+          "matches": 100,
+          "hits": 11,
+          "coverage": 1.0,
+          "hit_rate": 0.11,
+          "wilson_95": [
+            0.06254196357064568,
+            0.18631296503080313
+          ]
+        }
+      },
+      "total_goals_mae": 1.400703600898706,
+      "scoreline_log_loss": 2.9661281070529197,
+      "paper_prices": {
+        "bet365_1x2": {
+          "priced_fixtures_reported": 100,
+          "odds_coverage_reported": 1.0,
+          "matches": 15,
+          "hits": 4,
+          "coverage": 0.15,
+          "hit_rate": 0.26666666666666666,
+          "wilson_95": [
+            0.10897453325692374,
+            0.5195043405598057
+          ],
+          "selection_coverage_of_priced_fixtures": 0.15,
+          "selection_calibration": {
+            "matches": 15,
+            "mean_probability": 0.2659759294154361,
+            "actual_rate": 0.26666666666666666,
+            "probability_minus_actual": -0.0006907372512305795,
+            "brier": 0.158483809832514,
+            "ece_10_bins": 0.06903797651883471,
+            "calibration_bins": [
+              {
+                "probability_range": [
+                  0.1,
+                  0.2
+                ],
+                "matches": 3,
+                "mean_probability": 0.1708680981690104,
+                "actual_rate": 0.0
+              },
+              {
+                "probability_range": [
+                  0.2,
+                  0.3
+                ],
+                "matches": 11,
+                "mean_probability": 0.24961312396422686,
+                "actual_rate": 0.2727272727272727
+              },
+              {
+                "probability_range": [
+                  0.7,
+                  0.8
+                ],
+                "matches": 1,
+                "mean_probability": 0.731290283118015,
+                "actual_rate": 1.0
+              }
+            ]
+          },
+          "paper_net_units": 2.67,
+          "paper_return": 0.178,
+          "mean_estimated_return": 0.17580552746473982
+        },
+        "bet365_total_2_5": {
+          "priced_fixtures_reported": 100,
+          "odds_coverage_reported": 1.0,
+          "matches": 49,
+          "hits": 26,
+          "coverage": 0.49,
+          "hit_rate": 0.5306122448979592,
+          "wilson_95": [
+            0.39380863983661896,
+            0.6629649630682484
+          ],
+          "selection_coverage_of_priced_fixtures": 0.49,
+          "selection_calibration": {
+            "matches": 49,
+            "mean_probability": 0.49743873313101783,
+            "actual_rate": 0.5306122448979592,
+            "probability_minus_actual": -0.03317351176694132,
+            "brier": 0.2511380673638606,
+            "ece_10_bins": 0.07987977858407559,
+            "calibration_bins": [
+              {
+                "probability_range": [
+                  0.3,
+                  0.4
+                ],
+                "matches": 2,
+                "mean_probability": 0.35265885079291925,
+                "actual_rate": 0.5
+              },
+              {
+                "probability_range": [
+                  0.4,
+                  0.5
+                ],
+                "matches": 23,
+                "mean_probability": 0.46375391053843823,
+                "actual_rate": 0.5217391304347826
+              },
+              {
+                "probability_range": [
+                  0.5,
+                  0.6
+                ],
+                "matches": 21,
+                "mean_probability": 0.5306811208104661,
+                "actual_rate": 0.47619047619047616
+              },
+              {
+                "probability_range": [
+                  0.6,
+                  0.7
+                ],
+                "matches": 3,
+                "mean_probability": 0.6195122474767225,
+                "actual_rate": 1.0
+              }
+            ]
+          },
+          "paper_net_units": 11.2,
+          "paper_return": 0.22857142857142856,
+          "mean_estimated_return": 0.1532686471083708
+        }
+      }
+    },
+    "recent_completed_development": {
+      "seasons": [
+        "2023/24",
+        "2024/25",
+        "2025/26"
+      ],
+      "matches": 1140,
+      "events": {
+        "home": {
+          "matches": 1140,
+          "mean_probability": 0.44587467615377263,
+          "actual_rate": 0.43157894736842106,
+          "probability_minus_actual": 0.014295728785351583,
+          "brier": 0.20982152843675073,
+          "ece_10_bins": 0.021964075105714513,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 8,
+              "mean_probability": 0.08245925895038331,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 73,
+              "mean_probability": 0.15553689781030366,
+              "actual_rate": 0.1506849315068493
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 168,
+              "mean_probability": 0.25403872649528286,
+              "actual_rate": 0.19047619047619047
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 228,
+              "mean_probability": 0.3507127420147362,
+              "actual_rate": 0.34210526315789475
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 247,
+              "mean_probability": 0.44987270116247063,
+              "actual_rate": 0.4574898785425101
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 187,
+              "mean_probability": 0.5469951082152089,
+              "actual_rate": 0.5561497326203209
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 135,
+              "mean_probability": 0.6437331136569642,
+              "actual_rate": 0.5925925925925926
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 61,
+              "mean_probability": 0.7394957218343425,
+              "actual_rate": 0.7377049180327869
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 29,
+              "mean_probability": 0.8470138110850407,
+              "actual_rate": 0.8620689655172413
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 4,
+              "mean_probability": 0.9147499131381547,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "draw": {
+          "matches": 1140,
+          "mean_probability": 0.22630733856726762,
+          "actual_rate": 0.24473684210526317,
+          "probability_minus_actual": -0.01842950353799557,
+          "brier": 0.1837315795555866,
+          "ece_10_bins": 0.021214539069439254,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 19,
+              "mean_probability": 0.08355106594330987,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 194,
+              "mean_probability": 0.17098327434199853,
+              "actual_rate": 0.19072164948453607
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 927,
+              "mean_probability": 0.24081137054090015,
+              "actual_rate": 0.26105717367853293
+            }
+          ]
+        },
+        "away": {
+          "matches": 1140,
+          "mean_probability": 0.32781798527895967,
+          "actual_rate": 0.3236842105263158,
+          "probability_minus_actual": 0.004133774752643911,
+          "brier": 0.18757775557315406,
+          "ece_10_bins": 0.02401766708132649,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 60,
+              "mean_probability": 0.06636905564507412,
+              "actual_rate": 0.05
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 211,
+              "mean_probability": 0.15643056835147554,
+              "actual_rate": 0.14691943127962084
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 261,
+              "mean_probability": 0.2519944593971052,
+              "actual_rate": 0.23754789272030652
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 255,
+              "mean_probability": 0.3462226458111878,
+              "actual_rate": 0.30980392156862746
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 184,
+              "mean_probability": 0.4450292028857267,
+              "actual_rate": 0.44565217391304346
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 101,
+              "mean_probability": 0.5432136817090804,
+              "actual_rate": 0.6138613861386139
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 47,
+              "mean_probability": 0.6453515846707298,
+              "actual_rate": 0.7021276595744681
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 20,
+              "mean_probability": 0.738445490024872,
+              "actual_rate": 0.8
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 1,
+              "mean_probability": 0.8157919090383415,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "1X": {
+          "matches": 1140,
+          "mean_probability": 0.6721820147210402,
+          "actual_rate": 0.6763157894736842,
+          "probability_minus_actual": -0.004133774752643942,
+          "brier": 0.18757775557315406,
+          "ece_10_bins": 0.024017667081326476,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 1,
+              "mean_probability": 0.1842080909616585,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 20,
+              "mean_probability": 0.26155450997512797,
+              "actual_rate": 0.2
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 47,
+              "mean_probability": 0.35464841532926994,
+              "actual_rate": 0.2978723404255319
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 101,
+              "mean_probability": 0.45678631829091965,
+              "actual_rate": 0.38613861386138615
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 184,
+              "mean_probability": 0.5549707971142732,
+              "actual_rate": 0.5543478260869565
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 255,
+              "mean_probability": 0.6537773541888122,
+              "actual_rate": 0.6901960784313725
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 261,
+              "mean_probability": 0.7480055406028948,
+              "actual_rate": 0.7624521072796935
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 211,
+              "mean_probability": 0.8435694316485245,
+              "actual_rate": 0.8530805687203792
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 60,
+              "mean_probability": 0.9336309443549258,
+              "actual_rate": 0.95
+            }
+          ]
+        },
+        "X2": {
+          "matches": 1140,
+          "mean_probability": 0.5541253238462273,
+          "actual_rate": 0.5684210526315789,
+          "probability_minus_actual": -0.014295728785351607,
+          "brier": 0.20982152843675073,
+          "ece_10_bins": 0.021964075105714544,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 4,
+              "mean_probability": 0.08525008686184529,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 29,
+              "mean_probability": 0.1529861889149592,
+              "actual_rate": 0.13793103448275862
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 61,
+              "mean_probability": 0.2605042781656575,
+              "actual_rate": 0.26229508196721313
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 135,
+              "mean_probability": 0.3562668863430357,
+              "actual_rate": 0.4074074074074074
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 187,
+              "mean_probability": 0.453004891784791,
+              "actual_rate": 0.44385026737967914
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 247,
+              "mean_probability": 0.5501272988375293,
+              "actual_rate": 0.5425101214574899
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 228,
+              "mean_probability": 0.6492872579852637,
+              "actual_rate": 0.6578947368421053
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 168,
+              "mean_probability": 0.7459612735047171,
+              "actual_rate": 0.8095238095238095
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 73,
+              "mean_probability": 0.8444631021896962,
+              "actual_rate": 0.8493150684931506
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 8,
+              "mean_probability": 0.9175407410496166,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "12": {
+          "matches": 1140,
+          "mean_probability": 0.7736926614327324,
+          "actual_rate": 0.7552631578947369,
+          "probability_minus_actual": 0.01842950353799554,
+          "brier": 0.18373157955558664,
+          "ece_10_bins": 0.021214539069439164,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 927,
+              "mean_probability": 0.7591886294590998,
+              "actual_rate": 0.7389428263214671
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 194,
+              "mean_probability": 0.8290167256580013,
+              "actual_rate": 0.8092783505154639
+            },
+            {
+              "probability_range": [
+                0.9,
+                1.0
+              ],
+              "matches": 19,
+              "mean_probability": 0.9164489340566901,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "over_2.5": {
+          "matches": 1140,
+          "mean_probability": 0.5559974693306883,
+          "actual_rate": 0.5877192982456141,
+          "probability_minus_actual": -0.031721828914925795,
+          "brier": 0.24406304145525623,
+          "ece_10_bins": 0.04072154156028305,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 2,
+              "mean_probability": 0.39527526882151826,
+              "actual_rate": 0.5
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 204,
+              "mean_probability": 0.4762580445221389,
+              "actual_rate": 0.5735294117647058
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 704,
+              "mean_probability": 0.5479546693309255,
+              "actual_rate": 0.578125
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 191,
+              "mean_probability": 0.6350388576799237,
+              "actual_rate": 0.6178010471204188
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 38,
+              "mean_probability": 0.7361208818206508,
+              "actual_rate": 0.7105263157894737
+            },
+            {
+              "probability_range": [
+                0.8,
+                0.9
+              ],
+              "matches": 1,
+              "mean_probability": 0.8648208818034415,
+              "actual_rate": 0.0
+            }
+          ]
+        },
+        "under_2.5": {
+          "matches": 1140,
+          "mean_probability": 0.4440025306693117,
+          "actual_rate": 0.41228070175438597,
+          "probability_minus_actual": 0.031721828914925775,
+          "brier": 0.24406304145525623,
+          "ece_10_bins": 0.040721541560283014,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 1,
+              "mean_probability": 0.1351791181965584,
+              "actual_rate": 1.0
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 38,
+              "mean_probability": 0.263879118179349,
+              "actual_rate": 0.2894736842105263
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 191,
+              "mean_probability": 0.36496114232007615,
+              "actual_rate": 0.38219895287958117
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 704,
+              "mean_probability": 0.45204533066907443,
+              "actual_rate": 0.421875
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 204,
+              "mean_probability": 0.523741955477861,
+              "actual_rate": 0.4264705882352941
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 2,
+              "mean_probability": 0.6047247311784817,
+              "actual_rate": 0.5
+            }
+          ]
+        },
+        "btts": {
+          "matches": 1140,
+          "mean_probability": 0.5454276146886505,
+          "actual_rate": 0.5833333333333334,
+          "probability_minus_actual": -0.03790571864468284,
+          "brier": 0.24473145813100244,
+          "ece_10_bins": 0.037905718644682854,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 1,
+              "mean_probability": 0.3682454788084628,
+              "actual_rate": 1.0
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 147,
+              "mean_probability": 0.47601193348540866,
+              "actual_rate": 0.5918367346938775
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 884,
+              "mean_probability": 0.5480066932123698,
+              "actual_rate": 0.5723981900452488
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 108,
+              "mean_probability": 0.6204404096681764,
+              "actual_rate": 0.6574074074074074
+            }
+          ]
+        },
+        "yellow_over_3.5": {
+          "matches": 1140,
+          "mean_probability": 0.4810532755139956,
+          "actual_rate": 0.5850877192982457,
+          "probability_minus_actual": -0.10403444378424993,
+          "brier": 0.25527274814162276,
+          "ece_10_bins": 0.11105281678174628,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 94,
+              "mean_probability": 0.37644512538530295,
+              "actual_rate": 0.5106382978723404
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 644,
+              "mean_probability": 0.45412889937083584,
+              "actual_rate": 0.5900621118012422
+            },
+            {
+              "probability_range": [
+                0.5,
+                0.6
+              ],
+              "matches": 347,
+              "mean_probability": 0.5355871928902627,
+              "actual_rate": 0.5994236311239193
+            },
+            {
+              "probability_range": [
+                0.6,
+                0.7
+              ],
+              "matches": 54,
+              "mean_probability": 0.629638381640239,
+              "actual_rate": 0.5555555555555556
+            },
+            {
+              "probability_range": [
+                0.7,
+                0.8
+              ],
+              "matches": 1,
+              "mean_probability": 0.7066525634242202,
+              "actual_rate": 1.0
+            }
+          ]
+        },
+        "red_any": {
+          "matches": 1140,
+          "mean_probability": 0.11056991350473867,
+          "actual_rate": 0.11754385964912281,
+          "probability_minus_actual": -0.006973946144384139,
+          "brier": 0.10591302550735311,
+          "ece_10_bins": 0.032204175964027165,
+          "calibration_bins": [
+            {
+              "probability_range": [
+                0.0,
+                0.1
+              ],
+              "matches": 512,
+              "mean_probability": 0.07552435624649523,
+              "actual_rate": 0.119140625
+            },
+            {
+              "probability_range": [
+                0.1,
+                0.2
+              ],
+              "matches": 590,
+              "mean_probability": 0.13267654335734005,
+              "actual_rate": 0.11694915254237288
+            },
+            {
+              "probability_range": [
+                0.2,
+                0.3
+              ],
+              "matches": 35,
+              "mean_probability": 0.22723253895018047,
+              "actual_rate": 0.11428571428571428
+            },
+            {
+              "probability_range": [
+                0.3,
+                0.4
+              ],
+              "matches": 2,
+              "mean_probability": 0.32669636717357975,
+              "actual_rate": 0.0
+            },
+            {
+              "probability_range": [
+                0.4,
+                0.5
+              ],
+              "matches": 1,
+              "mean_probability": 0.4955388187624146,
+              "actual_rate": 0.0
+            }
+          ]
+        }
+      },
+      "picks": {
+        "top_1x2": {
+          "matches": 1140,
+          "hits": 611,
+          "coverage": 1.0,
+          "hit_rate": 0.5359649122807018,
+          "wilson_95": [
+            0.5069431491410182,
+            0.5647451074505397
+          ],
+          "mean_probability": 0.530037937940754
+        },
+        "top_1x2_at_least_65pct": {
+          "matches": 194,
+          "hits": 145,
+          "coverage": 0.17017543859649123,
+          "hit_rate": 0.7474226804123711,
+          "wilson_95": [
+            0.6818843928586399,
+            0.8033526275932051
+          ]
+        },
+        "top_draw_cover": {
+          "matches": 1140,
+          "hits": 890,
+          "coverage": 1.0,
+          "hit_rate": 0.7807017543859649,
+          "wilson_95": [
+            0.7557618431733344,
+            0.80375625705346
+          ],
+          "mean_probability": 0.7563452765080219
+        },
+        "top_total_2_5": {
+          "matches": 1140,
+          "hits": 640,
+          "coverage": 1.0,
+          "hit_rate": 0.5614035087719298,
+          "wilson_95": [
+            0.5324401001084644,
+            0.5899544843161468
+          ],
+          "mean_probability": 0.5648620454356718
+        },
+        "top_exact_score": {
+          "matches": 1140,
+          "hits": 130,
+          "coverage": 1.0,
+          "hit_rate": 0.11403508771929824,
+          "wilson_95": [
+            0.09686562539956102,
+            0.13379698678859647
+          ]
+        }
+      },
+      "total_goals_mae": 1.2978536577364503,
+      "scoreline_log_loss": 2.977096020437959
+    }
+  }
+}

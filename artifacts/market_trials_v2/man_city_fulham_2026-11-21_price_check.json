@@ -1,0 +1,51 @@
+{
+  "fixture": {
+    "home": "Man City",
+    "away": "Fulham",
+    "date": "2026-11-21"
+  },
+  "forecast_created_utc": "2026-11-15T23:52:06.857181+00:00",
+  "model_sha256": "06aa1171425ae937eceebd90573ff56f685f870934ed78d456947e0977d457cc",
+  "quotes_recorded_utc": "2026-11-16T00:03:09.232552+00:00",
+  "quote_source": "User-reported Betway decimal prices in chat",
+  "provider_quote_observed_at": null,
+  "independently_verified_quote": false,
+  "price_checks": {
+    "under_3.5": {
+      "probability": 0.650589519512329,
+      "entered_odds": 1.6,
+      "fair_odds": 1.5370674903425792,
+      "break_even_probability": 0.625,
+      "estimated_return_per_unit": 0.04094323121972643,
+      "passes_paper_filter": false
+    },
+    "btts_yes": {
+      "probability": 0.5552552141625207,
+      "entered_odds": 1.72,
+      "fair_odds": 1.800973632473273,
+      "break_even_probability": 0.5813953488372093,
+      "estimated_return_per_unit": -0.0449610316404645,
+      "passes_paper_filter": false
+    },
+    "1X": {
+      "probability": 0.8001465763964716,
+      "entered_odds": 1.09,
+      "fair_odds": 1.2497710163350138,
+      "break_even_probability": 0.9174311926605504,
+      "estimated_return_per_unit": -0.12784023172784587,
+      "passes_paper_filter": false
+    }
+  },
+  "minimum_estimated_return": 0.05,
+  "research_probability_floor": 0.75,
+  "research_probability_filter": {
+    "under_3.5": false,
+    "btts_yes": false,
+    "1X": true
+  },
+  "paper_selections": [],
+  "status": "no_selection_passes_fixed_price_filter",
+  "settlement": "unresolved",
+  "realized_return": null,
+  "combined_quote": null
+}

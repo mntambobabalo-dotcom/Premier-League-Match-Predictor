@@ -1,0 +1,237 @@
+{
+  "version": "0.1.0",
+  "matches_total": 1620,
+  "data_start": "2022-08-05",
+  "data_end": "2026-11-08",
+  "split": {
+    "method": "60/20/20 distinct dates; chronological, same-day groups kept together",
+    "train_matches": 978,
+    "calibration_matches": 331,
+    "test_matches": 311,
+    "train_end": "2025-01-19",
+    "calibration_end": "2025-12-21",
+    "test_start": "2025-12-22",
+    "test_end": "2026-11-08"
+  },
+  "model": {
+    "matches": 311,
+    "accuracy": 0.43086816720257237,
+    "log_loss": 1.0699905330847004,
+    "multiclass_brier_sum": 0.6453083700640752,
+    "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+      [
+        95,
+        1,
+        27
+      ],
+      [
+        53,
+        1,
+        40
+      ],
+      [
+        55,
+        1,
+        38
+      ]
+    ]
+  },
+  "training_frequency_baseline": {
+    "matches": 311,
+    "accuracy": 0.3954983922829582,
+    "log_loss": 1.1031718443603737,
+    "multiclass_brier_sum": 0.668937842782831,
+    "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+      [
+        123,
+        0,
+        0
+      ],
+      [
+        94,
+        0,
+        0
+      ],
+      [
+        94,
+        0,
+        0
+      ]
+    ]
+  },
+  "always_home_accuracy": 0.3954983922829582,
+  "temperature": 1.2451659186082953,
+  "reliability": [
+    {
+      "outcome": "H",
+      "lower": 0.0,
+      "count": 6,
+      "mean_probability": 0.0627079575266631,
+      "observed_frequency": 0.3333333333333333
+    },
+    {
+      "outcome": "H",
+      "lower": 0.1,
+      "count": 21,
+      "mean_probability": 0.16139471654623605,
+      "observed_frequency": 0.19047619047619047
+    },
+    {
+      "outcome": "H",
+      "lower": 0.2,
+      "count": 42,
+      "mean_probability": 0.25735976787867926,
+      "observed_frequency": 0.09523809523809523
+    },
+    {
+      "outcome": "H",
+      "lower": 0.30000000000000004,
+      "count": 68,
+      "mean_probability": 0.35304172927231686,
+      "observed_frequency": 0.4117647058823529
+    },
+    {
+      "outcome": "H",
+      "lower": 0.4,
+      "count": 63,
+      "mean_probability": 0.44339209947307745,
+      "observed_frequency": 0.4444444444444444
+    },
+    {
+      "outcome": "H",
+      "lower": 0.5,
+      "count": 55,
+      "mean_probability": 0.541752816724547,
+      "observed_frequency": 0.41818181818181815
+    },
+    {
+      "outcome": "H",
+      "lower": 0.6000000000000001,
+      "count": 41,
+      "mean_probability": 0.6464568575274275,
+      "observed_frequency": 0.5609756097560976
+    },
+    {
+      "outcome": "H",
+      "lower": 0.7000000000000001,
+      "count": 11,
+      "mean_probability": 0.7327999925491564,
+      "observed_frequency": 0.6363636363636364
+    },
+    {
+      "outcome": "H",
+      "lower": 0.8,
+      "count": 3,
+      "mean_probability": 0.8360060716533889,
+      "observed_frequency": 1.0
+    },
+    {
+      "outcome": "H",
+      "lower": 0.9,
+      "count": 1,
+      "mean_probability": 0.9007060322672067,
+      "observed_frequency": 1.0
+    },
+    {
+      "outcome": "D",
+      "lower": 0.0,
+      "count": 1,
+      "mean_probability": 0.08758794299828389,
+      "observed_frequency": 0.0
+    },
+    {
+      "outcome": "D",
+      "lower": 0.1,
+      "count": 28,
+      "mean_probability": 0.17450737286215087,
+      "observed_frequency": 0.25
+    },
+    {
+      "outcome": "D",
+      "lower": 0.2,
+      "count": 246,
+      "mean_probability": 0.2569855140622121,
+      "observed_frequency": 0.3170731707317073
+    },
+    {
+      "outcome": "D",
+      "lower": 0.30000000000000004,
+      "count": 35,
+      "mean_probability": 0.3248284053567555,
+      "observed_frequency": 0.22857142857142856
+    },
+    {
+      "outcome": "D",
+      "lower": 0.4,
+      "count": 1,
+      "mean_probability": 0.4004644647958764,
+      "observed_frequency": 1.0
+    },
+    {
+      "outcome": "A",
+      "lower": 0.0,
+      "count": 23,
+      "mean_probability": 0.06961678464096543,
+      "observed_frequency": 0.08695652173913043
+    },
+    {
+      "outcome": "A",
+      "lower": 0.1,
+      "count": 69,
+      "mean_probability": 0.1538640931049949,
+      "observed_frequency": 0.2463768115942029
+    },
+    {
+      "outcome": "A",
+      "lower": 0.2,
+      "count": 68,
+      "mean_probability": 0.2520885929703408,
+      "observed_frequency": 0.29411764705882354
+    },
+    {
+      "outcome": "A",
+      "lower": 0.30000000000000004,
+      "count": 73,
+      "mean_probability": 0.350413102414602,
+      "observed_frequency": 0.3287671232876712
+    },
+    {
+      "outcome": "A",
+      "lower": 0.4,
+      "count": 37,
+      "mean_probability": 0.4483600129709968,
+      "observed_frequency": 0.32432432432432434
+    },
+    {
+      "outcome": "A",
+      "lower": 0.5,
+      "count": 20,
+      "mean_probability": 0.5421010458922985,
+      "observed_frequency": 0.35
+    },
+    {
+      "outcome": "A",
+      "lower": 0.6000000000000001,
+      "count": 12,
+      "mean_probability": 0.6382626495273007,
+      "observed_frequency": 0.75
+    },
+    {
+      "outcome": "A",
+      "lower": 0.7000000000000001,
+      "count": 9,
+      "mean_probability": 0.7468867665932171,
+      "observed_frequency": 0.3333333333333333
+    }
+  ],
+  "interpretation": "Lower log loss and Brier are better. Accuracy alone does not establish betting value.",
+  "limitations": [
+    "One chronological holdout; not an independent live trial or a profitability backtest.",
+    "Earlier test results update team state for later test dates, never model parameters.",
+    "No injuries, lineups, xG, odds, other competitions or news included.",
+    "Rest means days since last league game, capped at 14; not actual all-competition rest.",
+    "Calibration estimates are uncertain; class bins can be small.",
+    "The saved model retains the evaluated coefficients; it is not refit on the test set.",
+    "New teams cannot be predicted until supported in the model history."
+  ]
+}

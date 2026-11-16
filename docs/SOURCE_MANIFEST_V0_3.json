@@ -1,0 +1,129 @@
+{
+  "checked_utc": "2026-11-10T21:29:16.322392+00:00",
+  "files": [
+    {
+      "season": "2015/16",
+      "file": "1516.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "bd3502a18c38a1597fd9af62e2366b4015006d3528dd4d18b311bd6237bbc085",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2016/17",
+      "file": "1617.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "9625a7652b5f98fbd3e2e4d378c851fc246693f3343e34a72428d5b6e864d3e0",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2017/18",
+      "file": "1718.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "4f3389365ef3f7ac966764ed8ba67cf3b79f5aebed18dd224099c4b2c98bc67b",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2018/19",
+      "file": "1819.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "7c096b3c2ecd54c6993d22eeea73450c2bde11e3457238b226b8f43c62dfc35e",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2019/20",
+      "file": "1920.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "100037618b94f94057400bb02bf6bac4ef74ddaa58cde4b38370839c39caee61",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2020/21",
+      "file": "2021.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "5afe63f69401457b8354eaacee24f9a3e520b3c3af6329564a9783e20d789c62",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2021/22",
+      "file": "2122.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "335afcbabeb2939fa10ab39ba3e8215072d0b577cb8d0705c1e44c56e934e703",
+      "quarantined_stat_pairs_if_enabled": [
+        {
+          "date": "2021-08-15",
+          "home": "Newcastle",
+          "away": "West Ham",
+          "columns": [
+            "AS",
+            "AST"
+          ],
+          "source_values": [
+            8.0,
+            9.0
+          ],
+          "action": "both affected-side shot values marked missing; result retained"
+        }
+      ]
+    },
+    {
+      "season": "2022/23",
+      "file": "2223.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "8442792d3b614c94ea3cf381bd2736805889cc1713169035368fff19c3d02380",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2023/24",
+      "file": "2324.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "b2e057b0ed959f198b0f63d2391c01239f3608e6de5db68edab3f88e04d07ff3",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2024/25",
+      "file": "2425.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "d0c8ce4a96d886cf60cf101f570f4a3893844226f91c7bd769eb568c49edbfa4",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2025/26",
+      "file": "2526.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv",
+      "cached": true,
+      "rows": 380,
+      "sha256": "3e3a8352f9ada6789c508d6ca184424421fed56a30400904a4a327c583407e62",
+      "quarantined_stat_pairs_if_enabled": []
+    },
+    {
+      "season": "2026/27",
+      "file": "2627.csv",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/E0.csv",
+      "cached": true,
+      "rows": 100,
+      "sha256": "d598a5f681e1a9a4acf9dad9fb203b68da6f67e2d195678dbe99e95fbba14593",
+      "quarantined_stat_pairs_if_enabled": []
+    }
+  ],
+  "note": "Private research source; check provider rights before commercial use. Existing files are reused without network requests. No scheduled refresh."
+}

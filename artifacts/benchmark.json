@@ -1,0 +1,2690 @@
+{
+  "version": "0.3.0",
+  "created_utc": "2026-11-10T21:19:27.076996+00:00",
+  "matches_total": 4280,
+  "data_start": "2015-08-08",
+  "data_end": "2026-11-08",
+  "features": [
+    "elo_difference",
+    "recent_points_difference",
+    "recent_goals_for_difference",
+    "recent_goals_against_difference",
+    "league_rest_days_difference",
+    "home_recent_games",
+    "away_recent_games",
+    "home_venue_points",
+    "away_venue_points",
+    "recent_shots_difference",
+    "recent_target_shots_difference",
+    "home_shots_observed",
+    "away_shots_observed",
+    "home_target_shots_observed",
+    "away_target_shots_observed",
+    "home_goals_for_10",
+    "home_goals_against_10",
+    "home_points_10",
+    "home_points_20",
+    "home_draw_rate_10",
+    "home_clean_sheet_rate_10",
+    "home_shots_10",
+    "home_target_shots_10",
+    "home_opponent_target_shots_10",
+    "home_yellows_5",
+    "home_reds_5",
+    "home_previous_reds",
+    "home_corners_5",
+    "home_fouls_5",
+    "home_discipline_observed_5",
+    "home_venue_goals_for_10",
+    "home_venue_goals_against_10",
+    "home_venue_points_10",
+    "home_points_trend_3_vs_10",
+    "home_winless_streak_20",
+    "home_loss_streak_20",
+    "home_absolute_elo",
+    "away_goals_for_10",
+    "away_goals_against_10",
+    "away_points_10",
+    "away_points_20",
+    "away_draw_rate_10",
+    "away_clean_sheet_rate_10",
+    "away_shots_10",
+    "away_target_shots_10",
+    "away_opponent_target_shots_10",
+    "away_yellows_5",
+    "away_reds_5",
+    "away_previous_reds",
+    "away_corners_5",
+    "away_fouls_5",
+    "away_discipline_observed_5",
+    "away_venue_goals_for_10",
+    "away_venue_goals_against_10",
+    "away_venue_points_10",
+    "away_points_trend_3_vs_10",
+    "away_winless_streak_20",
+    "away_loss_streak_20",
+    "away_absolute_elo"
+  ],
+  "coverage": {
+    "shots_rows": 4279,
+    "possession_rows": 0,
+    "discipline_rows": 4280,
+    "availability_paired_rows": 0
+  },
+  "folds": [
+    {
+      "season": "2017/18",
+      "role": "development",
+      "train_matches": 570,
+      "calibration_matches": 190,
+      "test_matches": 380,
+      "train_end": "2017-01-01",
+      "calibration_start": "2017-01-02",
+      "calibration_end": "2017-05-21",
+      "test_start": "2017-08-11",
+      "test_end": "2018-05-13",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.45526315789473687,
+          "log_loss": 1.0671459137898498,
+          "multiclass_brier_sum": 0.6447606548694498,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              173,
+              0,
+              0
+            ],
+            [
+              99,
+              0,
+              0
+            ],
+            [
+              108,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.48947368421052634,
+          "log_loss": 1.0157652751995756,
+          "multiclass_brier_sum": 0.6095643981937146,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              109,
+              31,
+              33
+            ],
+            [
+              53,
+              13,
+              33
+            ],
+            [
+              25,
+              19,
+              64
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9713712629587918,
+          "multiclass_brier_sum": 0.5767242984410461,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              138,
+              0,
+              35
+            ],
+            [
+              71,
+              0,
+              28
+            ],
+            [
+              43,
+              0,
+              65
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5184210526315789,
+          "log_loss": 0.9912496880186874,
+          "multiclass_brier_sum": 0.591690496865801,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              134,
+              6,
+              33
+            ],
+            [
+              67,
+              4,
+              28
+            ],
+            [
+              44,
+              5,
+              59
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.5,
+          "log_loss": 1.0109785477568414,
+          "multiclass_brier_sum": 0.6058582747722852,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              114,
+              27,
+              32
+            ],
+            [
+              54,
+              13,
+              32
+            ],
+            [
+              27,
+              18,
+              63
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9713848105748075,
+          "multiclass_brier_sum": 0.5768650939632648,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              138,
+              0,
+              35
+            ],
+            [
+              72,
+              0,
+              27
+            ],
+            [
+              43,
+              0,
+              65
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5184210526315789,
+          "log_loss": 0.9930717578828511,
+          "multiclass_brier_sum": 0.5922728524498486,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              134,
+              5,
+              34
+            ],
+            [
+              67,
+              3,
+              29
+            ],
+            [
+              44,
+              4,
+              60
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2018/19",
+      "role": "development",
+      "train_matches": 950,
+      "calibration_matches": 190,
+      "test_matches": 380,
+      "train_end": "2017-12-23",
+      "calibration_start": "2017-12-26",
+      "calibration_end": "2018-05-13",
+      "test_start": "2018-08-10",
+      "test_end": "2019-05-12",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.4763157894736842,
+          "log_loss": 1.045291910379916,
+          "multiclass_brier_sum": 0.6309783262848553,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              181,
+              0,
+              0
+            ],
+            [
+              71,
+              0,
+              0
+            ],
+            [
+              128,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.949721047822758,
+          "multiclass_brier_sum": 0.563563546033083,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              138,
+              18,
+              25
+            ],
+            [
+              49,
+              9,
+              13
+            ],
+            [
+              47,
+              25,
+              56
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5657894736842105,
+          "log_loss": 0.923639799063232,
+          "multiclass_brier_sum": 0.5436247784678406,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              144,
+              0,
+              37
+            ],
+            [
+              51,
+              0,
+              20
+            ],
+            [
+              57,
+              0,
+              71
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5868421052631579,
+          "log_loss": 0.9257856454224054,
+          "multiclass_brier_sum": 0.5455658339541105,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              148,
+              6,
+              27
+            ],
+            [
+              50,
+              4,
+              17
+            ],
+            [
+              53,
+              4,
+              71
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.5473684210526316,
+          "log_loss": 0.9474502265129319,
+          "multiclass_brier_sum": 0.5616878290909572,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              141,
+              15,
+              25
+            ],
+            [
+              49,
+              9,
+              13
+            ],
+            [
+              49,
+              21,
+              58
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5736842105263158,
+          "log_loss": 0.9235004867652172,
+          "multiclass_brier_sum": 0.5433756709057048,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              146,
+              0,
+              35
+            ],
+            [
+              51,
+              0,
+              20
+            ],
+            [
+              56,
+              0,
+              72
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5894736842105263,
+          "log_loss": 0.9268128150429206,
+          "multiclass_brier_sum": 0.5451730152787367,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              149,
+              3,
+              29
+            ],
+            [
+              51,
+              3,
+              17
+            ],
+            [
+              52,
+              4,
+              72
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2019/20",
+      "role": "development",
+      "train_matches": 1330,
+      "calibration_matches": 190,
+      "test_matches": 380,
+      "train_end": "2018-12-27",
+      "calibration_start": "2018-12-29",
+      "calibration_end": "2019-05-12",
+      "test_start": "2019-08-09",
+      "test_end": "2020-07-26",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.45263157894736844,
+          "log_loss": 1.0644979449688972,
+          "multiclass_brier_sum": 0.6433733991203016,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              172,
+              0,
+              0
+            ],
+            [
+              92,
+              0,
+              0
+            ],
+            [
+              116,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.5,
+          "log_loss": 1.0263610742631915,
+          "multiclass_brier_sum": 0.6049000979186556,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              128,
+              6,
+              38
+            ],
+            [
+              60,
+              3,
+              29
+            ],
+            [
+              48,
+              9,
+              59
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5236842105263158,
+          "log_loss": 0.9893371116113989,
+          "multiclass_brier_sum": 0.586887473568718,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              134,
+              0,
+              38
+            ],
+            [
+              68,
+              0,
+              24
+            ],
+            [
+              51,
+              0,
+              65
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5184210526315789,
+          "log_loss": 1.0074141662991682,
+          "multiclass_brier_sum": 0.5992416591038077,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              133,
+              3,
+              36
+            ],
+            [
+              60,
+              2,
+              30
+            ],
+            [
+              50,
+              4,
+              62
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.49473684210526314,
+          "log_loss": 1.0274173037361976,
+          "multiclass_brier_sum": 0.6067662412828103,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              126,
+              6,
+              40
+            ],
+            [
+              60,
+              3,
+              29
+            ],
+            [
+              48,
+              9,
+              59
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5289473684210526,
+          "log_loss": 0.9888513742410269,
+          "multiclass_brier_sum": 0.5867113222200845,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              136,
+              0,
+              36
+            ],
+            [
+              66,
+              0,
+              26
+            ],
+            [
+              51,
+              0,
+              65
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5157894736842106,
+          "log_loss": 1.0049878659592881,
+          "multiclass_brier_sum": 0.5979272765750968,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              134,
+              0,
+              38
+            ],
+            [
+              60,
+              2,
+              30
+            ],
+            [
+              53,
+              3,
+              60
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2020/21",
+      "role": "development",
+      "train_matches": 1709,
+      "calibration_matches": 191,
+      "test_matches": 380,
+      "train_end": "2019-12-27",
+      "calibration_start": "2019-12-28",
+      "calibration_end": "2020-07-26",
+      "test_start": "2020-09-12",
+      "test_end": "2021-05-23",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.37894736842105264,
+          "log_loss": 1.0881176591901256,
+          "multiclass_brier_sum": 0.662377855052843,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              144,
+              0,
+              0
+            ],
+            [
+              83,
+              0,
+              0
+            ],
+            [
+              153,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.4842105263157895,
+          "log_loss": 1.057747279921781,
+          "multiclass_brier_sum": 0.627836965671317,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              124,
+              3,
+              17
+            ],
+            [
+              58,
+              8,
+              17
+            ],
+            [
+              94,
+              7,
+              52
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.48947368421052634,
+          "log_loss": 1.0259514326687784,
+          "multiclass_brier_sum": 0.6115193125058342,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              119,
+              0,
+              25
+            ],
+            [
+              52,
+              0,
+              31
+            ],
+            [
+              86,
+              0,
+              67
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.4710526315789474,
+          "log_loss": 1.0444596607324879,
+          "multiclass_brier_sum": 0.6210020629029713,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              116,
+              6,
+              22
+            ],
+            [
+              57,
+              1,
+              25
+            ],
+            [
+              82,
+              9,
+              62
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.46842105263157896,
+          "log_loss": 1.0593399223579305,
+          "multiclass_brier_sum": 0.6301462755006703,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              119,
+              5,
+              20
+            ],
+            [
+              59,
+              6,
+              18
+            ],
+            [
+              92,
+              8,
+              53
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.49736842105263157,
+          "log_loss": 1.0246376689674006,
+          "multiclass_brier_sum": 0.6107387868779064,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              120,
+              0,
+              24
+            ],
+            [
+              49,
+              0,
+              34
+            ],
+            [
+              84,
+              0,
+              69
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.48947368421052634,
+          "log_loss": 1.0415403187459764,
+          "multiclass_brier_sum": 0.619913813196176,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              120,
+              7,
+              17
+            ],
+            [
+              58,
+              0,
+              25
+            ],
+            [
+              78,
+              9,
+              66
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2021/22",
+      "role": "development",
+      "train_matches": 2089,
+      "calibration_matches": 191,
+      "test_matches": 380,
+      "train_end": "2021-01-26",
+      "calibration_start": "2021-01-27",
+      "calibration_end": "2021-05-23",
+      "test_start": "2021-08-13",
+      "test_end": "2022-05-22",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.42894736842105263,
+          "log_loss": 1.070338373266103,
+          "multiclass_brier_sum": 0.6483712974915966,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              163,
+              0,
+              0
+            ],
+            [
+              88,
+              0,
+              0
+            ],
+            [
+              129,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.5263157894736842,
+          "log_loss": 0.993000681778913,
+          "multiclass_brier_sum": 0.5899093861967892,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              129,
+              5,
+              29
+            ],
+            [
+              58,
+              3,
+              27
+            ],
+            [
+              55,
+              6,
+              68
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.972492627521458,
+          "multiclass_brier_sum": 0.5777597777976233,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              129,
+              0,
+              34
+            ],
+            [
+              59,
+              0,
+              29
+            ],
+            [
+              55,
+              0,
+              74
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9842692689236292,
+          "multiclass_brier_sum": 0.584440314185483,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              124,
+              0,
+              39
+            ],
+            [
+              55,
+              1,
+              32
+            ],
+            [
+              48,
+              3,
+              78
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.5263157894736842,
+          "log_loss": 0.9961899664825287,
+          "multiclass_brier_sum": 0.592099084917676,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              129,
+              5,
+              29
+            ],
+            [
+              55,
+              4,
+              29
+            ],
+            [
+              57,
+              5,
+              67
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9726846135697078,
+          "multiclass_brier_sum": 0.5779327312641199,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              128,
+              0,
+              35
+            ],
+            [
+              55,
+              0,
+              33
+            ],
+            [
+              54,
+              0,
+              75
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5447368421052632,
+          "log_loss": 0.9847766059281351,
+          "multiclass_brier_sum": 0.5849216112431533,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              124,
+              1,
+              38
+            ],
+            [
+              55,
+              1,
+              32
+            ],
+            [
+              47,
+              0,
+              82
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2022/23",
+      "role": "development",
+      "train_matches": 2470,
+      "calibration_matches": 190,
+      "test_matches": 380,
+      "train_end": "2022-01-02",
+      "calibration_start": "2022-01-03",
+      "calibration_end": "2022-05-22",
+      "test_start": "2022-08-05",
+      "test_end": "2023-05-28",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.4842105263157895,
+          "log_loss": 1.0507872362017023,
+          "multiclass_brier_sum": 0.6337823693282475,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              184,
+              0,
+              0
+            ],
+            [
+              87,
+              0,
+              0
+            ],
+            [
+              109,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9857955653771986,
+          "multiclass_brier_sum": 0.5873249876075968,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              139,
+              5,
+              40
+            ],
+            [
+              54,
+              0,
+              33
+            ],
+            [
+              45,
+              0,
+              64
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5394736842105263,
+          "log_loss": 0.9815792900618007,
+          "multiclass_brier_sum": 0.5845081890429731,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              147,
+              0,
+              37
+            ],
+            [
+              51,
+              0,
+              36
+            ],
+            [
+              51,
+              0,
+              58
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5368421052631579,
+          "log_loss": 0.9795651493632342,
+          "multiclass_brier_sum": 0.5825943940942286,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              143,
+              1,
+              40
+            ],
+            [
+              53,
+              0,
+              34
+            ],
+            [
+              48,
+              0,
+              61
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.531578947368421,
+          "log_loss": 0.9900575847264047,
+          "multiclass_brier_sum": 0.5900733395686727,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              137,
+              3,
+              44
+            ],
+            [
+              52,
+              0,
+              35
+            ],
+            [
+              44,
+              0,
+              65
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5342105263157895,
+          "log_loss": 0.9832570213752713,
+          "multiclass_brier_sum": 0.5856529628800384,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              141,
+              0,
+              43
+            ],
+            [
+              49,
+              0,
+              38
+            ],
+            [
+              47,
+              0,
+              62
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5394736842105263,
+          "log_loss": 0.9876919894977347,
+          "multiclass_brier_sum": 0.5874041407497101,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              142,
+              2,
+              40
+            ],
+            [
+              52,
+              1,
+              34
+            ],
+            [
+              47,
+              0,
+              62
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2023/24",
+      "role": "development",
+      "train_matches": 2849,
+      "calibration_matches": 191,
+      "test_matches": 380,
+      "train_end": "2023-01-19",
+      "calibration_start": "2023-01-21",
+      "calibration_end": "2023-05-28",
+      "test_start": "2023-08-11",
+      "test_end": "2024-05-19",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.4605263157894737,
+          "log_loss": 1.0541170463562897,
+          "multiclass_brier_sum": 0.6371740750683481,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              175,
+              0,
+              0
+            ],
+            [
+              82,
+              0,
+              0
+            ],
+            [
+              123,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.6,
+          "log_loss": 0.9306935914591072,
+          "multiclass_brier_sum": 0.5480147123289728,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              151,
+              1,
+              23
+            ],
+            [
+              52,
+              1,
+              29
+            ],
+            [
+              43,
+              4,
+              76
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.6026315789473684,
+          "log_loss": 0.9205129125910628,
+          "multiclass_brier_sum": 0.5405371171248362,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              149,
+              0,
+              26
+            ],
+            [
+              51,
+              0,
+              31
+            ],
+            [
+              43,
+              0,
+              80
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5789473684210527,
+          "log_loss": 0.9347336707022788,
+          "multiclass_brier_sum": 0.5493622111791125,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              145,
+              0,
+              30
+            ],
+            [
+              54,
+              0,
+              28
+            ],
+            [
+              47,
+              1,
+              75
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.6052631578947368,
+          "log_loss": 0.9328220409718483,
+          "multiclass_brier_sum": 0.5493221853980543,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              150,
+              1,
+              24
+            ],
+            [
+              53,
+              1,
+              28
+            ],
+            [
+              43,
+              1,
+              79
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5973684210526315,
+          "log_loss": 0.9194230288581225,
+          "multiclass_brier_sum": 0.5399299150262519,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              145,
+              0,
+              30
+            ],
+            [
+              49,
+              0,
+              33
+            ],
+            [
+              41,
+              0,
+              82
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5868421052631579,
+          "log_loss": 0.9352056824122918,
+          "multiclass_brier_sum": 0.5496510912477977,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              146,
+              0,
+              29
+            ],
+            [
+              50,
+              0,
+              32
+            ],
+            [
+              45,
+              1,
+              77
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2024/25",
+      "role": "development",
+      "train_matches": 3228,
+      "calibration_matches": 192,
+      "test_matches": 380,
+      "train_end": "2023-12-28",
+      "calibration_start": "2023-12-30",
+      "calibration_end": "2024-05-19",
+      "test_start": "2024-08-16",
+      "test_end": "2025-05-25",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.40789473684210525,
+          "log_loss": 1.0809599914025048,
+          "multiclass_brier_sum": 0.6556298260824686,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              155,
+              0,
+              0
+            ],
+            [
+              93,
+              0,
+              0
+            ],
+            [
+              132,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.5078947368421053,
+          "log_loss": 1.0101698216059962,
+          "multiclass_brier_sum": 0.6026914233467183,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              128,
+              1,
+              26
+            ],
+            [
+              64,
+              1,
+              28
+            ],
+            [
+              67,
+              1,
+              64
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5368421052631579,
+          "log_loss": 0.9905519517954513,
+          "multiclass_brier_sum": 0.5917569593914536,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              130,
+              0,
+              25
+            ],
+            [
+              65,
+              0,
+              28
+            ],
+            [
+              58,
+              0,
+              74
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.5210526315789473,
+          "log_loss": 1.0116005266408192,
+          "multiclass_brier_sum": 0.6026822256060417,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              126,
+              0,
+              29
+            ],
+            [
+              60,
+              1,
+              32
+            ],
+            [
+              61,
+              0,
+              71
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.5131578947368421,
+          "log_loss": 1.0034605823519165,
+          "multiclass_brier_sum": 0.5991112819721574,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              128,
+              1,
+              26
+            ],
+            [
+              61,
+              2,
+              30
+            ],
+            [
+              67,
+              0,
+              65
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.5447368421052632,
+          "log_loss": 0.9902380132716503,
+          "multiclass_brier_sum": 0.5913981528680231,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              131,
+              0,
+              24
+            ],
+            [
+              64,
+              0,
+              29
+            ],
+            [
+              56,
+              0,
+              76
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.5184210526315789,
+          "log_loss": 1.0034276472136645,
+          "multiclass_brier_sum": 0.5973332143550629,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              125,
+              2,
+              28
+            ],
+            [
+              62,
+              0,
+              31
+            ],
+            [
+              60,
+              0,
+              72
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2025/26",
+      "role": "development",
+      "train_matches": 3609,
+      "calibration_matches": 191,
+      "test_matches": 380,
+      "train_end": "2025-01-01",
+      "calibration_start": "2025-01-04",
+      "calibration_end": "2025-05-25",
+      "test_start": "2025-08-15",
+      "test_end": "2026-05-24",
+      "models": {
+        "training_frequency": {
+          "matches": 380,
+          "accuracy": 0.4263157894736842,
+          "log_loss": 1.0835015056789712,
+          "multiclass_brier_sum": 0.6556885611360292,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              162,
+              0,
+              0
+            ],
+            [
+              104,
+              0,
+              0
+            ],
+            [
+              114,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 380,
+          "accuracy": 0.4842105263157895,
+          "log_loss": 1.0346401575038406,
+          "multiclass_brier_sum": 0.6230498995065153,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              133,
+              2,
+              27
+            ],
+            [
+              65,
+              0,
+              39
+            ],
+            [
+              62,
+              1,
+              51
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 380,
+          "accuracy": 0.4921052631578947,
+          "log_loss": 1.031131741573092,
+          "multiclass_brier_sum": 0.6195142178903894,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              130,
+              0,
+              32
+            ],
+            [
+              62,
+              0,
+              42
+            ],
+            [
+              57,
+              0,
+              57
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 380,
+          "accuracy": 0.4710526315789474,
+          "log_loss": 1.0399892990507287,
+          "multiclass_brier_sum": 0.625716703815884,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              122,
+              1,
+              39
+            ],
+            [
+              63,
+              0,
+              41
+            ],
+            [
+              57,
+              0,
+              57
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 380,
+          "accuracy": 0.4789473684210526,
+          "log_loss": 1.037870223473222,
+          "multiclass_brier_sum": 0.6238389304539598,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              131,
+              1,
+              30
+            ],
+            [
+              63,
+              2,
+              39
+            ],
+            [
+              65,
+              0,
+              49
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 380,
+          "accuracy": 0.4842105263157895,
+          "log_loss": 1.0294345969881458,
+          "multiclass_brier_sum": 0.6179775295849413,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              127,
+              0,
+              35
+            ],
+            [
+              58,
+              0,
+              46
+            ],
+            [
+              57,
+              0,
+              57
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 380,
+          "accuracy": 0.47368421052631576,
+          "log_loss": 1.0378511078707984,
+          "multiclass_brier_sum": 0.6243514642023198,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              124,
+              0,
+              38
+            ],
+            [
+              63,
+              0,
+              41
+            ],
+            [
+              58,
+              0,
+              56
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "season": "2026/27",
+      "role": "audit",
+      "train_matches": 3990,
+      "calibration_matches": 190,
+      "test_matches": 100,
+      "train_end": "2026-01-01",
+      "calibration_start": "2026-01-03",
+      "calibration_end": "2026-05-24",
+      "test_start": "2026-08-21",
+      "test_end": "2026-11-08",
+      "models": {
+        "training_frequency": {
+          "matches": 100,
+          "accuracy": 0.42,
+          "log_loss": 1.0845570404268001,
+          "multiclass_brier_sum": 0.6566893265317989,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              42,
+              0,
+              0
+            ],
+            [
+              27,
+              0,
+              0
+            ],
+            [
+              31,
+              0,
+              0
+            ]
+          ]
+        },
+        "multinomial_logistic_regression": {
+          "matches": 100,
+          "accuracy": 0.42,
+          "log_loss": 1.0425313595324994,
+          "multiclass_brier_sum": 0.6256258425121647,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              30,
+              2,
+              10
+            ],
+            [
+              16,
+              1,
+              10
+            ],
+            [
+              20,
+              0,
+              11
+            ]
+          ]
+        },
+        "independent_poisson": {
+          "matches": 100,
+          "accuracy": 0.41,
+          "log_loss": 1.0355962008921782,
+          "multiclass_brier_sum": 0.621759180788194,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              28,
+              0,
+              14
+            ],
+            [
+              21,
+              0,
+              6
+            ],
+            [
+              18,
+              0,
+              13
+            ]
+          ]
+        },
+        "xgboost": {
+          "matches": 100,
+          "accuracy": 0.45,
+          "log_loss": 1.0425897758573532,
+          "multiclass_brier_sum": 0.6268743966349974,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              32,
+              0,
+              10
+            ],
+            [
+              16,
+              0,
+              11
+            ],
+            [
+              18,
+              0,
+              13
+            ]
+          ]
+        },
+        "recent_logistic": {
+          "matches": 100,
+          "accuracy": 0.43,
+          "log_loss": 1.0384822636185862,
+          "multiclass_brier_sum": 0.6226967662882409,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              29,
+              2,
+              11
+            ],
+            [
+              16,
+              1,
+              10
+            ],
+            [
+              18,
+              0,
+              13
+            ]
+          ]
+        },
+        "recent_poisson": {
+          "matches": 100,
+          "accuracy": 0.4,
+          "log_loss": 1.034305225943864,
+          "multiclass_brier_sum": 0.621085500478827,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              27,
+              0,
+              15
+            ],
+            [
+              21,
+              0,
+              6
+            ],
+            [
+              18,
+              0,
+              13
+            ]
+          ]
+        },
+        "recent_xgboost": {
+          "matches": 100,
+          "accuracy": 0.44,
+          "log_loss": 1.0437749090715562,
+          "multiclass_brier_sum": 0.6273942651616522,
+          "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+            [
+              30,
+              0,
+              12
+            ],
+            [
+              18,
+              0,
+              9
+            ],
+            [
+              17,
+              0,
+              14
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "development": {
+    "training_frequency": {
+      "matches": 3420,
+      "accuracy": 0.4412280701754386,
+      "log_loss": 1.0671952868038177,
+      "multiclass_brier_sum": 0.6457929293815711,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1509,
+          0,
+          0
+        ],
+        [
+          799,
+          0,
+          0
+        ],
+        [
+          1112,
+          0,
+          0
+        ]
+      ]
+    },
+    "multinomial_logistic_regression": {
+      "matches": 3420,
+      "accuracy": 0.5178362573099415,
+      "log_loss": 1.0004327216591513,
+      "multiclass_brier_sum": 0.5952061574225959,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1179,
+          72,
+          258
+        ],
+        [
+          513,
+          38,
+          248
+        ],
+        [
+          486,
+          72,
+          554
+        ]
+      ]
+    },
+    "independent_poisson": {
+      "matches": 3420,
+      "accuracy": 0.5353801169590643,
+      "log_loss": 0.9785075699827851,
+      "multiclass_brier_sum": 0.5814257915811905,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1220,
+          0,
+          289
+        ],
+        [
+          530,
+          0,
+          269
+        ],
+        [
+          501,
+          0,
+          611
+        ]
+      ]
+    },
+    "xgboost": {
+      "matches": 3420,
+      "accuracy": 0.5263157894736842,
+      "log_loss": 0.9910074527948266,
+      "multiclass_brier_sum": 0.5891439890786044,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1191,
+          23,
+          295
+        ],
+        [
+          519,
+          13,
+          267
+        ],
+        [
+          490,
+          26,
+          596
+        ]
+      ]
+    },
+    "recent_logistic": {
+      "matches": 3420,
+      "accuracy": 0.5184210526315789,
+      "log_loss": 1.0006207109299803,
+      "multiclass_brier_sum": 0.5954337158841382,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1175,
+          64,
+          270
+        ],
+        [
+          506,
+          40,
+          253
+        ],
+        [
+          492,
+          62,
+          558
+        ]
+      ]
+    },
+    "recent_poisson": {
+      "matches": 3420,
+      "accuracy": 0.5365497076023392,
+      "log_loss": 0.9781568460679279,
+      "multiclass_brier_sum": 0.5811757961767039,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1212,
+          0,
+          297
+        ],
+        [
+          513,
+          0,
+          286
+        ],
+        [
+          489,
+          0,
+          623
+        ]
+      ]
+    },
+    "recent_xgboost": {
+      "matches": 3420,
+      "accuracy": 0.5307017543859649,
+      "log_loss": 0.9905961989504068,
+      "multiclass_brier_sum": 0.5887720532553224,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          1198,
+          20,
+          291
+        ],
+        [
+          518,
+          10,
+          271
+        ],
+        [
+          484,
+          21,
+          607
+        ]
+      ]
+    }
+  },
+  "audit": {
+    "training_frequency": {
+      "matches": 100,
+      "accuracy": 0.42,
+      "log_loss": 1.0845570404268001,
+      "multiclass_brier_sum": 0.6566893265317989,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          42,
+          0,
+          0
+        ],
+        [
+          27,
+          0,
+          0
+        ],
+        [
+          31,
+          0,
+          0
+        ]
+      ]
+    },
+    "multinomial_logistic_regression": {
+      "matches": 100,
+      "accuracy": 0.42,
+      "log_loss": 1.0425313595324994,
+      "multiclass_brier_sum": 0.6256258425121647,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          30,
+          2,
+          10
+        ],
+        [
+          16,
+          1,
+          10
+        ],
+        [
+          20,
+          0,
+          11
+        ]
+      ]
+    },
+    "independent_poisson": {
+      "matches": 100,
+      "accuracy": 0.41,
+      "log_loss": 1.0355962008921782,
+      "multiclass_brier_sum": 0.621759180788194,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          28,
+          0,
+          14
+        ],
+        [
+          21,
+          0,
+          6
+        ],
+        [
+          18,
+          0,
+          13
+        ]
+      ]
+    },
+    "xgboost": {
+      "matches": 100,
+      "accuracy": 0.45,
+      "log_loss": 1.0425897758573532,
+      "multiclass_brier_sum": 0.6268743966349974,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          32,
+          0,
+          10
+        ],
+        [
+          16,
+          0,
+          11
+        ],
+        [
+          18,
+          0,
+          13
+        ]
+      ]
+    },
+    "recent_logistic": {
+      "matches": 100,
+      "accuracy": 0.43,
+      "log_loss": 1.0384822636185862,
+      "multiclass_brier_sum": 0.6226967662882409,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          29,
+          2,
+          11
+        ],
+        [
+          16,
+          1,
+          10
+        ],
+        [
+          18,
+          0,
+          13
+        ]
+      ]
+    },
+    "recent_poisson": {
+      "matches": 100,
+      "accuracy": 0.4,
+      "log_loss": 1.034305225943864,
+      "multiclass_brier_sum": 0.621085500478827,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          27,
+          0,
+          15
+        ],
+        [
+          21,
+          0,
+          6
+        ],
+        [
+          18,
+          0,
+          13
+        ]
+      ]
+    },
+    "recent_xgboost": {
+      "matches": 100,
+      "accuracy": 0.44,
+      "log_loss": 1.0437749090715562,
+      "multiclass_brier_sum": 0.6273942651616522,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          30,
+          0,
+          12
+        ],
+        [
+          18,
+          0,
+          9
+        ],
+        [
+          17,
+          0,
+          14
+        ]
+      ]
+    }
+  },
+  "selected_model": "recent_poisson",
+  "selection_rule": "lowest pooled log loss on up to three most recent development seasons; audit excluded",
+  "selection_seasons": [
+    "2023/24",
+    "2024/25",
+    "2025/26"
+  ],
+  "selection_metrics": {
+    "training_frequency": {
+      "matches": 1140,
+      "accuracy": 0.43157894736842106,
+      "log_loss": 1.0728595144792552,
+      "multiclass_brier_sum": 0.6494974874289485,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          492,
+          0,
+          0
+        ],
+        [
+          279,
+          0,
+          0
+        ],
+        [
+          369,
+          0,
+          0
+        ]
+      ]
+    },
+    "multinomial_logistic_regression": {
+      "matches": 1140,
+      "accuracy": 0.5307017543859649,
+      "log_loss": 0.9918345235229814,
+      "multiclass_brier_sum": 0.591252011727402,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          412,
+          4,
+          76
+        ],
+        [
+          181,
+          2,
+          96
+        ],
+        [
+          172,
+          6,
+          191
+        ]
+      ]
+    },
+    "independent_poisson": {
+      "matches": 1140,
+      "accuracy": 0.543859649122807,
+      "log_loss": 0.9807322019865354,
+      "multiclass_brier_sum": 0.5839360981355598,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          409,
+          0,
+          83
+        ],
+        [
+          178,
+          0,
+          101
+        ],
+        [
+          158,
+          0,
+          211
+        ]
+      ]
+    },
+    "xgboost": {
+      "matches": 1140,
+      "accuracy": 0.5236842105263158,
+      "log_loss": 0.9954411654646089,
+      "multiclass_brier_sum": 0.5925870468670127,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          393,
+          1,
+          98
+        ],
+        [
+          177,
+          1,
+          101
+        ],
+        [
+          165,
+          1,
+          203
+        ]
+      ]
+    },
+    "recent_logistic": {
+      "matches": 1140,
+      "accuracy": 0.5324561403508772,
+      "log_loss": 0.9913842822656623,
+      "multiclass_brier_sum": 0.5907574659413906,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          409,
+          3,
+          80
+        ],
+        [
+          177,
+          5,
+          97
+        ],
+        [
+          175,
+          1,
+          193
+        ]
+      ]
+    },
+    "recent_poisson": {
+      "matches": 1140,
+      "accuracy": 0.5421052631578948,
+      "log_loss": 0.9796985463726394,
+      "multiclass_brier_sum": 0.5831018658264054,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          403,
+          0,
+          89
+        ],
+        [
+          171,
+          0,
+          108
+        ],
+        [
+          154,
+          0,
+          215
+        ]
+      ]
+    },
+    "recent_xgboost": {
+      "matches": 1140,
+      "accuracy": 0.5263157894736842,
+      "log_loss": 0.9921614791655848,
+      "multiclass_brier_sum": 0.5904452566017269,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          395,
+          2,
+          95
+        ],
+        [
+          175,
+          0,
+          104
+        ],
+        [
+          163,
+          1,
+          205
+        ]
+      ]
+    }
+  },
+  "calibration_matches_requested": 190,
+  "latest_paper_model": {
+    "purpose": "latest_refit_for_future_paper_trial_not_out_of_sample_tested",
+    "parameters_fit_through": "2026-03-04",
+    "calibrated_through": "2026-11-08",
+    "history_through": "2026-11-08"
+  },
+  "data_fingerprints": [
+    {
+      "file": "1516.csv",
+      "sha256": "bd3502a18c38a1597fd9af62e2366b4015006d3528dd4d18b311bd6237bbc085",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "1617.csv",
+      "sha256": "9625a7652b5f98fbd3e2e4d378c851fc246693f3343e34a72428d5b6e864d3e0",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "1718.csv",
+      "sha256": "4f3389365ef3f7ac966764ed8ba67cf3b79f5aebed18dd224099c4b2c98bc67b",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "1819.csv",
+      "sha256": "7c096b3c2ecd54c6993d22eeea73450c2bde11e3457238b226b8f43c62dfc35e",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "1920.csv",
+      "sha256": "100037618b94f94057400bb02bf6bac4ef74ddaa58cde4b38370839c39caee61",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2021.csv",
+      "sha256": "5afe63f69401457b8354eaacee24f9a3e520b3c3af6329564a9783e20d789c62",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2122.csv",
+      "sha256": "335afcbabeb2939fa10ab39ba3e8215072d0b577cb8d0705c1e44c56e934e703",
+      "rows": 380,
+      "quarantined_stat_pairs": [
+        {
+          "date": "2021-08-15",
+          "home": "Newcastle",
+          "away": "West Ham",
+          "columns": [
+            "AS",
+            "AST"
+          ],
+          "source_values": [
+            8.0,
+            9.0
+          ],
+          "action": "both affected-side shot values marked missing; result retained"
+        }
+      ],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2223.csv",
+      "sha256": "8442792d3b614c94ea3cf381bd2736805889cc1713169035368fff19c3d02380",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2324.csv",
+      "sha256": "b2e057b0ed959f198b0f63d2391c01239f3608e6de5db68edab3f88e04d07ff3",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2425.csv",
+      "sha256": "d0c8ce4a96d886cf60cf101f570f4a3893844226f91c7bd769eb568c49edbfa4",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2526.csv",
+      "sha256": "3e3a8352f9ada6789c508d6ca184424421fed56a30400904a4a327c583407e62",
+      "rows": 380,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    },
+    {
+      "file": "2627.csv",
+      "sha256": "d598a5f681e1a9a4acf9dad9fb203b68da6f67e2d195678dbe99e95fbba14593",
+      "rows": 100,
+      "quarantined_stat_pairs": [],
+      "season_source": "season filename"
+    }
+  ],
+  "data_quality": {
+    "quarantined_stat_pairs": 1,
+    "results_discarded_by_quarantine": 0
+  },
+  "limitations": [
+    "Historical exploratory research; portions of this data were already viewed in v0.1, so the final audit is not a pristine external holdout.",
+    "Latest season can be partial. Source season identity preserves the July 2020 conclusion of 2019/20; generic files need explicit Season for exceptions.",
+    "Test parameters are frozen per season; team state updates after each earlier match date.",
+    "Fixed candidate configurations; no tuning against audit results.",
+    "Possession is absent unless explicitly supplied with availability timestamps; it is never fabricated.",
+    "Shots are previous-match stats, assumed available by the next match date. Publication/revision timing is not audited.",
+    "Injuries/suspensions are included only when pre-match historical snapshots are supplied; missing availability is never called healthy.",
+    "Prior yellow/red cards describe past discipline, not known future suspensions. No player-level ban inference is made.",
+    "No live odds or profitability evaluation. No bookmaker edge established.",
+    "Latest paper model is refit on newer history and has no independent measured performance yet."
+  ],
+  "selected_audit_reliability": [
+    {
+      "outcome": "H",
+      "lower": 0.2,
+      "count": 10,
+      "mean_probability": 0.2710849264730087,
+      "observed_frequency": 0.2
+    },
+    {
+      "outcome": "H",
+      "lower": 0.30000000000000004,
+      "count": 38,
+      "mean_probability": 0.3497935572919003,
+      "observed_frequency": 0.39473684210526316
+    },
+    {
+      "outcome": "H",
+      "lower": 0.4,
+      "count": 38,
+      "mean_probability": 0.44277918998031734,
+      "observed_frequency": 0.34210526315789475
+    },
+    {
+      "outcome": "H",
+      "lower": 0.5,
+      "count": 7,
+      "mean_probability": 0.5448436280168368,
+      "observed_frequency": 0.7142857142857143
+    },
+    {
+      "outcome": "H",
+      "lower": 0.6000000000000001,
+      "count": 5,
+      "mean_probability": 0.636132730524906,
+      "observed_frequency": 1.0
+    },
+    {
+      "outcome": "H",
+      "lower": 0.7000000000000001,
+      "count": 2,
+      "mean_probability": 0.7334560362198123,
+      "observed_frequency": 1.0
+    },
+    {
+      "outcome": "D",
+      "lower": 0.1,
+      "count": 2,
+      "mean_probability": 0.17113875142531423,
+      "observed_frequency": 0.0
+    },
+    {
+      "outcome": "D",
+      "lower": 0.2,
+      "count": 97,
+      "mean_probability": 0.2658369682525927,
+      "observed_frequency": 0.27835051546391754
+    },
+    {
+      "outcome": "D",
+      "lower": 0.30000000000000004,
+      "count": 1,
+      "mean_probability": 0.30118755026520116,
+      "observed_frequency": 0.0
+    },
+    {
+      "outcome": "A",
+      "lower": 0.0,
+      "count": 1,
+      "mean_probability": 0.0867956748506243,
+      "observed_frequency": 0.0
+    },
+    {
+      "outcome": "A",
+      "lower": 0.1,
+      "count": 8,
+      "mean_probability": 0.15445119828335657,
+      "observed_frequency": 0.0
+    },
+    {
+      "outcome": "A",
+      "lower": 0.2,
+      "count": 28,
+      "mean_probability": 0.2617631618857425,
+      "observed_frequency": 0.21428571428571427
+    },
+    {
+      "outcome": "A",
+      "lower": 0.30000000000000004,
+      "count": 41,
+      "mean_probability": 0.3421162517695227,
+      "observed_frequency": 0.36585365853658536
+    },
+    {
+      "outcome": "A",
+      "lower": 0.4,
+      "count": 20,
+      "mean_probability": 0.4293801367124364,
+      "observed_frequency": 0.4
+    },
+    {
+      "outcome": "A",
+      "lower": 0.5,
+      "count": 2,
+      "mean_probability": 0.5070556967044402,
+      "observed_frequency": 1.0
+    }
+  ],
+  "confidence_subsets": [
+    {
+      "threshold": 0.5,
+      "matches": 16,
+      "total_matches": 100,
+      "coverage": 0.16,
+      "metrics": {
+        "matches": 16,
+        "accuracy": 0.875,
+        "log_loss": 0.6308503606694591,
+        "multiclass_brier_sum": 0.3318909418359063,
+        "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+          [
+            12,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            2
+          ]
+        ]
+      },
+      "accuracy_wilson_95_interval": [
+        0.6397666856325173,
+        0.9650232506629428
+      ]
+    },
+    {
+      "threshold": 0.6,
+      "matches": 7,
+      "total_matches": 100,
+      "coverage": 0.07,
+      "metrics": {
+        "matches": 7,
+        "accuracy": 1.0,
+        "log_loss": 0.41203950453051225,
+        "multiclass_brier_sum": 0.1748073947484096,
+        "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+          [
+            7,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "accuracy_wilson_95_interval": [
+        0.6456611570247934,
+        1.0
+      ]
+    },
+    {
+      "threshold": 0.7,
+      "matches": 2,
+      "total_matches": 100,
+      "coverage": 0.02,
+      "metrics": {
+        "matches": 2,
+        "accuracy": 1.0,
+        "log_loss": 0.3101933070954155,
+        "multiclass_brier_sum": 0.10977094383758038,
+        "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "accuracy_wilson_95_interval": [
+        0.34237195288961925,
+        1.0
+      ]
+    }
+  ],
+  "target_accuracy": {
+    "goals": [
+      0.55,
+      0.6
+    ],
+    "audit_accuracy": 0.4,
+    "at_least_55_percent_on_all_audit_matches": false,
+    "at_least_60_percent_on_all_audit_matches": false
+  },
+  "historical_bookmaker_benchmark": {
+    "source": "Historical B365H/B365D/B365A",
+    "metrics": {
+      "matches": 100,
+      "accuracy": 0.48,
+      "log_loss": 1.0116098141249725,
+      "multiclass_brier_sum": 0.6051269956133597,
+      "confusion_matrix_actual_rows_predicted_columns_H_D_A": [
+        [
+          31,
+          0,
+          11
+        ],
+        [
+          18,
+          0,
+          9
+        ],
+        [
+          14,
+          0,
+          17
+        ]
+      ]
+    },
+    "limitation": "Recorded pre-closing odds, with unaudited exact forecast-time availability. Comparator only; excluded from model inputs and selection. No ROI claim."
+  }
+}

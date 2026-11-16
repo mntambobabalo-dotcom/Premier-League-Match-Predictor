@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Matchroom · Premier League</title>
+<style>
+:root{color-scheme:dark;--bg:#181422;--panel:#241d31;--line:#4a3d5b;--ink:#fff9eb;--muted:#c8bed4;--accent:#ffe18a;--draw:#a0e0df;--away:#d3b1f3;--radius:14px;scrollbar-color:#826c9e #181422}
+[hidden]{display:none!important}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Rethink Sans",system-ui,sans-serif}
+header,main{max-width:1190px;margin:auto;padding:24px clamp(16px,4vw,42px)}header{display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line)}
+.brand{font-size:1.35rem;font-weight:850;letter-spacing:-.05em}.brand span{color:var(--accent)}.muted,small{color:var(--muted)}small{font-size:.82rem}
+h1,h2,h3,p{margin:0}h1{font-size:clamp(1.85rem,4vw,3.4rem);letter-spacing:-.06em;line-height:1.05}h2{font-size:1.25rem}h3{font-size:1rem}
+main{display:grid;grid-template-columns:minmax(0,1fr) minmax(255px,.42fr);align-items:start;gap:20px}
+.stack{display:grid;gap:16px;min-width:0}.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:clamp(14px,3vw,24px)}
+.fields{display:flex;flex-wrap:wrap;gap:10px;align-items:end}.fields label{flex:1 1 135px;min-width:0}label{display:grid;gap:5px;font-weight:650;font-size:.88rem}
+button,input,select{font:inherit;border:1px solid var(--line);border-radius:9px;min-height:44px;padding:8px 10px;color:var(--ink);background:var(--bg);min-width:0}
+input,select{width:100%}button{cursor:pointer;font-weight:750}button:hover:not(:disabled){border-color:var(--accent)}button:active:not(:disabled){transform:translateY(1px)}button:disabled{opacity:.55;cursor:default}
+:focus-visible{outline:2px solid var(--draw);outline-offset:3px}.primary{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.scoreboard{background:repeating-linear-gradient(90deg,transparent 0 24.8%,#d3b1f31a 25%),var(--panel);display:grid;gap:16px}
+.strip{display:flex;height:9px;border-radius:100px;overflow:hidden;gap:3px}.strip span:nth-child(1){background:var(--accent)}.strip span:nth-child(2){background:var(--draw)}.strip span:nth-child(3){background:var(--away)}
+.probs,.totals{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.number{font-size:clamp(1rem,3vw,1.6rem);font-weight:800;font-variant-numeric:tabular-nums}
+.list{list-style:none;margin:0;padding:0}.list li{display:flex;justify-content:space-between;align-items:baseline;padding:8px 0;gap:8px;border-bottom:1px solid var(--line)}.list li:last-child{border-bottom:0}
+.status{min-height:1.5em;color:var(--accent);font-size:.88rem}
+summary{cursor:pointer;font-weight:750;padding:5px 0}.leg{display:grid;grid-template-columns:1fr auto;gap:4px 8px;padding:9px 0;border-bottom:1px solid var(--line)}.leg button{grid-row:span 2}.leg small{grid-column:1}
+aside{position:sticky;top:14px}.payout{padding-top:10px;border-top:1px solid var(--line)}
+@media(max-width:760px){main{grid-template-columns:minmax(0,1fr)}aside{position:static}.fields button{flex:1 1 135px}}
+</style>
+</head>
+<body>
+<header><div class="brand">Matchroom<span>.</span></div><small>Premier League · Paper analysis</small></header>
+<main>
+<section class="stack" aria-label="Match analysis">
+<form id="matchForm" class="panel stack" novalidate>
+<label>Fixture<select id="fixtures"></select></label>
+<div id="custom" class="fields" hidden>
+<label>Home team<select id="home"></select></label>
+<label>Away team<select id="away"></select></label>
+<label>Match date<input id="date" type="date" required></label>
+</div>
+<button class="primary" id="analyze">Analyze match</button>
+<p class="status" id="matchStatus" role="status"></p>
+</form>
+<section class="panel scoreboard" aria-label="Forecast" data-result hidden>
+<small id="dataStatus"></small><h1 id="matchTitle"></h1><p id="goals"></p>
+<div id="strip" class="strip" aria-hidden="true"></div><div id="probs" class="probs"></div>
+</section>
+<div class="panel stack" data-result hidden>
+<h2>Goal markets</h2><ul id="markets" class="list"></ul>
+<details><summary>Most likely scores</summary><ul id="scores" class="list"></ul></details>
+<details><summary>Head-to-head and recorded cards</summary><p id="cards" class="muted"></p><ul id="history" class="list"></ul></details>
+</div>
+<form class="panel stack" id="quoteForm" data-result hidden novalidate>
+<h2>Compare bookmaker odds</h2>
+<div class="fields"><label>Selection<select id="marketSelect"></select></label><label>Decimal odds<input id="quote" type="number" min="1.01" max="1000000" step="any" inputmode="decimal"></label><button class="primary">Compare odds</button></div>
+<p id="quoteStatus" class="status" role="status"></p>
+<div id="comparison" class="stack" hidden><div class="totals" id="quoteStats"></div><small id="quoteNote"></small><button type="submit" form="paperAdd" id="add">Add to paper slip</button></div>
+</form>
+</section>
+<aside class="panel stack" aria-labelledby="slipTitle">
+<h2 id="slipTitle">Paper slip</h2>
+<p class="muted" id="empty">Compare a price, then add a pick. You can skip any fixture.</p>
+<div id="legs"></div>
+<label>Stake (R)<input type="number" id="stake" value="50" min="0" max="1000000" step=".01"></label>
+<div id="slipStats" class="stack payout" hidden></div>
+<p class="status" id="slipStatus" role="status"></p>
+</aside>
+</main>
+<form id="paperAdd" novalidate></form>
+<script type="application/json" id="bootstrap">__BOOTSTRAP__</script>
+<script>
+"use strict";
+const config = JSON.parse(document.querySelector("#bootstrap").textContent);
+const $ = id => document.getElementById(id);
+const pct = p => (p * 100).toFixed(1) + "%";
+const money = n => "R" + n.toLocaleString("en-ZA", {minimumFractionDigits:2, maximumFractionDigits:2});
+const fixtureKey = f => JSON.stringify([f.date, f.home, f.away]);
+const matchup = f => f.home + " vs " + f.away;
+const savedKey = "matchroom-paper-v1";
+let current;
+let checked;
+let slip = [];
+try {
+  const saved = JSON.parse(localStorage.getItem(savedKey));
+  if (Array.isArray(saved?.legs)) slip = saved.legs;
+  if (Number.isFinite(saved?.stake)) $("stake").value = saved.stake;
+} catch {}
+function save() {
+  try { localStorage.setItem(savedKey, JSON.stringify({legs:slip, stake:$("stake").valueAsNumber})); }
+  catch { $("slipStatus").textContent = "Browser storage is unavailable. This slip is open for this session."; }
+}
+function node(tag, text, className) {
+  const el = document.createElement(tag);
+  if (className) el.className = className;
+  el.textContent = text;
+  return el;
+}
+function stat(label, value) {
+  const el = node("div", "");
+  el.append(node("div", value, "number"), node("small", label));
+  return el;
+}
+function row(label, value) {
+  const el = node("li", "");
+  el.append(node("span", label), node("strong", value));
+  return el;
+}
+function choices(f) {
+  const p = f.probabilities;
+  const choices = [
+    ["home", f.home + " win"], ["draw", "Draw"], ["away", f.away + " win"],
+    ["1X", f.home + " or draw"], ["X2", f.away + " or draw"], ["12", "Either team wins"],
+    ["over_1.5", "Over 1.5 goals"], ["under_1.5", "Under 1.5 goals"],
+    ["over_2.5", "Over 2.5 goals"], ["under_2.5", "Under 2.5 goals"],
+    ["over_3.5", "Over 3.5 goals"], ["under_3.5", "Under 3.5 goals"],
+    ["btts_yes", "Both teams score"], ["btts_no", "Both teams to score · No"]
+  ].map(([key,label]) => ({key,label,p:p[key],combo:false}));
+  for (const [key, team, goals, other] of [
+    ["home", f.home, f.expected_home_goals, f.expected_away_goals],
+    ["away", f.away, f.expected_away_goals, f.expected_home_goals]
+  ]) {
+    const weight = Math.exp(-goals - other);
+    const under = weight * (goals + goals**2/2 + goals**3/6 + goals**2*other/2);
+    const over = p[key] - weight * (goals + goals**2/2);
+    choices.push({key:key+"_under",label:team+" win + under 3.5",p:under,combo:true},
+                 {key:key+"_over",label:team+" win + over 2.5",p:over,combo:true});
+  }
+  return choices;
+}
+function clearQuote() {
+  checked = undefined;
+  $("comparison").hidden = true;
+  $("quoteStatus").textContent = "";
+}
+function showMatch(f, snapshot = false) {
+  current = f;
+  document.querySelectorAll("[data-result]").forEach(el=>{el.hidden=false;});
+  $("matchTitle").textContent = matchup(f);
+  $("dataStatus").textContent = (snapshot ? "Saved forecast · " : "Pre-match estimate · ") + "Results through " + f.history_through;
+  $("goals").textContent = f.date + " · Projected goals " + f.expected_home_goals.toFixed(2) + "–" + f.expected_away_goals.toFixed(2);
+  const result = choices(f).slice(0,3);
+  $("probs").replaceChildren(...result.map(v=>stat(v.label,pct(v.p))));
+  $("strip").replaceChildren(...result.map(v=>{const el=node("span","");el.style.flexGrow=v.p;return el;}));
+  const markets=choices(f);
+  $("markets").replaceChildren(...markets.filter(v=>["over_2.5","under_3.5","btts_yes","1X","X2"].includes(v.key)).map(v=>row(v.label,pct(v.p))));
+  $("scores").replaceChildren(...f.top_scores.map(s=>row(s.score,pct(s.probability))));
+  $("history").replaceChildren(...f.last_five_meetings.slice().reverse().map(g=>row(g.home+" "+g.hg+"–"+g.ag+" "+g.away,g.date)));
+  $("cards").textContent = "Injuries and lineups unavailable. Exploratory model estimates use recorded cards: "+f.expected_yellows.toFixed(2)+" expected yellows and "+pct(f.probabilities.red_any)+" for a recorded red.";
+  $("marketSelect").replaceChildren(...markets.map(v=>new Option(v.label,v.key)));
+  $("quote").value="";
+  clearQuote();
+}
+function syncFixtureForm() {
+  const custom = $("fixtures").value === "custom";
+  $("custom").hidden = !custom;
+  $("custom").style.display = custom ? "" : "none";
+}
+$("fixtures").replaceChildren(...config.examples.map((f,i)=>new Option(matchup(f),String(i))));
+if (!config.offline) $("fixtures").add(new Option("Choose another fixture","custom"));
+for (const id of ["home","away"]) $(id).replaceChildren(...config.teams.map(t=>new Option(t,t)));
+$("home").value="Man City"; $("away").value="Fulham"; $("date").value=config.examples[0]?.date || "";
+$("fixtures").addEventListener("change",syncFixtureForm);
+$("matchForm").addEventListener("submit",async event=>{
+  event.preventDefault();
+  const selection=$("fixtures").value;
+  $("matchStatus").textContent="";
+  if (selection!=="custom") {
+    showMatch(config.examples[Number(selection)],true);
+    $("matchStatus").textContent="Forecast loaded.";
+    return;
+  }
+  $("analyze").disabled=true;
+  $("matchStatus").textContent="Analyzing…";
+  try {
+    const query=new URLSearchParams({home:$("home").value,away:$("away").value,date:$("date").value});
+    const response=await fetch("/api/forecast?"+query);
+    const result=await response.json();
+    if(!response.ok) {
+      $("matchStatus").textContent=result.error+" The previous forecast is still displayed.";
+      return;
+    }
+    showMatch(result);
+    $("matchStatus").textContent="Forecast loaded.";
+  } catch {
+    $("matchStatus").textContent="Could not reach the Python app. Try again.";
+  } finally { $("analyze").disabled=false; }
+});
+$("marketSelect").addEventListener("change",clearQuote);
+$("quote").addEventListener("input",clearQuote);
+$("quoteForm").addEventListener("submit",event=>{
+  event.preventDefault();
+  const odds=$("quote").valueAsNumber;
+  if (!(odds>1 && odds<=1000000)) {
+    $("quoteStatus").textContent="Enter decimal odds above 1 and at most 1,000,000.";
+    $("quote").focus();
+    return;
+  }
+  const selected=choices(current).find(v=>v.key===$("marketSelect").value);
+  checked={...selected, odds, key:fixtureKey(current), fixture:matchup(current), date:current.date};
+  $("quoteStats").replaceChildren(stat("Model chance",pct(selected.p)),stat("Break-even",pct(1/odds)),stat("Fair odds",(1/selected.p).toFixed(2)));
+  const net=100*(selected.p*odds-1);
+  $("quoteStatus").textContent="Model estimate per R100: "+(net<0?"−":"+")+money(Math.abs(net));
+  $("quoteNote").textContent=selected.combo?"Same-match combo. Enter the quote for both outcomes together.":"Compare the exact market and price shown by your bookmaker.";
+  $("add").hidden=selected.combo;
+  $("comparison").hidden=false;
+});
+function renderSlip() {
+  $("empty").hidden=slip.length>0;
+  $("slipStats").hidden=slip.length===0;
+  const legs=slip.map((leg,index)=>{
+    const el=node("div","","leg");
+    const remove=node("button","Remove");
+    remove.type="button";
+    remove.setAttribute("aria-label","Remove "+leg.fixture);
+    remove.addEventListener("click",()=>{
+      slip.splice(index,1); $("slipStatus").textContent="Pick removed.";
+      save();renderSlip();$("stake").focus();
+    });
+    el.append(node("strong",leg.fixture),remove,node("small",leg.label+" · "+leg.odds.toFixed(2)));
+    return el;
+  });
+  $("legs").replaceChildren(...legs);
+  if (!slip.length) return;
+  const stake=$("stake").valueAsNumber;
+  const odds=slip.reduce((n,leg)=>n*leg.odds,1);
+  const chance=slip.reduce((n,leg)=>n*leg.p,1);
+  const payout=stake*odds;
+  const validStake=stake>=0 && stake<=1000000 && Number.isFinite(payout);
+  $("slipStats").replaceChildren(
+    stat("Combined odds",odds.toFixed(2)),stat("Total payout",validStake?money(payout):"—"),
+    stat("Profit if it lands",validStake?money(payout-stake):"—"),
+    stat("Estimated hit chance",pct(chance)),
+    node("small",validStake?"Assumes independent matches. Paper selections are saved in this browser.":"Enter a stake from R0 to R1,000,000.")
+  );
+}
+$("paperAdd").addEventListener("submit",event=>{
+  event.preventDefault();
+  if(!checked || checked.combo) return;
+  const index=slip.findIndex(leg=>leg.key===checked.key);
+  if(index===-1) slip.push(checked); else slip[index]=checked;
+  $("slipStatus").textContent=index===-1?"Pick added.":"Pick replaced for this fixture.";
+  save();renderSlip();
+});
+$("stake").addEventListener("input",()=>{save();renderSlip();});
+syncFixtureForm();
+if (config.examples.length) showMatch(config.examples[0],true);
+else $("matchStatus").textContent="Choose a fixture after "+config.cutoff+".";
+renderSlip();
+</script>
+</body>
+</html>

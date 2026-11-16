@@ -1,0 +1,1824 @@
+date,home,away,group,selection,decimal_odds,probability,won,paper_net_units
+2017-08-12,Brighton,Man City,bet365_1x2,away,1.33,0.7981573758077234,True,0.33000000000000007
+2017-08-12,Chelsea,Burnley,bet365_1x2,home,1.25,0.8473149627010033,False,-1.0
+2017-08-12,Southampton,Swansea,bet365_1x2,draw,4.0,0.2705858737571951,True,3.0
+2017-08-12,Watford,Liverpool,bet365_1x2,away,1.62,0.7074345660206545,False,-1.0
+2017-08-13,Man United,West Ham,bet365_1x2,draw,5.75,0.25304681915609234,False,-1.0
+2017-08-13,Newcastle,Tottenham,bet365_1x2,away,1.7,0.8899524997099464,True,0.7
+2017-08-19,Swansea,Man United,bet365_1x2,draw,5.0,0.2477177032964846,False,-1.0
+2017-08-20,Huddersfield,Newcastle,bet365_1x2,home,2.5,0.7229990096628592,True,1.5
+2017-08-26,Man United,Leicester,bet365_1x2,draw,5.5,0.2221624682242954,False,-1.0
+2017-08-27,Tottenham,Burnley,bet365_1x2,home,1.25,0.8687402335916401,False,-1.0
+2017-09-09,Arsenal,Bournemouth,bet365_1x2,home,1.36,0.8041815558965943,True,0.3600000000000001
+2017-09-09,Everton,Tottenham,bet365_1x2,away,2.1,0.7231534972392574,True,1.1
+2017-09-09,Southampton,Watford,bet365_1x2,home,1.65,0.657860778672227,False,-1.0
+2017-09-09,Stoke,Man United,bet365_1x2,draw,4.5,0.23500509852726964,True,3.5
+2017-09-16,Watford,Man City,bet365_1x2,draw,6.0,0.1777951250488994,False,-1.0
+2017-09-23,Leicester,Liverpool,bet365_1x2,away,1.91,0.6573327185436101,True,0.9099999999999999
+2017-09-23,West Ham,Tottenham,bet365_1x2,away,1.6,0.7947310580358945,True,0.6000000000000001
+2017-10-01,Arsenal,Brighton,bet365_1x2,draw,6.5,0.1812237782564545,False,-1.0
+2017-10-14,Man City,Stoke,bet365_1x2,draw,9.5,0.11953906294105637,False,-1.0
+2017-10-14,Watford,Arsenal,bet365_1x2,away,1.65,0.655379279396543,False,-1.0
+2017-10-21,Huddersfield,Man United,bet365_1x2,draw,5.0,0.2406473768433185,False,-1.0
+2017-10-21,Man City,Burnley,bet365_1x2,draw,12.0,0.10555546255749847,False,-1.0
+2017-10-28,Arsenal,Swansea,bet365_1x2,draw,7.0,0.15198494002174712,False,-1.0
+2017-10-28,Liverpool,Huddersfield,bet365_1x2,draw,6.75,0.1820483139979718,False,-1.0
+2017-10-28,West Brom,Man City,bet365_1x2,away,1.28,0.8590407304533172,True,0.28
+2017-11-04,West Ham,Liverpool,bet365_1x2,away,1.66,0.6933654261495339,True,0.6599999999999999
+2017-11-05,Man City,Arsenal,bet365_1x2,draw,5.5,0.21193375852815846,False,-1.0
+2017-11-18,Leicester,Man City,bet365_1x2,draw,5.75,0.19607291310901087,False,-1.0
+2017-11-18,Man United,Newcastle,bet365_1x2,draw,5.75,0.19173102723181967,False,-1.0
+2017-11-18,West Brom,Chelsea,bet365_1x2,away,1.61,0.7145454443908307,True,0.6100000000000001
+2017-11-25,Man United,Brighton,bet365_1x2,draw,7.0,0.21855372479812088,False,-1.0
+2017-11-25,Tottenham,West Brom,bet365_1x2,home,1.25,0.8445419706627569,False,-1.0
+2017-11-26,Burnley,Arsenal,bet365_1x2,draw,4.5,0.25386424186907325,False,-1.0
+2017-11-26,Huddersfield,Man City,bet365_1x2,draw,8.0,0.16819421544520552,False,-1.0
+2017-11-28,Leicester,Tottenham,bet365_1x2,away,1.75,0.6703345276818627,False,-1.0
+2017-11-29,Chelsea,Swansea,bet365_1x2,draw,8.0,0.15505345528215103,False,-1.0
+2017-11-29,Man City,Southampton,bet365_1x2,draw,8.0,0.1618183404958843,False,-1.0
+2017-11-29,Stoke,Liverpool,bet365_1x2,away,1.55,0.7115904069268629,True,0.55
+2017-12-02,Chelsea,Newcastle,bet365_1x2,draw,6.5,0.17073760774106028,False,-1.0
+2017-12-02,Watford,Tottenham,bet365_1x2,away,1.72,0.678066110092898,False,-1.0
+2017-12-03,Man City,West Ham,bet365_1x2,draw,11.0,0.10447078910483715,False,-1.0
+2017-12-09,Tottenham,Stoke,bet365_1x2,draw,6.5,0.2011040623055968,False,-1.0
+2017-12-09,West Ham,Chelsea,bet365_1x2,away,1.5,0.7864472680611713,False,-1.0
+2017-12-13,Man United,Bournemouth,bet365_1x2,draw,6.0,0.20398894871552353,False,-1.0
+2017-12-13,Swansea,Man City,bet365_1x2,away,1.25,0.8415718420385659,True,0.25
+2017-12-13,Tottenham,Brighton,bet365_1x2,draw,6.5,0.16179477500706865,False,-1.0
+2017-12-13,West Ham,Arsenal,bet365_1x2,away,1.66,0.736295205971639,False,-1.0
+2017-12-16,Man City,Tottenham,bet365_1x2,draw,4.59,0.22922006061382302,False,-1.0
+2017-12-23,Everton,Chelsea,bet365_1x2,away,1.66,0.7843997241222801,False,-1.0
+2017-12-23,Man City,Bournemouth,bet365_1x2,draw,11.0,0.10857353535780104,False,-1.0
+2017-12-26,Chelsea,Brighton,bet365_1x2,draw,7.5,0.15142503910242047,False,-1.0
+2017-12-26,Liverpool,Swansea,bet365_1x2,draw,9.0,0.15439879225518172,False,-1.0
+2017-12-26,Man United,Burnley,bet365_1x2,draw,6.5,0.21908255618995992,True,5.5
+2017-12-30,Chelsea,Stoke,bet365_1x2,draw,8.5,0.1401449155601963,False,-1.0
+2017-12-30,Liverpool,Leicester,bet365_1x2,draw,6.0,0.17595827405079426,False,-1.0
+2017-12-31,West Brom,Arsenal,bet365_1x2,away,1.72,0.6750058627791873,False,-1.0
+2018-01-04,Tottenham,West Ham,bet365_1x2,draw,6.0,0.2047737389595954,True,5.0
+2018-01-13,Chelsea,Leicester,bet365_1x2,home,1.3,0.8488151562752128,False,-1.0
+2018-01-20,Brighton,Chelsea,bet365_1x2,away,1.61,0.8202581370179306,True,0.6100000000000001
+2018-01-20,Man City,Newcastle,bet365_1x2,draw,10.0,0.10538644147983758,False,-1.0
+2018-01-21,Southampton,Tottenham,bet365_1x2,away,1.64,0.7147788743613857,False,-1.0
+2018-01-22,Swansea,Liverpool,bet365_1x2,away,1.3,0.8142162600753765,False,-1.0
+2018-01-30,Swansea,Arsenal,bet365_1x2,away,1.5,0.7039201626114752,False,-1.0
+2018-01-31,Chelsea,Bournemouth,bet365_1x2,draw,6.5,0.18478247599521355,False,-1.0
+2018-01-31,Man City,West Brom,bet365_1x2,draw,10.0,0.14289965565659712,False,-1.0
+2018-02-03,Arsenal,Everton,bet365_1x2,draw,5.75,0.22020004676280575,False,-1.0
+2018-02-03,Man United,Huddersfield,bet365_1x2,draw,8.5,0.1345150871816545,False,-1.0
+2018-02-05,Watford,Chelsea,bet365_1x2,away,1.61,0.8370865851316281,False,-1.0
+2018-02-12,Chelsea,West Brom,bet365_1x2,home,1.36,0.7910640237718424,True,0.3600000000000001
+2018-02-24,Liverpool,West Ham,bet365_1x2,draw,7.5,0.19572821228608456,False,-1.0
+2018-03-01,Arsenal,Man City,bet365_1x2,away,1.72,0.7058027351501728,True,0.72
+2018-03-03,Liverpool,Newcastle,bet365_1x2,draw,7.0,0.1685357029894837,False,-1.0
+2018-03-10,Chelsea,Crystal Palace,bet365_1x2,draw,5.75,0.184191562555227,False,-1.0
+2018-03-11,Arsenal,Watford,bet365_1x2,draw,5.0,0.23591515201752966,False,-1.0
+2018-03-17,Bournemouth,West Brom,bet365_1x2,home,1.83,0.6549721667621685,True,0.8300000000000001
+2018-03-17,Liverpool,Watford,bet365_1x2,draw,8.0,0.20719750536666648,False,-1.0
+2018-04-07,Everton,Liverpool,bet365_1x2,away,1.9,0.6929644393907172,False,-1.0
+2018-04-07,Stoke,Tottenham,bet365_1x2,away,1.33,0.8306723394581708,True,0.33000000000000007
+2018-04-08,Chelsea,West Ham,bet365_1x2,draw,6.0,0.18936619058064919,True,5.0
+2018-04-14,Liverpool,Bournemouth,bet365_1x2,draw,7.0,0.21364467600081338,False,-1.0
+2018-04-15,Man United,West Brom,bet365_1x2,draw,8.0,0.13456016085007738,False,-1.0
+2018-04-21,West Brom,Liverpool,bet365_1x2,away,1.5,0.7542049423320298,False,-1.0
+2018-04-28,Liverpool,Stoke,bet365_1x2,home,1.33,0.8211847017425532,False,-1.0
+2018-04-28,Swansea,Chelsea,bet365_1x2,away,1.53,0.7555361268544892,True,0.53
+2018-04-29,Man United,Arsenal,bet365_1x2,draw,4.75,0.2495444070432076,False,-1.0
+2018-04-29,West Ham,Man City,bet365_1x2,away,1.33,0.8001727547757893,True,0.33000000000000007
+2018-04-30,Tottenham,Watford,bet365_1x2,draw,8.5,0.15957689778011963,False,-1.0
+2018-05-09,Chelsea,Huddersfield,bet365_1x2,draw,8.5,0.19310824003718396,True,7.5
+2018-05-09,Tottenham,Newcastle,bet365_1x2,draw,8.5,0.1781881373421537,False,-1.0
+2018-05-13,Huddersfield,Arsenal,bet365_1x2,draw,4.33,0.24373047645688783,False,-1.0
+2018-05-13,Liverpool,Brighton,bet365_1x2,draw,8.0,0.19567005423544812,False,-1.0
+2018-05-13,Tottenham,Leicester,bet365_1x2,draw,6.0,0.19999258232390965,False,-1.0
+2018-08-12,Liverpool,West Ham,bet365_1x2,draw,6.5,0.21496407746172025,False,-1.0
+2018-08-18,Tottenham,Fulham,bet365_1x2,draw,6.0,0.2315112564290274,False,-1.0
+2018-08-19,Man City,Huddersfield,bet365_1x2,draw,13.0,0.10312194021359658,False,-1.0
+2018-08-20,Crystal Palace,Liverpool,bet365_1x2,draw,5.0,0.2227242527843788,False,-1.0
+2018-08-25,Arsenal,West Ham,bet365_1x2,draw,5.5,0.20180811563828446,False,-1.0
+2018-08-25,Liverpool,Brighton,bet365_1x2,draw,8.5,0.13238285299375027,False,-1.0
+2018-08-25,Wolves,Man City,bet365_1x2,away,1.28,0.8520321107471563,False,-1.0
+2018-09-01,Chelsea,Bournemouth,bet365_1x2,draw,6.0,0.2212846127466391,False,-1.0
+2018-09-01,Leicester,Liverpool,bet365_1x2,draw,5.0,0.22234052170181035,False,-1.0
+2018-09-02,Cardiff,Arsenal,bet365_1x2,draw,4.33,0.2709200221404262,False,-1.0
+2018-09-15,Chelsea,Cardiff,bet365_1x2,draw,8.0,0.20636729838102788,False,-1.0
+2018-09-15,Man City,Fulham,bet365_1x2,draw,10.0,0.13486104779935623,False,-1.0
+2018-09-22,Liverpool,Southampton,bet365_1x2,draw,7.5,0.18969667423234626,False,-1.0
+2018-09-29,Arsenal,Watford,bet365_1x2,draw,5.1,0.21842349597958782,False,-1.0
+2018-10-06,Man United,Newcastle,bet365_1x2,home,1.44,0.73910211696284,True,0.43999999999999995
+2018-10-06,Tottenham,Cardiff,bet365_1x2,draw,7.0,0.16510361047451483,False,-1.0
+2018-10-07,Fulham,Arsenal,bet365_1x2,draw,4.33,0.25838826390383535,False,-1.0
+2018-10-20,Huddersfield,Liverpool,bet365_1x2,draw,5.5,0.24878029371017463,False,-1.0
+2018-10-20,Man City,Burnley,bet365_1x2,draw,13.0,0.09839191674657678,False,-1.0
+2018-10-27,Liverpool,Cardiff,bet365_1x2,draw,11.0,0.16534395384307513,False,-1.0
+2018-10-28,Crystal Palace,Arsenal,bet365_1x2,draw,4.1,0.26503465398109044,True,3.0999999999999996
+2018-11-03,Everton,Brighton,bet365_1x2,home,1.61,0.6541902617766274,True,0.6100000000000001
+2018-11-04,Chelsea,Crystal Palace,bet365_1x2,draw,6.75,0.1803280007740343,False,-1.0
+2018-11-11,Chelsea,Everton,bet365_1x2,draw,5.25,0.20206997329855844,True,4.25
+2018-11-11,Liverpool,Fulham,bet365_1x2,draw,11.0,0.1289019159053076,False,-1.0
+2018-11-24,Man United,Crystal Palace,bet365_1x2,draw,5.25,0.20103528776363858,True,4.25
+2018-11-24,Watford,Liverpool,bet365_1x2,draw,4.33,0.2425650402117084,False,-1.0
+2018-11-24,West Ham,Man City,bet365_1x2,draw,6.5,0.200919988896383,False,-1.0
+2018-12-01,Crystal Palace,Burnley,bet365_1x2,draw,3.9,0.27372803661027995,False,-1.0
+2018-12-01,Man City,Bournemouth,bet365_1x2,draw,11.0,0.1183649534701486,False,-1.0
+2018-12-02,Liverpool,Everton,bet365_1x2,draw,5.0,0.2155964819374189,False,-1.0
+2018-12-05,Tottenham,Southampton,bet365_1x2,draw,5.25,0.2025902149383072,False,-1.0
+2018-12-08,Arsenal,Huddersfield,bet365_1x2,draw,6.0,0.17804372411542457,False,-1.0
+2018-12-08,Man United,Fulham,bet365_1x2,draw,5.75,0.19961123439620232,False,-1.0
+2018-12-15,Man City,Everton,bet365_1x2,draw,7.5,0.16612167128308888,False,-1.0
+2018-12-15,Tottenham,Burnley,bet365_1x2,draw,8.0,0.14391219411896955,False,-1.0
+2018-12-16,Brighton,Chelsea,bet365_1x2,draw,4.5,0.2590351136089884,False,-1.0
+2018-12-22,Arsenal,Burnley,bet365_1x2,draw,6.5,0.1638636599576614,False,-1.0
+2018-12-22,Man City,Crystal Palace,bet365_1x2,draw,10.0,0.14871465761880787,False,-1.0
+2018-12-26,Leicester,Man City,bet365_1x2,draw,5.25,0.21216466264152403,False,-1.0
+2018-12-29,Liverpool,Arsenal,bet365_1x2,home,1.5,0.7607651530499687,True,0.5
+2018-12-30,Crystal Palace,Chelsea,bet365_1x2,draw,4.0,0.26458148655627683,False,-1.0
+2018-12-30,Southampton,Man City,bet365_1x2,draw,5.25,0.22154876004781643,False,-1.0
+2019-01-01,Arsenal,Fulham,bet365_1x2,draw,5.75,0.20051191303579854,False,-1.0
+2019-01-01,Cardiff,Tottenham,bet365_1x2,draw,4.5,0.25207866294902076,False,-1.0
+2019-01-02,Chelsea,Southampton,bet365_1x2,draw,6.5,0.17777296137490556,True,5.5
+2019-01-12,Brighton,Liverpool,bet365_1x2,draw,6.0,0.19685795231101963,False,-1.0
+2019-01-12,Chelsea,Newcastle,bet365_1x2,draw,7.0,0.1735970225558187,False,-1.0
+2019-01-12,West Ham,Arsenal,bet365_1x2,draw,4.0,0.2643766357915744,False,-1.0
+2019-01-14,Man City,Wolves,bet365_1x2,draw,8.0,0.15879023645731463,False,-1.0
+2019-01-19,Liverpool,Crystal Palace,bet365_1x2,draw,7.5,0.1627238982045163,False,-1.0
+2019-01-19,Watford,Burnley,bet365_1x2,draw,4.0,0.2732858273582551,True,3.0
+2019-01-20,Huddersfield,Man City,bet365_1x2,draw,8.5,0.19162096953854163,False,-1.0
+2019-01-29,Arsenal,Cardiff,bet365_1x2,draw,7.0,0.18602718657868048,False,-1.0
+2019-01-29,Newcastle,Man City,bet365_1x2,draw,8.0,0.225471678149905,False,-1.0
+2019-01-30,Bournemouth,Chelsea,bet365_1x2,draw,4.2,0.25913025491564323,False,-1.0
+2019-01-30,Liverpool,Leicester,bet365_1x2,draw,7.0,0.1617034605149363,True,6.0
+2019-01-30,Tottenham,Watford,bet365_1x2,home,1.66,0.7182172399705277,True,0.6599999999999999
+2019-02-02,Chelsea,Huddersfield,bet365_1x2,draw,7.5,0.14968876834868175,False,-1.0
+2019-02-03,Man City,Arsenal,bet365_1x2,draw,6.0,0.21441987742021215,False,-1.0
+2019-02-04,West Ham,Liverpool,bet365_1x2,draw,5.25,0.23146051184263652,True,4.25
+2019-02-06,Everton,Man City,bet365_1x2,draw,6.25,0.23071203476949217,False,-1.0
+2019-02-09,Huddersfield,Arsenal,bet365_1x2,draw,4.4,0.25591896867343644,False,-1.0
+2019-02-09,Liverpool,Bournemouth,bet365_1x2,draw,7.5,0.15421256089329097,False,-1.0
+2019-02-09,Southampton,Cardiff,bet365_1x2,draw,3.9,0.27315399016348374,False,-1.0
+2019-02-10,Tottenham,Leicester,bet365_1x2,home,1.7,0.6996719385487613,True,0.7
+2019-02-24,Arsenal,Southampton,bet365_1x2,draw,4.75,0.22661837916186522,False,-1.0
+2019-02-26,Leicester,Brighton,bet365_1x2,home,1.9,0.677909816145287,True,0.8999999999999999
+2019-02-27,Arsenal,Bournemouth,bet365_1x2,draw,5.0,0.2253257775112746,False,-1.0
+2019-02-27,Man City,West Ham,bet365_1x2,draw,9.0,0.18036907849150224,False,-1.0
+2019-03-02,Bournemouth,Man City,bet365_1x2,draw,7.5,0.1991460033932432,False,-1.0
+2019-03-02,Man United,Southampton,bet365_1x2,home,1.45,0.7318963319887826,True,0.44999999999999996
+2019-03-03,Fulham,Chelsea,bet365_1x2,draw,4.5,0.24956945059538338,False,-1.0
+2019-03-09,Leicester,Fulham,bet365_1x2,home,1.57,0.7352473435719128,True,0.5700000000000001
+2019-03-09,Man City,Watford,bet365_1x2,draw,9.0,0.12564222638744174,False,-1.0
+2019-03-10,Liverpool,Burnley,bet365_1x2,draw,8.5,0.1636954768340721,False,-1.0
+2019-03-17,Fulham,Liverpool,bet365_1x2,draw,7.0,0.19033670447405915,False,-1.0
+2019-03-30,Fulham,Man City,bet365_1x2,draw,11.0,0.15278353196536693,False,-1.0
+2019-03-31,Cardiff,Chelsea,bet365_1x2,draw,4.5,0.2504678736575345,False,-1.0
+2019-04-01,Arsenal,Newcastle,bet365_1x2,draw,5.25,0.2546510665452572,False,-1.0
+2019-04-02,Watford,Fulham,bet365_1x2,home,1.72,0.7051397358203669,True,0.72
+2019-04-03,Chelsea,Brighton,bet365_1x2,draw,6.5,0.2095719835219013,False,-1.0
+2019-04-03,Man City,Cardiff,bet365_1x2,draw,17.0,0.09269355157953228,False,-1.0
+2019-04-03,Tottenham,Crystal Palace,bet365_1x2,draw,5.0,0.24881606016199356,False,-1.0
+2019-04-13,Tottenham,Huddersfield,bet365_1x2,draw,7.0,0.15035764882297004,False,-1.0
+2019-04-20,Bournemouth,Fulham,bet365_1x2,draw,4.4,0.24627126759954746,False,-1.0
+2019-04-20,Huddersfield,Watford,bet365_1x2,draw,3.9,0.2731056631554354,False,-1.0
+2019-04-20,Man City,Tottenham,bet365_1x2,draw,6.0,0.17711779718653184,False,-1.0
+2019-04-21,Cardiff,Liverpool,bet365_1x2,draw,7.5,0.1888311463939269,False,-1.0
+2019-04-22,Chelsea,Burnley,bet365_1x2,draw,6.25,0.21367528057412435,True,5.25
+2019-04-28,Burnley,Man City,bet365_1x2,draw,9.0,0.16649711634892847,False,-1.0
+2019-05-04,Cardiff,Crystal Palace,bet365_1x2,draw,3.75,0.282020736952653,False,-1.0
+2019-05-04,Newcastle,Liverpool,bet365_1x2,draw,5.25,0.21595520435652985,False,-1.0
+2019-05-05,Huddersfield,Man United,bet365_1x2,draw,6.0,0.2563802662866076,True,5.0
+2019-05-06,Man City,Leicester,bet365_1x2,draw,8.5,0.1623304943899491,False,-1.0
+2019-05-12,Brighton,Man City,bet365_1x2,draw,8.5,0.14347809578879595,False,-1.0
+2019-05-12,Crystal Palace,Bournemouth,bet365_1x2,draw,4.2,0.25608591045807233,False,-1.0
+2019-05-12,Liverpool,Wolves,bet365_1x2,draw,6.0,0.20284063130675656,False,-1.0
+2019-05-12,Man United,Cardiff,bet365_1x2,draw,6.5,0.20014138374565701,False,-1.0
+2019-08-09,Liverpool,Norwich,bet365_1x2,draw,10.0,0.12098432594424799,False,-1.0
+2019-08-10,Tottenham,Aston Villa,bet365_1x2,draw,5.25,0.22254751788773056,False,-1.0
+2019-08-10,West Ham,Man City,bet365_1x2,draw,6.5,0.2132978719721401,False,-1.0
+2019-08-17,Arsenal,Burnley,bet365_1x2,draw,5.5,0.2307384526243223,False,-1.0
+2019-08-17,Everton,Watford,bet365_1x2,home,1.72,0.6745421815126301,True,0.72
+2019-08-24,Liverpool,Arsenal,bet365_1x2,home,1.5,0.7667619702429072,True,0.5
+2019-08-24,Man United,Crystal Palace,bet365_1x2,draw,5.25,0.23553728402143342,False,-1.0
+2019-08-25,Bournemouth,Man City,bet365_1x2,draw,7.5,0.17693083507806392,False,-1.0
+2019-08-25,Tottenham,Newcastle,bet365_1x2,draw,6.5,0.2144240804901524,False,-1.0
+2019-08-31,Burnley,Liverpool,bet365_1x2,draw,5.5,0.20402183625426845,False,-1.0
+2019-09-14,Norwich,Man City,bet365_1x2,draw,9.0,0.1515192139775029,False,-1.0
+2019-09-14,Tottenham,Crystal Palace,bet365_1x2,draw,5.25,0.2338242967344879,False,-1.0
+2019-10-19,Crystal Palace,Man City,bet365_1x2,draw,7.0,0.19148750733402686,False,-1.0
+2019-10-26,Man City,Aston Villa,bet365_1x2,draw,11.0,0.11782985832831931,False,-1.0
+2019-10-27,Liverpool,Tottenham,bet365_1x2,home,1.5,0.7834137551864206,True,0.5
+2019-11-02,Aston Villa,Liverpool,bet365_1x2,draw,5.0,0.23635816773278026,False,-1.0
+2019-11-02,Brighton,Norwich,bet365_1x2,draw,4.2,0.26639196382221025,False,-1.0
+2019-11-23,West Ham,Tottenham,bet365_1x2,draw,4.33,0.24455384014821893,False,-1.0
+2019-11-30,Newcastle,Man City,bet365_1x2,draw,8.0,0.1536813031735013,True,7.0
+2019-11-30,Tottenham,Bournemouth,bet365_1x2,draw,5.5,0.23107943695307553,False,-1.0
+2019-12-01,Man United,Aston Villa,bet365_1x2,draw,4.5,0.233893135536914,True,3.5
+2019-12-03,Burnley,Man City,bet365_1x2,draw,7.0,0.16051998835332373,False,-1.0
+2019-12-04,Chelsea,Aston Villa,bet365_1x2,draw,5.75,0.18528342427439828,False,-1.0
+2019-12-04,Liverpool,Everton,bet365_1x2,home,1.36,0.823768146861629,True,0.3600000000000001
+2019-12-07,Tottenham,Burnley,bet365_1x2,draw,4.75,0.24071638282588387,False,-1.0
+2019-12-09,West Ham,Arsenal,bet365_1x2,draw,4.0,0.2631661683185288,False,-1.0
+2019-12-14,Leicester,Norwich,bet365_1x2,draw,6.5,0.16213967620337416,True,5.5
+2019-12-15,Arsenal,Man City,bet365_1x2,draw,5.25,0.2030903832823064,False,-1.0
+2019-12-21,Man City,Leicester,bet365_1x2,draw,5.25,0.22306125696372586,False,-1.0
+2019-12-26,Bournemouth,Arsenal,bet365_1x2,draw,3.9,0.27125074714087427,True,2.9
+2019-12-26,Man United,Newcastle,bet365_1x2,draw,5.25,0.2031437018211358,False,-1.0
+2019-12-27,Wolves,Man City,bet365_1x2,draw,5.0,0.2125816592046239,False,-1.0
+2019-12-28,Norwich,Tottenham,bet365_1x2,draw,4.0,0.2695486333974702,True,3.0
+2019-12-29,Liverpool,Wolves,bet365_1x2,draw,5.75,0.18358014801545966,False,-1.0
+2019-12-29,Man City,Sheffield United,bet365_1x2,draw,7.5,0.1593371862975107,False,-1.0
+2020-01-01,Man City,Everton,bet365_1x2,draw,6.5,0.16901514628193232,False,-1.0
+2020-01-11,Chelsea,Burnley,bet365_1x2,draw,5.5,0.20854231056235029,False,-1.0
+2020-01-12,Aston Villa,Man City,bet365_1x2,draw,8.5,0.1949307983062979,False,-1.0
+2020-01-18,Man City,Crystal Palace,bet365_1x2,draw,11.0,0.13598386962660156,True,10.0
+2020-01-18,Newcastle,Chelsea,bet365_1x2,draw,4.5,0.2518101383974642,False,-1.0
+2020-01-21,Sheffield United,Man City,bet365_1x2,draw,5.0,0.21245385268736294,False,-1.0
+2020-01-29,West Ham,Liverpool,bet365_1x2,draw,5.5,0.1966337056183571,False,-1.0
+2020-02-16,Arsenal,Newcastle,bet365_1x2,draw,4.75,0.26217001011380214,False,-1.0
+2020-02-23,Man United,Watford,bet365_1x2,home,1.6,0.6625863066850195,True,0.6000000000000001
+2020-02-29,Watford,Liverpool,bet365_1x2,away,1.4,0.7566461326595912,False,-1.0
+2020-03-07,Arsenal,West Ham,bet365_1x2,draw,4.4,0.2552830209134113,False,-1.0
+2020-03-07,Liverpool,Bournemouth,bet365_1x2,home,1.22,0.9114612436289509,True,0.21999999999999997
+2020-03-08,Man United,Man City,bet365_1x2,draw,4.33,0.24324678751398604,False,-1.0
+2020-06-17,Man City,Arsenal,bet365_1x2,draw,5.25,0.22066971584176623,False,-1.0
+2020-06-21,Aston Villa,Chelsea,bet365_1x2,draw,4.5,0.24028778124101735,False,-1.0
+2020-06-24,Liverpool,Crystal Palace,bet365_1x2,draw,6.5,0.17838109863842122,False,-1.0
+2020-06-24,Man United,Sheffield United,bet365_1x2,draw,4.5,0.23877426011695294,False,-1.0
+2020-07-01,West Ham,Chelsea,bet365_1x2,away,1.57,0.6782874956914132,False,-1.0
+2020-07-04,Man United,Bournemouth,bet365_1x2,draw,7.5,0.1732518773574013,False,-1.0
+2020-07-05,Liverpool,Aston Villa,bet365_1x2,home,1.33,0.8537097936833383,True,0.33000000000000007
+2020-07-05,Southampton,Man City,bet365_1x2,draw,6.0,0.2588257895534974,False,-1.0
+2020-07-08,Man City,Newcastle,bet365_1x2,draw,9.0,0.17546292840754957,False,-1.0
+2020-07-09,Aston Villa,Man United,bet365_1x2,draw,5.25,0.20298762211958238,False,-1.0
+2020-07-11,Brighton,Man City,bet365_1x2,draw,5.5,0.21229088305859387,False,-1.0
+2020-07-13,Man United,Southampton,bet365_1x2,draw,5.5,0.1946160860674597,True,4.5
+2020-07-16,Crystal Palace,Man United,bet365_1x2,draw,4.75,0.22375964466217008,False,-1.0
+2020-07-21,Watford,Man City,bet365_1x2,draw,5.5,0.20754680677068624,False,-1.0
+2020-07-22,Man United,West Ham,bet365_1x2,draw,6.5,0.2223183776648963,True,5.5
+2020-07-26,Crystal Palace,Tottenham,bet365_1x2,draw,4.2,0.2730891655761298,True,3.2
+2020-07-26,Newcastle,Liverpool,bet365_1x2,draw,5.25,0.22113716478367745,False,-1.0
+2020-09-12,Fulham,Arsenal,bet365_1x2,draw,4.33,0.2764036559783513,False,-1.0
+2020-09-19,Arsenal,West Ham,bet365_1x2,draw,4.5,0.24329451622960763,False,-1.0
+2020-09-19,Leeds,Fulham,bet365_1x2,draw,3.9,0.27896648689313336,False,-1.0
+2020-09-19,Man United,Crystal Palace,bet365_1x2,draw,5.5,0.2235222910085045,False,-1.0
+2020-09-27,Tottenham,Newcastle,bet365_1x2,draw,4.5,0.25096024582900917,True,3.5
+2020-09-28,Liverpool,Arsenal,bet365_1x2,home,1.45,0.7852607841137453,True,0.44999999999999996
+2020-10-03,Leeds,Man City,bet365_1x2,draw,5.25,0.22859655998859246,True,4.25
+2020-10-04,Aston Villa,Liverpool,bet365_1x2,draw,5.5,0.19372902449694016,False,-1.0
+2020-10-17,Chelsea,Southampton,bet365_1x2,draw,4.75,0.24143362709385438,True,3.75
+2020-10-17,Man City,Arsenal,bet365_1x2,home,1.44,0.780196002595977,True,0.43999999999999995
+2020-10-17,Newcastle,Man United,bet365_1x2,draw,4.0,0.27114223163559337,False,-1.0
+2020-10-18,Tottenham,West Ham,bet365_1x2,draw,4.33,0.24318269105420556,True,3.33
+2020-10-24,West Ham,Man City,bet365_1x2,draw,5.25,0.2249588308568802,True,4.25
+2020-10-31,Burnley,Chelsea,bet365_1x2,draw,4.5,0.2589813626682475,False,-1.0
+2020-10-31,Liverpool,West Ham,bet365_1x2,home,1.36,0.7726025845964187,True,0.3600000000000001
+2020-10-31,Sheffield United,Man City,bet365_1x2,draw,6.0,0.20439756765630152,False,-1.0
+2020-11-21,Man United,West Brom,bet365_1x2,draw,5.5,0.19352008478699245,False,-1.0
+2020-11-21,Newcastle,Chelsea,bet365_1x2,draw,4.75,0.23703948657925644,False,-1.0
+2020-11-22,Fulham,Everton,bet365_1x2,draw,3.9,0.27876139290149593,False,-1.0
+2020-11-22,Liverpool,Leicester,bet365_1x2,home,1.85,0.7068214125300057,True,0.8500000000000001
+2020-12-05,Chelsea,Leeds,bet365_1x2,draw,4.5,0.2384378076663635,False,-1.0
+2020-12-05,Man City,Fulham,bet365_1x2,draw,11.0,0.14379229864970922,False,-1.0
+2020-12-12,Man United,Man City,bet365_1x2,draw,4.2,0.2627152817789885,True,3.2
+2020-12-13,Crystal Palace,Tottenham,bet365_1x2,draw,3.9,0.26996562448297023,True,2.9
+2020-12-13,Fulham,Liverpool,bet365_1x2,draw,5.5,0.20577852020729956,True,4.5
+2020-12-13,Southampton,Sheffield United,bet365_1x2,home,1.7,0.6878053026304942,True,0.7
+2020-12-15,Man City,West Brom,bet365_1x2,draw,11.0,0.1297407082350258,True,10.0
+2020-12-17,Sheffield United,Man United,bet365_1x2,draw,4.6,0.2310152407219223,False,-1.0
+2020-12-19,Southampton,Man City,bet365_1x2,draw,4.5,0.2466990300375675,False,-1.0
+2020-12-21,Chelsea,West Ham,bet365_1x2,draw,5.0,0.24117984479269844,False,-1.0
+2020-12-26,Man City,Newcastle,bet365_1x2,draw,10.0,0.14788027450616745,False,-1.0
+2020-12-27,Liverpool,West Brom,bet365_1x2,draw,10.0,0.10782405162016001,True,9.0
+2020-12-30,Newcastle,Liverpool,bet365_1x2,draw,6.0,0.2009250298282962,True,5.0
+2021-01-02,Tottenham,Leeds,bet365_1x2,draw,4.1,0.26496752034997345,False,-1.0
+2021-01-03,Newcastle,Leicester,bet365_1x2,draw,4.2,0.27123355033737856,False,-1.0
+2021-01-13,Man City,Brighton,bet365_1x2,draw,8.5,0.15885340424899116,False,-1.0
+2021-01-16,Fulham,Chelsea,bet365_1x2,draw,4.33,0.2536416200424928,False,-1.0
+2021-01-16,Wolves,West Brom,bet365_1x2,home,1.6,0.767750799230343,False,-1.0
+2021-01-17,Man City,Crystal Palace,bet365_1x2,draw,8.5,0.15974806376329498,False,-1.0
+2021-01-20,Fulham,Man United,bet365_1x2,draw,4.33,0.2497484733533731,False,-1.0
+2021-02-03,Burnley,Man City,bet365_1x2,draw,7.0,0.16064234675013428,False,-1.0
+2021-02-07,Sheffield United,Chelsea,bet365_1x2,draw,4.5,0.2374840140828545,False,-1.0
+2021-02-15,Chelsea,Newcastle,bet365_1x2,draw,6.5,0.2238414081029425,False,-1.0
+2021-02-17,Everton,Man City,bet365_1x2,draw,5.5,0.2362532969711931,False,-1.0
+2021-02-27,Man City,West Ham,bet365_1x2,draw,6.5,0.188914726472881,False,-1.0
+2021-02-28,Sheffield United,Liverpool,bet365_1x2,draw,5.0,0.25051366646209783,False,-1.0
+2021-03-02,Man City,Wolves,bet365_1x2,draw,7.0,0.18515646135880104,False,-1.0
+2021-03-06,Burnley,Arsenal,bet365_1x2,draw,4.0,0.26325246124718715,True,3.0
+2021-03-07,Liverpool,Fulham,bet365_1x2,draw,5.0,0.2219636355110903,False,-1.0
+2021-03-13,Fulham,Man City,bet365_1x2,draw,5.0,0.21995415849140837,False,-1.0
+2021-03-14,Leicester,Sheffield United,bet365_1x2,home,1.5,0.7147956062557991,True,0.5
+2021-04-03,Leicester,Man City,bet365_1x2,draw,4.2,0.25977365594938834,False,-1.0
+2021-04-04,Newcastle,Tottenham,bet365_1x2,draw,4.0,0.272777533493614,True,3.0
+2021-04-10,Liverpool,Aston Villa,bet365_1x2,draw,4.33,0.24468907571452697,False,-1.0
+2021-04-18,Man United,Burnley,bet365_1x2,draw,5.25,0.21975633520109716,False,-1.0
+2021-04-19,Leeds,Liverpool,bet365_1x2,draw,4.33,0.26250815095885754,True,3.33
+2021-04-24,Liverpool,Newcastle,bet365_1x2,draw,6.5,0.21424654737384283,True,5.5
+2021-04-25,Leeds,Man United,bet365_1x2,draw,4.2,0.26258015337782525,True,3.2
+2021-04-26,Leicester,Crystal Palace,bet365_1x2,home,1.4,0.7626101868197894,True,0.3999999999999999
+2021-05-01,Chelsea,Fulham,bet365_1x2,home,1.44,0.7439877340447463,True,0.43999999999999995
+2021-05-02,Tottenham,Sheffield United,bet365_1x2,draw,6.0,0.2063838875851912,False,-1.0
+2021-05-08,Liverpool,Southampton,bet365_1x2,draw,6.0,0.23479346425567946,False,-1.0
+2021-05-09,Arsenal,West Brom,bet365_1x2,draw,4.5,0.23910798383608436,False,-1.0
+2021-05-12,Chelsea,Arsenal,bet365_1x2,draw,4.0,0.26929366322815496,False,-1.0
+2021-05-14,Newcastle,Man City,bet365_1x2,draw,6.0,0.22766127025761654,False,-1.0
+2021-05-16,Tottenham,Wolves,bet365_1x2,draw,4.33,0.24776157510114774,False,-1.0
+2021-05-16,West Brom,Liverpool,bet365_1x2,draw,6.5,0.1833696236257376,False,-1.0
+2021-05-19,Burnley,Liverpool,bet365_1x2,draw,7.0,0.221670544568482,False,-1.0
+2021-05-19,Crystal Palace,Arsenal,bet365_1x2,draw,4.5,0.24209190948264744,False,-1.0
+2021-05-19,West Brom,West Ham,bet365_1x2,draw,4.33,0.24713425640724077,False,-1.0
+2021-05-23,Arsenal,Brighton,bet365_1x2,draw,4.33,0.25278791477586104,False,-1.0
+2021-05-23,Aston Villa,Chelsea,bet365_1x2,draw,4.6,0.25110508474590165,False,-1.0
+2021-05-23,Leeds,West Brom,bet365_1x2,draw,5.25,0.2185975503418555,False,-1.0
+2021-05-23,Liverpool,Crystal Palace,bet365_1x2,draw,8.5,0.1671157949594914,False,-1.0
+2021-08-14,Chelsea,Crystal Palace,bet365_1x2,draw,5.75,0.19043148637990007,False,-1.0
+2021-08-14,Man United,Leeds,bet365_1x2,draw,4.5,0.2475687267224845,False,-1.0
+2021-08-21,Liverpool,Burnley,bet365_1x2,draw,7.5,0.159750348545005,False,-1.0
+2021-08-28,Man City,Arsenal,bet365_1x2,draw,6.0,0.21392486220951448,False,-1.0
+2021-09-11,Arsenal,Norwich,bet365_1x2,home,1.5,0.8027501190527815,True,0.5
+2021-09-11,Chelsea,Aston Villa,bet365_1x2,draw,5.5,0.1978988499799034,False,-1.0
+2021-09-11,Man United,Newcastle,bet365_1x2,draw,7.5,0.20697563298357696,False,-1.0
+2021-09-18,Man City,Southampton,bet365_1x2,draw,9.5,0.13527220638266957,True,8.5
+2021-09-25,Everton,Norwich,bet365_1x2,home,1.61,0.7218827836518039,True,0.6100000000000001
+2021-10-02,Wolves,Newcastle,bet365_1x2,draw,4.2,0.2546636031113498,False,-1.0
+2021-10-16,Watford,Liverpool,bet365_1x2,away,1.33,0.7923094102434503,True,0.33000000000000007
+2021-10-23,Chelsea,Norwich,bet365_1x2,draw,7.0,0.1659342891486465,False,-1.0
+2021-10-30,Man City,Crystal Palace,bet365_1x2,draw,8.0,0.13906266001959777,False,-1.0
+2021-10-30,Newcastle,Chelsea,bet365_1x2,draw,5.0,0.2273896155332204,False,-1.0
+2021-11-06,Brentford,Norwich,bet365_1x2,home,1.6,0.6730298706935264,False,-1.0
+2021-11-06,Chelsea,Burnley,bet365_1x2,draw,6.0,0.18555323058157988,True,5.0
+2021-11-20,Watford,Man United,bet365_1x2,draw,4.75,0.24552882617527297,False,-1.0
+2021-11-21,Man City,Everton,bet365_1x2,draw,8.0,0.1566785259963602,False,-1.0
+2021-11-21,Tottenham,Leeds,bet365_1x2,draw,4.2,0.2570866586590019,False,-1.0
+2021-11-27,Arsenal,Newcastle,bet365_1x2,draw,4.75,0.22208557447811103,False,-1.0
+2021-12-01,Everton,Liverpool,bet365_1x2,draw,5.25,0.20436166358806288,False,-1.0
+2021-12-02,Tottenham,Brentford,bet365_1x2,draw,4.2,0.2714007668908908,False,-1.0
+2021-12-04,Watford,Man City,bet365_1x2,draw,7.0,0.17064090129527046,False,-1.0
+2021-12-05,Man United,Crystal Palace,bet365_1x2,draw,4.33,0.2511986393471817,False,-1.0
+2021-12-05,Tottenham,Norwich,bet365_1x2,draw,5.0,0.2312334321788219,False,-1.0
+2021-12-11,Chelsea,Leeds,bet365_1x2,draw,5.75,0.19623534574924273,False,-1.0
+2021-12-11,Liverpool,Aston Villa,bet365_1x2,draw,7.0,0.1556273444573835,False,-1.0
+2021-12-11,Man City,Wolves,bet365_1x2,draw,8.0,0.13682053699205715,False,-1.0
+2021-12-11,Norwich,Man United,bet365_1x2,draw,4.5,0.25697670536025446,False,-1.0
+2021-12-14,Man City,Leeds,bet365_1x2,draw,8.5,0.1368713458391999,False,-1.0
+2021-12-16,Liverpool,Newcastle,bet365_1x2,draw,9.0,0.14854366597895546,False,-1.0
+2021-12-27,Newcastle,Man United,bet365_1x2,draw,4.75,0.242112459583281,True,3.75
+2021-12-28,Leicester,Liverpool,bet365_1x2,draw,5.5,0.1957836375795415,False,-1.0
+2021-12-29,Brentford,Man City,bet365_1x2,draw,8.0,0.13206074791616362,False,-1.0
+2021-12-30,Man United,Burnley,bet365_1x2,draw,5.0,0.23276891781995424,False,-1.0
+2022-01-12,West Ham,Norwich,bet365_1x2,draw,5.5,0.20284979041216133,False,-1.0
+2022-01-15,Man City,Chelsea,bet365_1x2,home,1.65,0.6515849652975807,True,0.6499999999999999
+2022-01-22,Southampton,Man City,bet365_1x2,draw,6.5,0.16937312581637334,True,5.5
+2022-01-23,Chelsea,Tottenham,bet365_1x2,draw,4.2,0.2538883326944658,False,-1.0
+2022-01-23,Crystal Palace,Liverpool,bet365_1x2,away,1.53,0.720095077484255,True,0.53
+2022-02-08,West Ham,Watford,bet365_1x2,draw,4.2,0.258463524258225,False,-1.0
+2022-02-10,Liverpool,Leicester,bet365_1x2,draw,6.5,0.16842855351339364,False,-1.0
+2022-02-26,Man United,Watford,bet365_1x2,draw,5.5,0.21121307449492377,True,4.5
+2022-03-05,Leicester,Leeds,bet365_1x2,home,1.75,0.6534720978814146,True,0.75
+2022-03-06,Watford,Arsenal,bet365_1x2,away,1.57,0.7022022025417873,True,0.5700000000000001
+2022-03-13,Chelsea,Newcastle,bet365_1x2,draw,5.25,0.2445711950008183,False,-1.0
+2022-03-13,Leeds,Norwich,bet365_1x2,draw,4.2,0.2548487992833692,False,-1.0
+2022-03-13,Southampton,Watford,bet365_1x2,home,1.6,0.6629917020665856,False,-1.0
+2022-04-16,Man United,Norwich,bet365_1x2,draw,6.5,0.19529885948437417,False,-1.0
+2022-04-30,Newcastle,Liverpool,bet365_1x2,draw,5.0,0.21232732623131342,False,-1.0
+2022-05-01,Everton,Chelsea,bet365_1x2,away,1.75,0.7010877467313158,False,-1.0
+2022-05-01,Tottenham,Leicester,bet365_1x2,draw,4.75,0.24018280072920636,False,-1.0
+2022-05-11,Leicester,Norwich,bet365_1x2,draw,4.75,0.2425743436062517,False,-1.0
+2022-05-11,Wolves,Man City,bet365_1x2,draw,6.0,0.17612389086051486,False,-1.0
+2022-05-15,Tottenham,Burnley,bet365_1x2,draw,5.25,0.21605203752271354,False,-1.0
+2022-05-15,Wolves,Norwich,bet365_1x2,draw,4.75,0.23794662847975778,True,3.75
+2022-05-19,Chelsea,Leicester,bet365_1x2,draw,4.75,0.2308751401758074,True,3.75
+2022-05-22,Arsenal,Everton,bet365_1x2,draw,4.75,0.23620172136368692,False,-1.0
+2022-05-22,Liverpool,Wolves,bet365_1x2,draw,8.5,0.15109253133182304,False,-1.0
+2022-05-22,Norwich,Tottenham,bet365_1x2,draw,6.5,0.19542612098753362,False,-1.0
+2022-08-07,Man United,Brighton,bet365_1x2,draw,4.2,0.26101938574336925,False,-1.0
+2022-08-13,Man City,Bournemouth,bet365_1x2,draw,13.0,0.13726888304653959,False,-1.0
+2022-08-27,Arsenal,Fulham,bet365_1x2,draw,5.75,0.18550728775662143,False,-1.0
+2022-08-28,Nott'm Forest,Tottenham,bet365_1x2,draw,4.6,0.2330300306163237,False,-1.0
+2022-09-03,Aston Villa,Man City,bet365_1x2,away,1.33,0.8013987375407625,False,-1.0
+2022-09-03,Tottenham,Fulham,bet365_1x2,home,1.5,0.7093575314922929,True,0.5
+2022-09-17,Tottenham,Leicester,bet365_1x2,home,1.45,0.7375883328359515,True,0.44999999999999996
+2022-10-02,Man City,Man United,bet365_1x2,home,1.33,0.8044333501780561,True,0.33000000000000007
+2022-10-15,Tottenham,Everton,bet365_1x2,home,1.5,0.7364302166246527,True,0.5
+2022-10-22,Man City,Brighton,bet365_1x2,draw,7.0,0.161897410357931,False,-1.0
+2022-10-22,Nott'm Forest,Liverpool,bet365_1x2,draw,6.0,0.19644128760438068,False,-1.0
+2022-10-29,Leicester,Man City,bet365_1x2,draw,6.5,0.19210730563504894,False,-1.0
+2022-12-27,Chelsea,Bournemouth,bet365_1x2,draw,5.5,0.24614462081436467,False,-1.0
+2022-12-27,Man United,Nott'm Forest,bet365_1x2,draw,5.5,0.19263091319036058,False,-1.0
+2022-12-30,Liverpool,Leicester,bet365_1x2,draw,6.0,0.21020256946862764,False,-1.0
+2023-01-01,Tottenham,Aston Villa,bet365_1x2,home,1.67,0.6997155678667434,False,-1.0
+2023-01-19,Man City,Tottenham,bet365_1x2,draw,5.0,0.21411335647894106,False,-1.0
+2023-01-21,West Ham,Everton,bet365_1x2,draw,3.75,0.2802656283429627,False,-1.0
+2023-02-04,Brighton,Bournemouth,bet365_1x2,draw,5.25,0.20828891037817396,False,-1.0
+2023-02-04,Man United,Crystal Palace,bet365_1x2,draw,4.75,0.2218039687184481,False,-1.0
+2023-02-08,Man United,Leeds,bet365_1x2,home,1.45,0.7330843130089261,False,-1.0
+2023-02-12,Man City,Aston Villa,bet365_1x2,draw,6.5,0.18193969790692865,False,-1.0
+2023-02-18,Nott'm Forest,Man City,bet365_1x2,draw,5.5,0.21084020266715214,True,4.5
+2023-03-04,Arsenal,Bournemouth,bet365_1x2,draw,7.0,0.15207058765623918,False,-1.0
+2023-03-11,Tottenham,Nott'm Forest,bet365_1x2,draw,4.75,0.22565312449821845,False,-1.0
+2023-04-15,Man City,Leicester,bet365_1x2,draw,8.5,0.13124487031477547,False,-1.0
+2023-04-21,Arsenal,Southampton,bet365_1x2,draw,7.0,0.15914256653265396,True,6.0
+2023-04-22,Liverpool,Nott'm Forest,bet365_1x2,draw,7.5,0.17496770909556933,False,-1.0
+2023-04-26,Chelsea,Brentford,bet365_1x2,draw,4.0,0.2664311801969061,False,-1.0
+2023-04-30,Fulham,Man City,bet365_1x2,draw,6.0,0.1863983090895874,False,-1.0
+2023-05-03,Liverpool,Fulham,bet365_1x2,draw,5.75,0.1896200950769944,False,-1.0
+2023-05-06,Liverpool,Brentford,bet365_1x2,draw,5.0,0.21460473237758113,False,-1.0
+2023-05-13,Chelsea,Nott'm Forest,bet365_1x2,draw,4.5,0.23851214732272596,True,3.5
+2023-05-20,Liverpool,Aston Villa,bet365_1x2,draw,5.0,0.23660907500552936,True,4.0
+2023-05-21,Brighton,Southampton,bet365_1x2,draw,7.0,0.17976223314862344,False,-1.0
+2023-05-28,Arsenal,Wolves,bet365_1x2,draw,5.25,0.20606300404359784,False,-1.0
+2023-05-28,Everton,Bournemouth,bet365_1x2,draw,4.5,0.26241289093743964,False,-1.0
+2023-08-12,Arsenal,Nott'm Forest,bet365_1x2,draw,7.0,0.1627021456176643,False,-1.0
+2023-08-12,Brighton,Luton,bet365_1x2,draw,5.5,0.19740860417840375,False,-1.0
+2023-08-19,Liverpool,Bournemouth,bet365_1x2,draw,7.0,0.16492267418898754,False,-1.0
+2023-08-26,Arsenal,Fulham,bet365_1x2,draw,7.0,0.17194916161027346,True,6.0
+2023-08-27,Sheffield United,Man City,bet365_1x2,draw,8.0,0.16395533217057337,False,-1.0
+2023-09-03,Liverpool,Aston Villa,bet365_1x2,home,1.65,0.655402899747422,True,0.6499999999999999
+2023-09-24,Sheffield United,Newcastle,bet365_1x2,draw,4.75,0.2356150731875464,False,-1.0
+2023-10-07,Luton,Tottenham,bet365_1x2,draw,4.75,0.22140687508874812,False,-1.0
+2023-10-21,Liverpool,Everton,bet365_1x2,draw,5.75,0.1943279961379403,False,-1.0
+2023-10-21,Sheffield United,Man United,bet365_1x2,draw,5.25,0.20192993361420997,False,-1.0
+2023-10-29,Aston Villa,Luton,bet365_1x2,draw,6.5,0.1638286944628635,False,-1.0
+2023-11-05,Luton,Liverpool,bet365_1x2,draw,6.5,0.19106249020196414,True,5.5
+2023-11-12,Aston Villa,Fulham,bet365_1x2,home,1.57,0.6722214728507732,True,0.5700000000000001
+2023-12-03,Chelsea,Brighton,bet365_1x2,draw,4.2,0.25116539268739824,False,-1.0
+2023-12-05,Luton,Arsenal,bet365_1x2,draw,7.0,0.21984623878299617,False,-1.0
+2023-12-10,Luton,Man City,bet365_1x2,draw,8.0,0.21597481469750618,False,-1.0
+2023-12-16,Chelsea,Sheffield United,bet365_1x2,draw,6.5,0.18808755805110908,False,-1.0
+2023-12-16,Man City,Crystal Palace,bet365_1x2,draw,8.0,0.16302422891971832,True,7.0
+2023-12-17,Liverpool,Man United,bet365_1x2,draw,6.0,0.18648789025256068,True,5.0
+2023-12-30,Luton,Chelsea,bet365_1x2,draw,4.2,0.2589862694838549,False,-1.0
+2024-01-30,Nott'm Forest,Arsenal,bet365_1x2,draw,5.0,0.21759253561550423,False,-1.0
+2024-01-31,Liverpool,Chelsea,bet365_1x2,home,1.57,0.7786229922602259,True,0.5700000000000001
+2024-01-31,Man City,Burnley,bet365_1x2,draw,12.0,0.09962559616667462,False,-1.0
+2024-02-03,Newcastle,Luton,bet365_1x2,draw,4.75,0.2387776780339134,True,3.75
+2024-02-04,Chelsea,Wolves,bet365_1x2,draw,4.0,0.26441694477489297,False,-1.0
+2024-02-04,Man United,West Ham,bet365_1x2,draw,4.2,0.2558593247004992,False,-1.0
+2024-02-17,Brentford,Liverpool,bet365_1x2,away,1.57,0.7000121874731401,True,0.5700000000000001
+2024-02-17,Burnley,Arsenal,bet365_1x2,draw,5.75,0.1854947719412787,False,-1.0
+2024-02-17,Man City,Chelsea,bet365_1x2,home,1.33,0.8153532534573802,False,-1.0
+2024-03-02,Nott'm Forest,Liverpool,bet365_1x2,away,1.53,0.7502692606126722,True,0.53
+2024-03-09,Bournemouth,Sheffield United,bet365_1x2,draw,5.25,0.22066245870784926,True,4.25
+2024-03-13,Bournemouth,Luton,bet365_1x2,draw,4.75,0.2427161743350918,False,-1.0
+2024-03-30,Chelsea,Burnley,bet365_1x2,draw,6.0,0.20189134327720176,True,5.0
+2024-03-30,Tottenham,Luton,bet365_1x2,draw,8.0,0.19650311229049827,False,-1.0
+2024-04-02,West Ham,Tottenham,bet365_1x2,draw,4.2,0.2502017136380702,True,3.2
+2024-04-03,Arsenal,Luton,bet365_1x2,draw,10.0,0.11089850189153232,False,-1.0
+2024-04-03,Man City,Aston Villa,bet365_1x2,draw,6.0,0.18126376203104824,False,-1.0
+2024-04-06,Everton,Burnley,bet365_1x2,draw,4.0,0.2651520425588373,False,-1.0
+2024-04-07,Sheffield United,Chelsea,bet365_1x2,draw,5.25,0.20712713866684493,True,4.25
+2024-04-07,Tottenham,Nott'm Forest,bet365_1x2,draw,5.5,0.20668783136568158,False,-1.0
+2024-04-13,Brentford,Sheffield United,bet365_1x2,draw,5.0,0.2505053036578887,False,-1.0
+2024-04-14,Liverpool,Crystal Palace,bet365_1x2,home,1.22,0.871061456017317,False,-1.0
+2024-04-24,Man United,Sheffield United,bet365_1x2,draw,6.5,0.2079155322821026,False,-1.0
+2024-04-27,Newcastle,Sheffield United,bet365_1x2,draw,7.0,0.18318234849056855,False,-1.0
+2024-05-04,Arsenal,Bournemouth,bet365_1x2,draw,7.5,0.17498095609079065,False,-1.0
+2024-05-04,Sheffield United,Nott'm Forest,bet365_1x2,draw,4.2,0.2659328727367593,False,-1.0
+2024-05-05,Liverpool,Tottenham,bet365_1x2,home,1.5,0.7208270340845614,True,0.5
+2024-05-11,Everton,Sheffield United,bet365_1x2,draw,4.8,0.24567347880099016,False,-1.0
+2024-05-11,Fulham,Man City,bet365_1x2,draw,7.0,0.17808052301409116,False,-1.0
+2024-05-11,Tottenham,Burnley,bet365_1x2,draw,5.75,0.20858824813449203,False,-1.0
+2024-05-11,West Ham,Luton,bet365_1x2,draw,4.2,0.25373455876039763,False,-1.0
+2024-05-12,Man United,Arsenal,bet365_1x2,draw,5.5,0.23432144859677434,False,-1.0
+2024-05-14,Tottenham,Man City,bet365_1x2,draw,6.0,0.20161216877387486,False,-1.0
+2024-05-19,Arsenal,Everton,bet365_1x2,draw,8.0,0.1513254058405893,False,-1.0
+2024-05-19,Crystal Palace,Aston Villa,bet365_1x2,draw,4.33,0.25012220265888235,False,-1.0
+2024-05-19,Man City,West Ham,bet365_1x2,draw,12.0,0.09332330027738611,False,-1.0
+2024-05-19,Sheffield United,Tottenham,bet365_1x2,draw,6.0,0.22897173837126558,False,-1.0
+2024-08-17,Newcastle,Southampton,bet365_1x2,home,1.36,0.7814952242449074,True,0.3600000000000001
+2024-08-19,Leicester,Tottenham,bet365_1x2,draw,4.33,0.2520009573669683,True,3.33
+2024-08-24,Tottenham,Everton,bet365_1x2,draw,4.75,0.22326901429993462,False,-1.0
+2024-08-31,Leicester,Aston Villa,bet365_1x2,draw,4.0,0.26258857240116584,False,-1.0
+2024-09-14,Crystal Palace,Leicester,bet365_1x2,home,1.62,0.6851011878790005,False,-1.0
+2024-10-20,Liverpool,Chelsea,bet365_1x2,home,1.62,0.6820554550304068,True,0.6200000000000001
+2024-10-20,Wolves,Man City,bet365_1x2,away,1.33,0.7935683598976137,True,0.33000000000000007
+2024-10-26,Brighton,Wolves,bet365_1x2,home,1.62,0.6844318890855796,False,-1.0
+2024-11-02,Bournemouth,Man City,bet365_1x2,away,1.57,0.679406335840851,False,-1.0
+2024-11-10,Man United,Leicester,bet365_1x2,draw,5.5,0.2023559667835031,False,-1.0
+2024-11-10,Tottenham,Ipswich,bet365_1x2,draw,6.5,0.16629255834649698,False,-1.0
+2024-11-23,Arsenal,Nott'm Forest,bet365_1x2,draw,4.75,0.22326594571658895,False,-1.0
+2024-11-23,Leicester,Chelsea,bet365_1x2,draw,4.75,0.22507414379955204,False,-1.0
+2024-11-30,West Ham,Arsenal,bet365_1x2,draw,4.5,0.2334494840512137,False,-1.0
+2024-12-01,Man United,Everton,bet365_1x2,draw,4.2,0.2523389561401922,False,-1.0
+2024-12-14,Arsenal,Everton,bet365_1x2,draw,6.5,0.1647902617961801,True,5.5
+2024-12-14,Newcastle,Leicester,bet365_1x2,draw,6.0,0.21034340004998628,False,-1.0
+2024-12-15,Chelsea,Brentford,bet365_1x2,draw,6.0,0.18127177873012223,False,-1.0
+2024-12-26,Liverpool,Leicester,bet365_1x2,draw,12.0,0.0876128260131588,False,-1.0
+2024-12-26,Man City,Everton,bet365_1x2,draw,5.5,0.20328437181110354,True,4.5
+2024-12-27,Arsenal,Ipswich,bet365_1x2,draw,9.0,0.12821689855948093,False,-1.0
+2024-12-29,Leicester,Man City,bet365_1x2,draw,5.5,0.19952673099265042,False,-1.0
+2024-12-29,Tottenham,Wolves,bet365_1x2,draw,5.0,0.23080408668567426,True,4.0
+2025-01-04,Man City,West Ham,bet365_1x2,draw,6.25,0.19368946977602025,False,-1.0
+2025-01-14,Chelsea,Bournemouth,bet365_1x2,draw,4.75,0.23129539759221174,True,3.75
+2025-01-15,Newcastle,Wolves,bet365_1x2,draw,5.5,0.2056522791404722,False,-1.0
+2025-01-16,Man United,Southampton,bet365_1x2,draw,6.0,0.19027466789264738,False,-1.0
+2025-01-19,Ipswich,Man City,bet365_1x2,draw,5.25,0.23178643863399592,False,-1.0
+2025-01-20,Chelsea,Wolves,bet365_1x2,draw,5.75,0.1978216523058893,False,-1.0
+2025-01-26,Tottenham,Leicester,bet365_1x2,draw,5.5,0.21503404418579275,False,-1.0
+2025-02-25,Chelsea,Southampton,bet365_1x2,draw,8.0,0.16112511750685946,False,-1.0
+2025-03-09,Chelsea,Leicester,bet365_1x2,draw,8.0,0.16844137176442275,False,-1.0
+2025-04-02,Man City,Leicester,bet365_1x2,draw,8.0,0.17131663699910152,False,-1.0
+2025-04-02,Newcastle,Brentford,bet365_1x2,draw,4.5,0.252975606050482,False,-1.0
+2025-04-02,Southampton,Crystal Palace,bet365_1x2,away,1.62,0.7275473840137207,False,-1.0
+2025-04-06,Tottenham,Southampton,bet365_1x2,draw,5.5,0.21225101666794166,False,-1.0
+2025-04-12,Brighton,Leicester,bet365_1x2,draw,6.0,0.19363264572496072,True,5.0
+2025-04-12,Man City,Crystal Palace,bet365_1x2,draw,4.75,0.24861945415447254,False,-1.0
+2025-04-13,Chelsea,Ipswich,bet365_1x2,draw,7.0,0.17291168519149477,True,6.0
+2025-04-26,Newcastle,Ipswich,bet365_1x2,draw,7.5,0.16419839843513506,False,-1.0
+2025-05-02,Man City,Wolves,bet365_1x2,draw,4.75,0.22294301542210232,False,-1.0
+2025-05-10,Southampton,Man City,bet365_1x2,draw,7.5,0.16563883051003087,True,6.5
+2025-05-11,Nott'm Forest,Leicester,bet365_1x2,draw,5.25,0.20587696571637037,True,4.25
+2025-05-16,Aston Villa,Tottenham,bet365_1x2,draw,6.0,0.1980224989755625,False,-1.0
+2025-05-16,Chelsea,Man United,bet365_1x2,draw,5.0,0.21847957486070793,False,-1.0
+2025-05-18,Everton,Southampton,bet365_1x2,draw,4.75,0.23162722803813796,False,-1.0
+2025-05-25,Bournemouth,Leicester,bet365_1x2,draw,5.25,0.22289087917433228,False,-1.0
+2025-05-25,Liverpool,Crystal Palace,bet365_1x2,draw,6.0,0.18467756335719934,True,5.0
+2025-05-25,Man United,Aston Villa,bet365_1x2,draw,4.2,0.2598933124434417,False,-1.0
+2025-05-25,Newcastle,Everton,bet365_1x2,draw,5.5,0.19868933339869788,False,-1.0
+2025-08-15,Liverpool,Bournemouth,bet365_1x2,draw,6.0,0.1872893234555579,False,-1.0
+2025-08-16,Tottenham,Burnley,bet365_1x2,draw,4.75,0.2659267220068323,False,-1.0
+2025-08-16,Wolves,Man City,bet365_1x2,draw,4.75,0.23064680876377253,False,-1.0
+2025-08-23,Arsenal,Leeds,bet365_1x2,draw,6.25,0.26097209063443627,False,-1.0
+2025-08-23,Man City,Tottenham,bet365_1x2,home,1.48,0.7661305377630185,False,-1.0
+2025-08-30,Man United,Burnley,bet365_1x2,draw,5.25,0.25862979033519745,False,-1.0
+2025-09-13,Newcastle,Wolves,bet365_1x2,draw,4.75,0.23124859656207153,False,-1.0
+2025-09-14,Burnley,Liverpool,bet365_1x2,draw,5.5,0.2193974056955751,False,-1.0
+2025-09-27,Man City,Burnley,bet365_1x2,draw,7.5,0.16670349151676114,False,-1.0
+2025-09-27,Tottenham,Wolves,bet365_1x2,draw,4.5,0.25834296853046473,True,3.5
+2025-10-04,Arsenal,West Ham,bet365_1x2,draw,6.5,0.19347948003070145,False,-1.0
+2025-10-04,Man United,Sunderland,bet365_1x2,draw,4.75,0.25682530167060497,False,-1.0
+2025-10-05,Aston Villa,Burnley,bet365_1x2,home,1.6,0.6679213928645413,True,0.6000000000000001
+2025-10-05,Brentford,Man City,bet365_1x2,draw,4.5,0.24808484278292184,False,-1.0
+2025-11-01,Burnley,Arsenal,bet365_1x2,draw,6.0,0.19898339914941482,False,-1.0
+2025-11-08,Sunderland,Arsenal,bet365_1x2,draw,5.0,0.2444138312827151,True,4.0
+2025-12-03,Liverpool,Sunderland,bet365_1x2,draw,5.25,0.20303894394949837,True,4.25
+2025-12-04,Man United,West Ham,bet365_1x2,draw,5.0,0.23253357561465585,True,4.0
+2025-12-06,Newcastle,Burnley,bet365_1x2,draw,6.0,0.19978429795530683,False,-1.0
+2025-12-20,Man City,West Ham,bet365_1x2,draw,8.0,0.14686637640704034,False,-1.0
+2025-12-30,Burnley,Newcastle,bet365_1x2,draw,4.2,0.25051989807374386,False,-1.0
+2025-12-30,Chelsea,Bournemouth,bet365_1x2,draw,4.75,0.22822092881916764,True,3.75
+2026-01-01,Sunderland,Man City,bet365_1x2,draw,4.75,0.23909011958150003,True,3.75
+2026-01-03,Bournemouth,Arsenal,bet365_1x2,draw,4.75,0.2600810254927213,False,-1.0
+2026-01-17,Liverpool,Burnley,bet365_1x2,draw,6.5,0.1745655539975737,True,5.5
+2026-01-24,Man City,Wolves,bet365_1x2,draw,7.0,0.16467517385780345,False,-1.0
+2026-02-01,Tottenham,Man City,bet365_1x2,draw,4.1,0.2564222548188139,True,3.0999999999999996
+2026-02-07,Arsenal,Sunderland,bet365_1x2,draw,6.25,0.17121990075800575,False,-1.0
+2026-02-07,Man United,Tottenham,bet365_1x2,draw,4.5,0.23357469667823355,False,-1.0
+2026-02-11,Man City,Fulham,bet365_1x2,draw,5.5,0.19135982251780256,False,-1.0
+2026-02-21,Chelsea,Burnley,bet365_1x2,draw,6.5,0.17097688900001917,True,5.5
+2026-02-21,Man City,Newcastle,bet365_1x2,draw,5.0,0.21169862106230722,False,-1.0
+2026-03-04,Man City,Nott'm Forest,bet365_1x2,draw,5.0,0.21867609927040974,True,4.0
+2026-03-15,Liverpool,Tottenham,bet365_1x2,draw,6.25,0.18062457363510473,True,5.25
+2026-04-22,Burnley,Man City,bet365_1x2,draw,9.0,0.15506003413488886,False,-1.0
+2026-04-25,Liverpool,Crystal Palace,bet365_1x2,draw,5.0,0.22084182080863302,False,-1.0
+2026-04-25,Wolves,Tottenham,bet365_1x2,draw,4.33,0.25027575624001547,False,-1.0
+2026-05-01,Leeds,Burnley,bet365_1x2,draw,5.0,0.24324979096379,False,-1.0
+2026-05-03,Bournemouth,Crystal Palace,bet365_1x2,draw,4.33,0.24801349611218812,False,-1.0
+2026-05-09,Brighton,Wolves,bet365_1x2,draw,6.25,0.21038966802888906,False,-1.0
+2026-05-09,Man City,Brentford,bet365_1x2,draw,5.75,0.18687671818506235,False,-1.0
+2026-05-11,Tottenham,Leeds,bet365_1x2,draw,4.1,0.25687565231216786,True,3.0999999999999996
+2026-05-13,Man City,Crystal Palace,bet365_1x2,draw,7.5,0.14192249038672647,False,-1.0
+2026-05-17,Brentford,Crystal Palace,bet365_1x2,draw,4.2,0.2524318370065551,True,3.2
+2026-05-18,Arsenal,Burnley,bet365_1x2,draw,11.0,0.1376983125083909,False,-1.0
+2026-08-22,Hull,Man United,bet365_1x2,draw,5.0,0.25597966564818425,False,-1.0
+2026-08-29,Liverpool,Nott'm Forest,bet365_1x2,draw,4.5,0.24784373340362362,True,3.5
+2026-09-04,Ipswich,Liverpool,bet365_1x2,draw,4.75,0.23863040631644364,False,-1.0
+2026-09-06,Arsenal,Chelsea,bet365_1x2,home,1.67,0.731290283118015,True,0.6699999999999999
+2026-09-12,Chelsea,Hull,bet365_1x2,draw,6.5,0.2520506321842502,True,5.5
+2026-09-12,Liverpool,Fulham,bet365_1x2,draw,5.0,0.2352720222518191,True,4.0
+2026-09-19,Newcastle,Hull,bet365_1x2,draw,4.33,0.25329940738244283,False,-1.0
+2026-09-20,Man City,Sunderland,bet365_1x2,draw,5.5,0.19565475135134386,False,-1.0
+2026-10-10,Chelsea,Bournemouth,bet365_1x2,draw,4.33,0.24329596680459828,False,-1.0
+2026-10-17,Man City,Ipswich,bet365_1x2,draw,7.0,0.15017407302824112,False,-1.0
+2026-10-19,Tottenham,Coventry,bet365_1x2,draw,4.5,0.27379750045288154,False,-1.0
+2026-10-24,Aston Villa,Man City,bet365_1x2,draw,4.33,0.25365095845269714,False,-1.0
+2026-10-31,Man City,Brighton,bet365_1x2,draw,4.5,0.2335754481795477,False,-1.0
+2026-10-31,Tottenham,Crystal Palace,bet365_1x2,draw,4.5,0.2583486225300072,False,-1.0
+2026-11-07,Arsenal,Hull,bet365_1x2,draw,7.5,0.16677547012744645,False,-1.0
+2019-08-10,Bournemouth,Sheffield United,bet365_total_2_5,under_2.5,1.9,0.5732406553526925,True,0.8999999999999999
+2019-08-10,Burnley,Southampton,bet365_total_2_5,over_2.5,2.1,0.5375549279942732,True,1.1
+2019-08-10,Crystal Palace,Everton,bet365_total_2_5,over_2.5,2.2,0.5121705211836852,False,-1.0
+2019-08-10,Tottenham,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.5226046748040603,False,-1.0
+2019-08-10,Watford,Brighton,bet365_total_2_5,over_2.5,2.1,0.5592527650703965,True,1.1
+2019-08-10,West Ham,Man City,bet365_total_2_5,under_2.5,2.75,0.43613990990804075,False,-1.0
+2019-08-11,Man United,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5874907135350648,True,1.0
+2019-08-11,Newcastle,Arsenal,bet365_total_2_5,under_2.5,2.0,0.5287495883154036,True,1.0
+2019-08-17,Arsenal,Burnley,bet365_total_2_5,under_2.5,2.37,0.4794152283684333,False,-1.0
+2019-08-17,Aston Villa,Bournemouth,bet365_total_2_5,under_2.5,2.0,0.5413176503748094,False,-1.0
+2019-08-18,Chelsea,Leicester,bet365_total_2_5,over_2.5,1.9,0.5836945668984339,False,-1.0
+2019-08-23,Aston Villa,Everton,bet365_total_2_5,under_2.5,2.1,0.5071281218512804,True,1.1
+2019-08-24,Norwich,Chelsea,bet365_total_2_5,under_2.5,2.5,0.49023309347669397,False,-1.0
+2019-08-25,Bournemouth,Man City,bet365_total_2_5,under_2.5,3.2,0.39708991953316697,False,-1.0
+2019-08-25,Tottenham,Newcastle,bet365_total_2_5,under_2.5,2.5,0.47884810566283087,True,1.5
+2019-08-31,Chelsea,Sheffield United,bet365_total_2_5,under_2.5,2.1,0.5016093811406319,False,-1.0
+2019-08-31,Crystal Palace,Aston Villa,bet365_total_2_5,under_2.5,1.9,0.5680928896647695,True,0.8999999999999999
+2019-08-31,West Ham,Norwich,bet365_total_2_5,under_2.5,2.75,0.43104926938723287,True,1.75
+2019-09-14,Norwich,Man City,bet365_total_2_5,under_2.5,4.33,0.33655552601162575,False,-1.0
+2019-09-14,Tottenham,Crystal Palace,bet365_total_2_5,under_2.5,2.3,0.48699001612078063,False,-1.0
+2019-09-14,Wolves,Chelsea,bet365_total_2_5,over_2.5,1.9,0.5737347472985385,True,0.8999999999999999
+2019-09-15,Bournemouth,Everton,bet365_total_2_5,under_2.5,2.1,0.5041178780452731,False,-1.0
+2019-09-15,Watford,Arsenal,bet365_total_2_5,under_2.5,2.37,0.5095126534887711,False,-1.0
+2019-09-16,Aston Villa,West Ham,bet365_total_2_5,under_2.5,2.3,0.46715411015140085,True,1.2999999999999998
+2019-09-21,Burnley,Norwich,bet365_total_2_5,under_2.5,2.2,0.5298409098319503,True,1.2000000000000002
+2019-09-21,Newcastle,Brighton,bet365_total_2_5,over_2.5,2.3,0.502303287767826,False,-1.0
+2019-09-22,Arsenal,Aston Villa,bet365_total_2_5,under_2.5,2.75,0.4475058809260448,False,-1.0
+2019-09-28,Aston Villa,Burnley,bet365_total_2_5,under_2.5,1.9,0.5574489602072157,False,-1.0
+2019-09-28,Bournemouth,West Ham,bet365_total_2_5,under_2.5,2.37,0.4434246701832797,False,-1.0
+2019-09-28,Crystal Palace,Norwich,bet365_total_2_5,under_2.5,2.1,0.5157305426979051,True,1.1
+2019-09-30,Man United,Arsenal,bet365_total_2_5,under_2.5,2.3,0.46915733574790275,True,1.2999999999999998
+2019-10-05,Brighton,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5244651578250317,False,-1.0
+2019-10-05,Norwich,Aston Villa,bet365_total_2_5,under_2.5,2.37,0.5406726014264442,False,-1.0
+2019-10-06,Arsenal,Bournemouth,bet365_total_2_5,under_2.5,3.4,0.3757837722417481,True,2.4
+2019-10-06,Newcastle,Man United,bet365_total_2_5,over_2.5,2.2,0.5601967528315112,False,-1.0
+2019-10-19,Aston Villa,Brighton,bet365_total_2_5,under_2.5,2.0,0.5573816671425551,False,-1.0
+2019-10-19,Bournemouth,Norwich,bet365_total_2_5,under_2.5,3.0,0.4603711930760309,True,2.0
+2019-10-19,Chelsea,Newcastle,bet365_total_2_5,under_2.5,2.37,0.4514346262652241,True,1.37
+2019-10-19,Crystal Palace,Man City,bet365_total_2_5,under_2.5,2.75,0.3939148944645898,True,1.75
+2019-10-19,Everton,West Ham,bet365_total_2_5,over_2.5,1.72,0.6181137032962678,False,-1.0
+2019-10-19,Tottenham,Watford,bet365_total_2_5,under_2.5,2.5,0.4268786461446663,True,1.5
+2019-10-26,Brighton,Everton,bet365_total_2_5,over_2.5,2.0,0.534970930080319,True,1.0
+2019-10-26,Man City,Aston Villa,bet365_total_2_5,under_2.5,4.33,0.3006591248857218,False,-1.0
+2019-10-27,Newcastle,Wolves,bet365_total_2_5,over_2.5,2.5,0.44564739437355366,False,-1.0
+2019-10-27,Norwich,Man United,bet365_total_2_5,under_2.5,2.2,0.5047244567164313,False,-1.0
+2019-11-02,Aston Villa,Liverpool,bet365_total_2_5,under_2.5,2.75,0.48045735656620525,False,-1.0
+2019-11-02,Brighton,Norwich,bet365_total_2_5,under_2.5,2.2,0.5676527972868539,True,1.2000000000000002
+2019-11-02,West Ham,Newcastle,bet365_total_2_5,under_2.5,2.0,0.5271852711204075,False,-1.0
+2019-11-08,Norwich,Watford,bet365_total_2_5,under_2.5,2.2,0.5365649656447111,True,1.2000000000000002
+2019-11-09,Chelsea,Crystal Palace,bet365_total_2_5,under_2.5,2.37,0.4628029130195016,True,1.37
+2019-11-09,Leicester,Arsenal,bet365_total_2_5,under_2.5,2.37,0.46474865244487196,True,1.37
+2019-11-23,Everton,Norwich,bet365_total_2_5,under_2.5,2.5,0.42770193404422785,True,1.5
+2019-11-23,Watford,Burnley,bet365_total_2_5,over_2.5,2.0,0.5298391511834614,True,1.0
+2019-11-23,West Ham,Tottenham,bet365_total_2_5,under_2.5,2.5,0.4804426712434844,False,-1.0
+2019-11-24,Sheffield United,Man United,bet365_total_2_5,over_2.5,2.2,0.5023358274755386,True,1.2000000000000002
+2019-11-30,Chelsea,West Ham,bet365_total_2_5,under_2.5,3.0,0.39553997743146974,True,2.0
+2019-11-30,Tottenham,Bournemouth,bet365_total_2_5,under_2.5,2.5,0.47576795253751003,False,-1.0
+2019-12-01,Norwich,Arsenal,bet365_total_2_5,under_2.5,3.0,0.4555467582801823,False,-1.0
+2019-12-04,Chelsea,Aston Villa,bet365_total_2_5,under_2.5,3.0,0.4105196307657859,False,-1.0
+2019-12-04,Liverpool,Everton,bet365_total_2_5,over_2.5,1.57,0.7346080105417707,True,0.5700000000000001
+2019-12-04,Southampton,Norwich,bet365_total_2_5,under_2.5,2.37,0.5294543975832897,False,-1.0
+2019-12-05,Sheffield United,Newcastle,bet365_total_2_5,over_2.5,2.3,0.45911751375565824,False,-1.0
+2019-12-07,Tottenham,Burnley,bet365_total_2_5,under_2.5,2.37,0.495210778138755,False,-1.0
+2019-12-08,Brighton,Wolves,bet365_total_2_5,over_2.5,2.3,0.5562644161941656,True,1.2999999999999998
+2019-12-08,Newcastle,Southampton,bet365_total_2_5,over_2.5,2.1,0.5571739884591482,True,1.1
+2019-12-08,Norwich,Sheffield United,bet365_total_2_5,under_2.5,2.0,0.5252607477859366,False,-1.0
+2019-12-09,West Ham,Arsenal,bet365_total_2_5,under_2.5,2.75,0.515594300230825,False,-1.0
+2019-12-14,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,3.0,0.4434014367567082,True,2.0
+2019-12-14,Leicester,Norwich,bet365_total_2_5,under_2.5,2.75,0.42741365245293783,True,1.75
+2019-12-14,Sheffield United,Aston Villa,bet365_total_2_5,under_2.5,2.0,0.5326497866876472,True,1.0
+2019-12-14,Southampton,West Ham,bet365_total_2_5,under_2.5,2.3,0.5466601427872837,True,1.2999999999999998
+2019-12-15,Arsenal,Man City,bet365_total_2_5,under_2.5,3.4,0.35500265482141025,False,-1.0
+2019-12-21,Bournemouth,Burnley,bet365_total_2_5,under_2.5,1.9,0.5620982706399071,True,0.8999999999999999
+2019-12-21,Everton,Arsenal,bet365_total_2_5,under_2.5,2.37,0.5532548610193491,True,1.37
+2019-12-21,Man City,Leicester,bet365_total_2_5,under_2.5,3.0,0.42835232535120027,False,-1.0
+2019-12-21,Newcastle,Crystal Palace,bet365_total_2_5,over_2.5,2.5,0.46676764036472695,False,-1.0
+2019-12-22,Tottenham,Chelsea,bet365_total_2_5,under_2.5,2.37,0.4844419118103195,True,1.37
+2019-12-26,Aston Villa,Norwich,bet365_total_2_5,under_2.5,2.5,0.49163941814966305,True,1.5
+2019-12-26,Bournemouth,Arsenal,bet365_total_2_5,under_2.5,2.37,0.5515834953193577,True,1.37
+2019-12-26,Chelsea,Southampton,bet365_total_2_5,under_2.5,2.62,0.41639171409105,True,1.62
+2019-12-26,Crystal Palace,West Ham,bet365_total_2_5,over_2.5,1.9,0.5668780283688174,True,0.8999999999999999
+2019-12-26,Everton,Burnley,bet365_total_2_5,under_2.5,1.9,0.5695044273140908,True,0.8999999999999999
+2019-12-28,Norwich,Tottenham,bet365_total_2_5,under_2.5,2.37,0.5435028701544182,False,-1.0
+2019-12-28,Watford,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.567981454863338,False,-1.0
+2019-12-29,Arsenal,Chelsea,bet365_total_2_5,under_2.5,2.5,0.443383663699931,False,-1.0
+2019-12-29,Man City,Sheffield United,bet365_total_2_5,under_2.5,3.0,0.37672016571663125,True,2.0
+2020-01-01,Brighton,Chelsea,bet365_total_2_5,under_2.5,2.1,0.520843507612426,True,1.1
+2020-01-01,Man City,Everton,bet365_total_2_5,under_2.5,3.2,0.37582507276103205,False,-1.0
+2020-01-01,Norwich,Crystal Palace,bet365_total_2_5,under_2.5,1.9,0.5736742135117494,True,0.8999999999999999
+2020-01-01,Southampton,Tottenham,bet365_total_2_5,under_2.5,2.2,0.5380956357666105,True,1.2000000000000002
+2020-01-01,Watford,Wolves,bet365_total_2_5,over_2.5,2.0,0.5429781217329398,True,1.0
+2020-01-01,West Ham,Bournemouth,bet365_total_2_5,under_2.5,2.2,0.483713008112287,False,-1.0
+2020-01-11,Chelsea,Burnley,bet365_total_2_5,under_2.5,2.2,0.5025116327431958,False,-1.0
+2020-01-11,Man United,Norwich,bet365_total_2_5,under_2.5,2.37,0.4853737644729469,False,-1.0
+2020-01-11,Wolves,Newcastle,bet365_total_2_5,over_2.5,2.0,0.6315572571254868,False,-1.0
+2020-01-12,Aston Villa,Man City,bet365_total_2_5,under_2.5,3.75,0.4288898728544034,False,-1.0
+2020-01-18,Brighton,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.5297552352351242,True,1.2000000000000002
+2020-01-18,Man City,Crystal Palace,bet365_total_2_5,under_2.5,3.5,0.38795638847234615,False,-1.0
+2020-01-18,Newcastle,Chelsea,bet365_total_2_5,under_2.5,2.1,0.518591676749647,True,1.1
+2020-01-18,Norwich,Bournemouth,bet365_total_2_5,under_2.5,2.0,0.5596780056489727,True,1.0
+2020-01-19,Liverpool,Man United,bet365_total_2_5,over_2.5,1.66,0.638492540019684,False,-1.0
+2020-01-21,Aston Villa,Watford,bet365_total_2_5,under_2.5,1.9,0.5624986075617562,False,-1.0
+2020-01-21,Bournemouth,Brighton,bet365_total_2_5,over_2.5,2.0,0.557393336793997,True,1.0
+2020-01-21,Crystal Palace,Southampton,bet365_total_2_5,over_2.5,2.2,0.48223756260876577,False,-1.0
+2020-01-22,Man United,Burnley,bet365_total_2_5,over_2.5,1.8,0.5845650188498949,False,-1.0
+2020-01-22,Tottenham,Norwich,bet365_total_2_5,under_2.5,2.5,0.4212416836365356,False,-1.0
+2020-02-01,Bournemouth,Aston Villa,bet365_total_2_5,under_2.5,2.0,0.5650105190712114,False,-1.0
+2020-02-01,Man United,Wolves,bet365_total_2_5,over_2.5,2.2,0.5275643919773686,False,-1.0
+2020-02-01,West Ham,Brighton,bet365_total_2_5,over_2.5,1.9,0.5813994349565639,True,0.8999999999999999
+2020-02-02,Burnley,Arsenal,bet365_total_2_5,under_2.5,1.9,0.5818235209842175,True,0.8999999999999999
+2020-02-02,Tottenham,Man City,bet365_total_2_5,under_2.5,2.62,0.420571884311422,True,1.62
+2020-02-08,Everton,Crystal Palace,bet365_total_2_5,over_2.5,2.1,0.5684903400188217,True,1.1
+2020-02-09,Sheffield United,Bournemouth,bet365_total_2_5,over_2.5,2.3,0.46220397831863885,True,1.2999999999999998
+2020-02-16,Arsenal,Newcastle,bet365_total_2_5,under_2.5,2.1,0.562460881923043,False,-1.0
+2020-02-16,Aston Villa,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5242509961472352,False,-1.0
+2020-02-17,Chelsea,Man United,bet365_total_2_5,over_2.5,1.9,0.559921669023988,False,-1.0
+2020-02-19,Man City,West Ham,bet365_total_2_5,under_2.5,4.33,0.29207820999098133,True,3.33
+2020-02-22,Crystal Palace,Newcastle,bet365_total_2_5,over_2.5,2.5,0.42994914188159883,False,-1.0
+2020-02-22,Leicester,Man City,bet365_total_2_5,under_2.5,2.5,0.45515447318351954,True,1.5
+2020-02-22,Southampton,Aston Villa,bet365_total_2_5,under_2.5,2.37,0.4917403892719059,True,1.37
+2020-02-29,Brighton,Crystal Palace,bet365_total_2_5,over_2.5,2.3,0.4840881267591852,False,-1.0
+2020-02-29,Newcastle,Burnley,bet365_total_2_5,over_2.5,2.3,0.5290349207227193,False,-1.0
+2020-03-07,Arsenal,West Ham,bet365_total_2_5,under_2.5,2.37,0.5447185377970689,True,1.37
+2020-03-07,Crystal Palace,Watford,bet365_total_2_5,over_2.5,2.3,0.46171064047373833,False,-1.0
+2020-03-07,Liverpool,Bournemouth,bet365_total_2_5,over_2.5,1.44,0.7684191940560223,True,0.43999999999999995
+2020-03-09,Leicester,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.425242516998512,False,-1.0
+2020-06-17,Aston Villa,Sheffield United,bet365_total_2_5,over_2.5,2.1,0.547278200610417,False,-1.0
+2020-06-17,Man City,Arsenal,bet365_total_2_5,under_2.5,3.2,0.43451353449091057,False,-1.0
+2020-06-20,Bournemouth,Crystal Palace,bet365_total_2_5,over_2.5,2.1,0.5530205924267608,False,-1.0
+2020-06-21,Everton,Liverpool,bet365_total_2_5,over_2.5,1.66,0.6352129921856946,False,-1.0
+2020-06-21,Newcastle,Sheffield United,bet365_total_2_5,over_2.5,2.5,0.5097690895859127,True,1.5
+2020-06-24,Newcastle,Aston Villa,bet365_total_2_5,over_2.5,2.1,0.5868965742745313,False,-1.0
+2020-06-24,Wolves,Bournemouth,bet365_total_2_5,over_2.5,2.1,0.5493437222349814,False,-1.0
+2020-06-25,Burnley,Watford,bet365_total_2_5,over_2.5,2.2,0.511615877806678,False,-1.0
+2020-06-25,Chelsea,Man City,bet365_total_2_5,under_2.5,2.3,0.4689019890274734,False,-1.0
+2020-06-28,Watford,Southampton,bet365_total_2_5,over_2.5,2.0,0.5664661700926534,True,1.0
+2020-06-29,Crystal Palace,Burnley,bet365_total_2_5,over_2.5,2.5,0.42520779266006786,False,-1.0
+2020-06-30,Brighton,Man United,bet365_total_2_5,over_2.5,2.1,0.5216745332382159,True,1.1
+2020-07-01,Bournemouth,Newcastle,bet365_total_2_5,over_2.5,2.37,0.536341030515687,True,1.37
+2020-07-01,West Ham,Chelsea,bet365_total_2_5,over_2.5,1.72,0.6646482922974032,True,0.72
+2020-07-02,Sheffield United,Tottenham,bet365_total_2_5,over_2.5,2.2,0.5566718775006169,True,1.2000000000000002
+2020-07-04,Man United,Bournemouth,bet365_total_2_5,under_2.5,2.5,0.4603898512916742,False,-1.0
+2020-07-05,Burnley,Sheffield United,bet365_total_2_5,over_2.5,2.62,0.40682280300541634,False,-1.0
+2020-07-05,Liverpool,Aston Villa,bet365_total_2_5,over_2.5,1.5,0.7020613982533412,False,-1.0
+2020-07-05,Southampton,Man City,bet365_total_2_5,under_2.5,2.5,0.5587238031114123,True,1.5
+2020-07-06,Tottenham,Everton,bet365_total_2_5,over_2.5,1.9,0.5959601162803414,False,-1.0
+2020-07-08,Brighton,Liverpool,bet365_total_2_5,under_2.5,2.1,0.5133813650466792,False,-1.0
+2020-07-08,Man City,Newcastle,bet365_total_2_5,under_2.5,3.2,0.36725042454762646,False,-1.0
+2020-07-08,Sheffield United,Wolves,bet365_total_2_5,over_2.5,2.75,0.487639173671067,False,-1.0
+2020-07-09,Bournemouth,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5181666401184462,True,1.1
+2020-07-11,Brighton,Man City,bet365_total_2_5,under_2.5,2.5,0.4696331008041187,False,-1.0
+2020-07-11,Sheffield United,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5807759276418358,True,1.0
+2020-07-12,Wolves,Everton,bet365_total_2_5,over_2.5,2.5,0.48306308434461015,True,1.5
+2020-07-14,Chelsea,Norwich,bet365_total_2_5,under_2.5,3.2,0.3766314561099602,True,2.2
+2020-07-15,Burnley,Wolves,bet365_total_2_5,over_2.5,2.5,0.4392988488228357,False,-1.0
+2020-07-15,Man City,Bournemouth,bet365_total_2_5,under_2.5,3.75,0.30128692547514424,False,-1.0
+2020-07-16,Southampton,Brighton,bet365_total_2_5,over_2.5,2.1,0.5366128940706759,False,-1.0
+2020-07-20,Sheffield United,Everton,bet365_total_2_5,over_2.5,2.3,0.46200148743859293,False,-1.0
+2020-07-21,Aston Villa,Arsenal,bet365_total_2_5,under_2.5,2.2,0.6010782259246967,True,1.2000000000000002
+2020-07-21,Watford,Man City,bet365_total_2_5,under_2.5,2.62,0.48491151288604584,False,-1.0
+2020-07-22,Man United,West Ham,bet365_total_2_5,under_2.5,2.62,0.4738900884942169,True,1.62
+2020-07-26,Arsenal,Watford,bet365_total_2_5,under_2.5,2.3,0.49035246837007973,False,-1.0
+2020-07-26,Chelsea,Wolves,bet365_total_2_5,over_2.5,1.9,0.5528213593131831,False,-1.0
+2020-07-26,Crystal Palace,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5606124635220324,True,1.1
+2020-07-26,Everton,Bournemouth,bet365_total_2_5,under_2.5,2.37,0.5701372121353578,False,-1.0
+2020-07-26,Newcastle,Liverpool,bet365_total_2_5,under_2.5,2.5,0.46044964148263257,False,-1.0
+2020-07-26,Southampton,Sheffield United,bet365_total_2_5,under_2.5,1.9,0.5836513403719983,False,-1.0
+2020-07-26,West Ham,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.4812142904129486,True,1.2000000000000002
+2020-09-12,Crystal Palace,Southampton,bet365_total_2_5,over_2.5,2.2,0.484014103892281,False,-1.0
+2020-09-12,Fulham,Arsenal,bet365_total_2_5,under_2.5,2.1,0.582631612009356,False,-1.0
+2020-09-14,Sheffield United,Wolves,bet365_total_2_5,over_2.5,2.62,0.4685488554673292,False,-1.0
+2020-09-19,Arsenal,West Ham,bet365_total_2_5,under_2.5,2.2,0.4924214279650705,False,-1.0
+2020-09-19,Everton,West Brom,bet365_total_2_5,under_2.5,2.03,0.5779450481741855,False,-1.0
+2020-09-19,Leeds,Fulham,bet365_total_2_5,under_2.5,1.93,0.6567984466858994,False,-1.0
+2020-09-19,Man United,Crystal Palace,bet365_total_2_5,under_2.5,2.2,0.5309276684325659,False,-1.0
+2020-09-20,Leicester,Burnley,bet365_total_2_5,over_2.5,1.9,0.5604009552621804,True,0.8999999999999999
+2020-09-20,Newcastle,Brighton,bet365_total_2_5,over_2.5,2.37,0.4693008416131601,True,1.37
+2020-09-21,Aston Villa,Sheffield United,bet365_total_2_5,under_2.5,1.66,0.6553021358210329,True,0.6599999999999999
+2020-09-21,Wolves,Man City,bet365_total_2_5,over_2.5,1.72,0.6286889370035744,True,0.72
+2020-09-26,Brighton,Man United,bet365_total_2_5,under_2.5,1.9,0.5637494989444594,False,-1.0
+2020-09-26,Burnley,Southampton,bet365_total_2_5,over_2.5,2.1,0.5219209437109656,False,-1.0
+2020-09-26,West Brom,Chelsea,bet365_total_2_5,under_2.5,2.2,0.49065445696423915,False,-1.0
+2020-09-27,Man City,Leicester,bet365_total_2_5,under_2.5,3.0,0.35117203976666145,False,-1.0
+2020-09-27,Tottenham,Newcastle,bet365_total_2_5,under_2.5,2.1,0.5479289865670249,True,1.1
+2020-09-27,West Ham,Wolves,bet365_total_2_5,under_2.5,1.72,0.6194903147526809,False,-1.0
+2020-10-03,Chelsea,Crystal Palace,bet365_total_2_5,under_2.5,2.3,0.49356349989617365,False,-1.0
+2020-10-03,Everton,Brighton,bet365_total_2_5,under_2.5,2.0,0.5732471879551562,False,-1.0
+2020-10-03,Leeds,Man City,bet365_total_2_5,under_2.5,3.2,0.40684776240506093,True,2.2
+2020-10-03,Newcastle,Burnley,bet365_total_2_5,over_2.5,2.3,0.47459876448666766,True,1.2999999999999998
+2020-10-04,Aston Villa,Liverpool,bet365_total_2_5,under_2.5,2.5,0.43698325689915385,False,-1.0
+2020-10-04,Man United,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5490251056242161,False,-1.0
+2020-10-17,Chelsea,Southampton,bet365_total_2_5,under_2.5,2.37,0.4942023726980237,False,-1.0
+2020-10-17,Everton,Liverpool,bet365_total_2_5,under_2.5,2.5,0.4352446434141565,False,-1.0
+2020-10-17,Man City,Arsenal,bet365_total_2_5,under_2.5,2.75,0.3904538173366684,True,1.75
+2020-10-17,Newcastle,Man United,bet365_total_2_5,under_2.5,2.1,0.5644146241317403,False,-1.0
+2020-10-18,Sheffield United,Fulham,bet365_total_2_5,over_2.5,2.2,0.483410063345878,False,-1.0
+2020-10-18,Tottenham,West Ham,bet365_total_2_5,under_2.5,2.37,0.5042036260320595,False,-1.0
+2020-10-23,Aston Villa,Leeds,bet365_total_2_5,under_2.5,2.37,0.5653671244220606,False,-1.0
+2020-10-24,Man United,Chelsea,bet365_total_2_5,under_2.5,2.3,0.46282970719312144,True,1.2999999999999998
+2020-10-24,West Ham,Man City,bet365_total_2_5,under_2.5,3.0,0.4498459415568359,True,2.0
+2020-10-25,Arsenal,Leicester,bet365_total_2_5,under_2.5,2.1,0.5033355710729097,True,1.1
+2020-10-25,Southampton,Everton,bet365_total_2_5,under_2.5,2.0,0.5483045100875761,True,1.0
+2020-10-25,Wolves,Newcastle,bet365_total_2_5,over_2.5,2.2,0.4864592902361633,False,-1.0
+2020-10-26,Brighton,West Brom,bet365_total_2_5,under_2.5,2.0,0.5535561229728807,True,1.0
+2020-10-30,Wolves,Crystal Palace,bet365_total_2_5,over_2.5,2.75,0.4226162648917404,False,-1.0
+2020-10-31,Burnley,Chelsea,bet365_total_2_5,under_2.5,2.2,0.5161685237381952,False,-1.0
+2020-10-31,Sheffield United,Man City,bet365_total_2_5,under_2.5,2.62,0.4365664291056618,True,1.62
+2020-11-01,Aston Villa,Southampton,bet365_total_2_5,under_2.5,2.2,0.5338500142647593,False,-1.0
+2020-11-01,Man United,Arsenal,bet365_total_2_5,under_2.5,2.1,0.5312869140158363,True,1.1
+2020-11-01,Tottenham,Brighton,bet365_total_2_5,under_2.5,2.2,0.5085087951739806,False,-1.0
+2020-11-02,Fulham,West Brom,bet365_total_2_5,under_2.5,1.8,0.5951179464022318,True,0.8
+2020-11-02,Leeds,Leicester,bet365_total_2_5,under_2.5,2.1,0.5306357775701629,False,-1.0
+2020-11-06,Southampton,Newcastle,bet365_total_2_5,under_2.5,2.0,0.6039139084904293,True,1.0
+2020-11-07,Everton,Man United,bet365_total_2_5,under_2.5,2.1,0.5052935262877074,False,-1.0
+2020-11-08,Arsenal,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.5060485322313049,False,-1.0
+2020-11-08,Leicester,Wolves,bet365_total_2_5,over_2.5,2.3,0.5039434566078077,False,-1.0
+2020-11-08,Man City,Liverpool,bet365_total_2_5,under_2.5,2.75,0.38554494272691486,True,1.75
+2020-11-21,Man United,West Brom,bet365_total_2_5,under_2.5,2.2,0.4932215253919171,True,1.2000000000000002
+2020-11-21,Newcastle,Chelsea,bet365_total_2_5,under_2.5,2.2,0.4936006226326578,True,1.2000000000000002
+2020-11-21,Tottenham,Man City,bet365_total_2_5,under_2.5,2.37,0.5094271420101881,True,1.37
+2020-11-22,Fulham,Everton,bet365_total_2_5,under_2.5,2.1,0.5778802740913493,False,-1.0
+2020-11-22,Leeds,Arsenal,bet365_total_2_5,under_2.5,2.2,0.5274972358847196,True,1.2000000000000002
+2020-11-27,Crystal Palace,Newcastle,bet365_total_2_5,over_2.5,2.37,0.44989330855499327,False,-1.0
+2020-11-28,Brighton,Liverpool,bet365_total_2_5,under_2.5,2.37,0.46121014926483617,True,1.37
+2020-11-28,Everton,Leeds,bet365_total_2_5,under_2.5,2.3,0.5033194317535954,True,1.2999999999999998
+2020-11-29,Arsenal,Wolves,bet365_total_2_5,over_2.5,2.3,0.48635343508248524,True,1.2999999999999998
+2020-11-29,Chelsea,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5331048257620634,True,1.1
+2020-12-05,Chelsea,Leeds,bet365_total_2_5,under_2.5,2.62,0.4987472034629469,False,-1.0
+2020-12-05,Man City,Fulham,bet365_total_2_5,under_2.5,3.5,0.36904163108189614,True,2.5
+2020-12-05,West Ham,Man United,bet365_total_2_5,under_2.5,2.1,0.5145099059486158,False,-1.0
+2020-12-06,Sheffield United,Leicester,bet365_total_2_5,under_2.5,1.8,0.6102189982191415,False,-1.0
+2020-12-07,Brighton,Southampton,bet365_total_2_5,under_2.5,1.9,0.5774236366241041,False,-1.0
+2020-12-11,Leeds,West Ham,bet365_total_2_5,under_2.5,2.37,0.5169350460798581,False,-1.0
+2020-12-12,Everton,Chelsea,bet365_total_2_5,under_2.5,2.3,0.4569540373387111,True,1.2999999999999998
+2020-12-12,Man United,Man City,bet365_total_2_5,under_2.5,2.3,0.5133834439883183,True,1.2999999999999998
+2020-12-12,Wolves,Aston Villa,bet365_total_2_5,over_2.5,2.0,0.53947333504794,False,-1.0
+2020-12-13,Fulham,Liverpool,bet365_total_2_5,under_2.5,3.0,0.4517035817915477,True,2.0
+2020-12-15,Man City,West Brom,bet365_total_2_5,under_2.5,3.2,0.3561090940587539,True,2.2
+2020-12-16,Leeds,Newcastle,bet365_total_2_5,under_2.5,2.1,0.5582598264302749,False,-1.0
+2020-12-16,Leicester,Everton,bet365_total_2_5,under_2.5,2.1,0.5468107338234958,True,1.1
+2020-12-19,Crystal Palace,Liverpool,bet365_total_2_5,under_2.5,2.3,0.4773738375756784,False,-1.0
+2020-12-19,Southampton,Man City,bet365_total_2_5,under_2.5,2.37,0.47341324144526065,True,1.37
+2020-12-20,Man United,Leeds,bet365_total_2_5,under_2.5,2.62,0.49179285831663067,False,-1.0
+2020-12-20,Tottenham,Leicester,bet365_total_2_5,under_2.5,2.0,0.5334205196336457,True,1.0
+2020-12-21,Burnley,Wolves,bet365_total_2_5,over_2.5,2.5,0.5073958378083604,True,1.5
+2020-12-21,Chelsea,West Ham,bet365_total_2_5,under_2.5,2.37,0.48760643352222155,False,-1.0
+2020-12-26,Leicester,Man United,bet365_total_2_5,under_2.5,2.2,0.492451280268571,False,-1.0
+2020-12-26,Man City,Newcastle,bet365_total_2_5,under_2.5,3.2,0.3777350469392724,True,2.2
+2020-12-27,Leeds,Burnley,bet365_total_2_5,under_2.5,2.37,0.5229885148418714,True,1.37
+2020-12-29,Burnley,Sheffield United,bet365_total_2_5,over_2.5,2.37,0.4453419912298145,False,-1.0
+2020-12-29,Man United,Wolves,bet365_total_2_5,over_2.5,1.96,0.5480364208946761,False,-1.0
+2020-12-29,Southampton,West Ham,bet365_total_2_5,under_2.5,1.96,0.5754781360230616,True,0.96
+2020-12-29,West Brom,Leeds,bet365_total_2_5,under_2.5,2.37,0.4942066021605781,False,-1.0
+2020-12-30,Newcastle,Liverpool,bet365_total_2_5,under_2.5,2.62,0.455453340316456,True,1.62
+2021-01-01,Everton,West Ham,bet365_total_2_5,under_2.5,1.9,0.5816656479340754,True,0.8999999999999999
+2021-01-01,Man United,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.4794898615014169,False,-1.0
+2021-01-02,Brighton,Wolves,bet365_total_2_5,over_2.5,2.5,0.5208940899384014,True,1.5
+2021-01-02,Tottenham,Leeds,bet365_total_2_5,under_2.5,2.75,0.5257790359654793,False,-1.0
+2021-01-03,Newcastle,Leicester,bet365_total_2_5,under_2.5,1.9,0.5540004890399821,False,-1.0
+2021-01-04,Southampton,Liverpool,bet365_total_2_5,under_2.5,2.3,0.49287847166858956,True,1.2999999999999998
+2021-01-12,Burnley,Man United,bet365_total_2_5,under_2.5,2.1,0.5051688925282891,True,1.1
+2021-01-12,Wolves,Everton,bet365_total_2_5,over_2.5,2.37,0.46851892609877654,True,1.37
+2021-01-16,Leeds,Brighton,bet365_total_2_5,under_2.5,2.3,0.5671066784914909,True,1.2999999999999998
+2021-01-16,Leicester,Southampton,bet365_total_2_5,under_2.5,1.9,0.5618724184348685,True,0.8999999999999999
+2021-01-16,West Ham,Burnley,bet365_total_2_5,under_2.5,1.72,0.6532998891433366,True,0.72
+2021-01-16,Wolves,West Brom,bet365_total_2_5,over_2.5,2.3,0.5787577057318665,True,1.2999999999999998
+2021-01-18,Arsenal,Newcastle,bet365_total_2_5,under_2.5,2.0,0.5280016463996746,False,-1.0
+2021-01-20,Fulham,Man United,bet365_total_2_5,under_2.5,2.1,0.5377035602742524,False,-1.0
+2021-01-26,Newcastle,Leeds,bet365_total_2_5,under_2.5,2.2,0.48004450886139904,False,-1.0
+2021-01-27,Chelsea,Wolves,bet365_total_2_5,over_2.5,1.9,0.5827615472197247,False,-1.0
+2021-01-27,Everton,Leicester,bet365_total_2_5,under_2.5,1.8,0.5906030337866928,True,0.8
+2021-01-28,Tottenham,Liverpool,bet365_total_2_5,under_2.5,2.0,0.5336109740800752,False,-1.0
+2021-01-30,Crystal Palace,Wolves,bet365_total_2_5,over_2.5,2.5,0.44537643256835385,False,-1.0
+2021-01-30,Southampton,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5261881181032648,True,1.1
+2021-01-31,Brighton,Tottenham,bet365_total_2_5,under_2.5,1.82,0.5968199494734696,True,0.8200000000000001
+2021-01-31,Leicester,Leeds,bet365_total_2_5,under_2.5,2.37,0.4872605146051513,False,-1.0
+2021-01-31,West Ham,Liverpool,bet365_total_2_5,under_2.5,2.2,0.49379039759794174,False,-1.0
+2021-02-02,Man United,Southampton,bet365_total_2_5,under_2.5,2.5,0.4777458093081103,False,-1.0
+2021-02-02,Wolves,Arsenal,bet365_total_2_5,over_2.5,2.3,0.5271649709706374,True,1.2999999999999998
+2021-02-03,Aston Villa,West Ham,bet365_total_2_5,under_2.5,2.1,0.5038251896165742,False,-1.0
+2021-02-03,Leeds,Everton,bet365_total_2_5,under_2.5,2.2,0.5660058056532622,False,-1.0
+2021-02-06,Aston Villa,Arsenal,bet365_total_2_5,under_2.5,2.2,0.49660072506078623,True,1.2000000000000002
+2021-02-06,Burnley,Brighton,bet365_total_2_5,over_2.5,2.5,0.47694567836412965,False,-1.0
+2021-02-06,Fulham,West Ham,bet365_total_2_5,under_2.5,1.8,0.5980520057782157,True,0.8
+2021-02-06,Man United,Everton,bet365_total_2_5,under_2.5,2.2,0.4816129383322657,False,-1.0
+2021-02-07,Wolves,Leicester,bet365_total_2_5,over_2.5,2.2,0.5069120359085156,False,-1.0
+2021-02-08,Leeds,Crystal Palace,bet365_total_2_5,under_2.5,2.3,0.586273005879403,True,1.2999999999999998
+2021-02-13,Brighton,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5452681868654305,True,1.1
+2021-02-13,Leicester,Liverpool,bet365_total_2_5,under_2.5,2.1,0.5318012348872934,False,-1.0
+2021-02-14,Arsenal,Leeds,bet365_total_2_5,under_2.5,2.37,0.4829914467208192,False,-1.0
+2021-02-14,Southampton,Wolves,bet365_total_2_5,over_2.5,2.3,0.5436244243960907,True,1.2999999999999998
+2021-02-15,Chelsea,Newcastle,bet365_total_2_5,under_2.5,2.37,0.4809850944070806,True,1.37
+2021-02-17,Everton,Man City,bet365_total_2_5,under_2.5,2.2,0.5223794443099197,False,-1.0
+2021-02-19,Wolves,Leeds,bet365_total_2_5,under_2.5,1.9,0.5526633092276063,True,0.8999999999999999
+2021-02-20,Liverpool,Everton,bet365_total_2_5,under_2.5,2.37,0.49064877922611494,True,1.37
+2021-02-20,Southampton,Chelsea,bet365_total_2_5,over_2.5,1.9,0.5825296902713865,False,-1.0
+2021-02-21,Arsenal,Man City,bet365_total_2_5,under_2.5,2.1,0.5102752689697438,True,1.1
+2021-02-21,Aston Villa,Leicester,bet365_total_2_5,under_2.5,2.1,0.501459372400916,False,-1.0
+2021-02-23,Leeds,Southampton,bet365_total_2_5,under_2.5,2.2,0.5482349544831324,False,-1.0
+2021-02-27,Leeds,Aston Villa,bet365_total_2_5,under_2.5,2.37,0.5180681665968598,True,1.37
+2021-02-27,Man City,West Ham,bet365_total_2_5,under_2.5,2.5,0.449324623362959,False,-1.0
+2021-02-27,Newcastle,Wolves,bet365_total_2_5,over_2.5,2.37,0.5735051730647125,False,-1.0
+2021-02-27,West Brom,Brighton,bet365_total_2_5,over_2.5,2.1,0.5127513868339778,False,-1.0
+2021-02-28,Chelsea,Man United,bet365_total_2_5,over_2.5,1.99,0.5387596203082993,False,-1.0
+2021-02-28,Crystal Palace,Fulham,bet365_total_2_5,over_2.5,2.3,0.4588263785124725,False,-1.0
+2021-02-28,Sheffield United,Liverpool,bet365_total_2_5,under_2.5,2.2,0.5203658863109648,True,1.2000000000000002
+2021-02-28,Tottenham,Burnley,bet365_total_2_5,under_2.5,1.99,0.530014850377607,False,-1.0
+2021-03-01,Everton,Southampton,bet365_total_2_5,under_2.5,1.9,0.6197951894279297,True,0.8999999999999999
+2021-03-04,West Brom,Everton,bet365_total_2_5,under_2.5,1.9,0.6005850004289905,True,0.8999999999999999
+2021-03-07,West Brom,Newcastle,bet365_total_2_5,over_2.5,2.2,0.4939302969401611,False,-1.0
+2021-03-08,Chelsea,Everton,bet365_total_2_5,under_2.5,1.92,0.5507481355826831,True,0.9199999999999999
+2021-03-08,West Ham,Leeds,bet365_total_2_5,under_2.5,2.2,0.5338862612262505,True,1.2000000000000002
+2021-03-12,Newcastle,Aston Villa,bet365_total_2_5,over_2.5,2.3,0.47205159123034024,False,-1.0
+2021-03-14,Southampton,Brighton,bet365_total_2_5,over_2.5,2.3,0.5527103837374017,True,1.2999999999999998
+2021-03-15,Wolves,Liverpool,bet365_total_2_5,under_2.5,1.9,0.5591466768076625,True,0.8999999999999999
+2021-03-20,Brighton,Newcastle,bet365_total_2_5,over_2.5,2.3,0.545597723156255,True,1.2999999999999998
+2021-03-21,Aston Villa,Tottenham,bet365_total_2_5,under_2.5,1.9,0.5863708952357383,True,0.8999999999999999
+2021-04-03,Arsenal,Liverpool,bet365_total_2_5,under_2.5,2.1,0.5356439683989169,False,-1.0
+2021-04-04,Newcastle,Tottenham,bet365_total_2_5,under_2.5,1.9,0.5583433135830196,False,-1.0
+2021-04-05,Wolves,West Ham,bet365_total_2_5,over_2.5,2.5,0.4280480861350277,True,1.5
+2021-04-09,Fulham,Wolves,bet365_total_2_5,over_2.5,2.5,0.4449492908708952,False,-1.0
+2021-04-10,Liverpool,Aston Villa,bet365_total_2_5,under_2.5,2.3,0.5629310345920224,False,-1.0
+2021-04-10,Man City,Leeds,bet365_total_2_5,under_2.5,2.75,0.399875662724125,False,-1.0
+2021-04-11,Burnley,Newcastle,bet365_total_2_5,over_2.5,2.5,0.4770410239779286,True,1.5
+2021-04-17,Newcastle,West Ham,bet365_total_2_5,under_2.5,1.9,0.5649350928848853,False,-1.0
+2021-04-19,Leeds,Liverpool,bet365_total_2_5,under_2.5,2.5,0.5125137371604247,True,1.5
+2021-04-20,Chelsea,Brighton,bet365_total_2_5,over_2.5,2.2,0.5650614611626708,False,-1.0
+2021-04-24,Liverpool,Newcastle,bet365_total_2_5,under_2.5,2.5,0.4800944743341059,True,1.5
+2021-04-24,Sheffield United,Brighton,bet365_total_2_5,over_2.5,2.37,0.5543391514352493,False,-1.0
+2021-04-24,West Ham,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5310113813466318,False,-1.0
+2021-04-25,Aston Villa,West Brom,bet365_total_2_5,under_2.5,1.9,0.5542479961631257,False,-1.0
+2021-04-25,Leeds,Man United,bet365_total_2_5,under_2.5,2.37,0.5236836006842005,True,1.37
+2021-04-26,Leicester,Crystal Palace,bet365_total_2_5,over_2.5,2.0,0.6014866081295258,True,1.0
+2021-05-01,Chelsea,Fulham,bet365_total_2_5,over_2.5,2.0,0.5769592717875783,False,-1.0
+2021-05-01,Everton,Aston Villa,bet365_total_2_5,under_2.5,1.96,0.5403777389041455,False,-1.0
+2021-05-02,Newcastle,Arsenal,bet365_total_2_5,under_2.5,2.1,0.5624798922234702,True,1.1
+2021-05-02,Tottenham,Sheffield United,bet365_total_2_5,under_2.5,2.1,0.5208667338633219,False,-1.0
+2021-05-08,Leeds,Tottenham,bet365_total_2_5,under_2.5,2.2,0.5432322414766033,False,-1.0
+2021-05-08,Liverpool,Southampton,bet365_total_2_5,under_2.5,2.75,0.5384769627993569,True,1.75
+2021-05-08,Man City,Chelsea,bet365_total_2_5,over_2.5,2.2,0.5301216135135992,True,1.2000000000000002
+2021-05-09,Arsenal,West Brom,bet365_total_2_5,under_2.5,2.1,0.5417300069605504,False,-1.0
+2021-05-09,West Ham,Everton,bet365_total_2_5,under_2.5,1.98,0.5317314777611875,True,0.98
+2021-05-09,Wolves,Brighton,bet365_total_2_5,over_2.5,2.3,0.5741707666832462,True,1.2999999999999998
+2021-05-11,Man United,Leicester,bet365_total_2_5,over_2.5,1.9,0.5943986327046566,True,0.8999999999999999
+2021-05-13,Aston Villa,Everton,bet365_total_2_5,under_2.5,2.04,0.5511756687632752,True,1.04
+2021-05-14,Newcastle,Man City,bet365_total_2_5,under_2.5,2.5,0.45572551436137443,False,-1.0
+2021-05-15,Brighton,West Ham,bet365_total_2_5,over_2.5,2.0,0.5725650841573421,False,-1.0
+2021-05-15,Burnley,Leeds,bet365_total_2_5,under_2.5,2.2,0.5342717233315948,False,-1.0
+2021-05-16,Everton,Sheffield United,bet365_total_2_5,under_2.5,2.0,0.527894058255707,True,1.0
+2021-05-16,West Brom,Liverpool,bet365_total_2_5,under_2.5,3.0,0.3825110637843778,False,-1.0
+2021-05-18,Chelsea,Leicester,bet365_total_2_5,over_2.5,2.1,0.5366342828499012,True,1.1
+2021-05-18,Southampton,Leeds,bet365_total_2_5,under_2.5,2.62,0.5199827970248314,True,1.62
+2021-05-19,Burnley,Liverpool,bet365_total_2_5,under_2.5,3.4,0.43320525319239944,False,-1.0
+2021-05-19,Newcastle,Sheffield United,bet365_total_2_5,under_2.5,2.0,0.5308428148728213,True,1.0
+2021-05-19,Tottenham,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.4399421929670094,False,-1.0
+2021-05-19,West Brom,West Ham,bet365_total_2_5,under_2.5,2.37,0.4631384834304003,False,-1.0
+2021-05-23,Arsenal,Brighton,bet365_total_2_5,under_2.5,2.1,0.5057568000707873,True,1.1
+2021-05-23,Aston Villa,Chelsea,bet365_total_2_5,under_2.5,2.2,0.4909889353109441,False,-1.0
+2021-05-23,Fulham,Newcastle,bet365_total_2_5,under_2.5,2.3,0.5481943252403383,True,1.2999999999999998
+2021-05-23,Leeds,West Brom,bet365_total_2_5,under_2.5,3.0,0.5206979489190984,False,-1.0
+2021-05-23,Leicester,Tottenham,bet365_total_2_5,under_2.5,2.37,0.5237190167300407,False,-1.0
+2021-05-23,Liverpool,Crystal Palace,bet365_total_2_5,under_2.5,3.2,0.43263692163912115,True,2.2
+2021-05-23,Sheffield United,Burnley,bet365_total_2_5,under_2.5,2.1,0.5218832325544018,True,1.1
+2021-08-14,Burnley,Brighton,bet365_total_2_5,over_2.5,2.5,0.5204763152317947,True,1.5
+2021-08-14,Leicester,Wolves,bet365_total_2_5,over_2.5,2.09,0.5859101348483909,False,-1.0
+2021-08-14,Man United,Leeds,bet365_total_2_5,under_2.5,2.3,0.4721713263315497,False,-1.0
+2021-08-15,Tottenham,Man City,bet365_total_2_5,over_2.5,1.89,0.5708002288275842,False,-1.0
+2021-08-21,Brighton,Watford,bet365_total_2_5,over_2.5,2.2,0.5692167620774106,False,-1.0
+2021-08-21,Crystal Palace,Brentford,bet365_total_2_5,over_2.5,2.3,0.45809900604843495,False,-1.0
+2021-08-22,Arsenal,Chelsea,bet365_total_2_5,over_2.5,2.1,0.5319418064253653,False,-1.0
+2021-08-22,Wolves,Tottenham,bet365_total_2_5,over_2.5,2.2,0.540267076195194,False,-1.0
+2021-08-28,Brighton,Everton,bet365_total_2_5,over_2.5,2.2,0.5029415190099226,False,-1.0
+2021-08-28,Liverpool,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5772697471911961,False,-1.0
+2021-08-28,Man City,Arsenal,bet365_total_2_5,under_2.5,2.37,0.4563310973738951,False,-1.0
+2021-08-28,Newcastle,Southampton,bet365_total_2_5,under_2.5,2.05,0.5284367493018387,False,-1.0
+2021-08-29,Burnley,Leeds,bet365_total_2_5,under_2.5,2.1,0.5201516200537017,True,1.1
+2021-08-29,Tottenham,Watford,bet365_total_2_5,over_2.5,1.8,0.610429066719901,False,-1.0
+2021-08-29,Wolves,Man United,bet365_total_2_5,over_2.5,2.0,0.5509526071616033,False,-1.0
+2021-09-11,Arsenal,Norwich,bet365_total_2_5,over_2.5,1.72,0.6822644920202082,False,-1.0
+2021-09-11,Brentford,Brighton,bet365_total_2_5,over_2.5,2.5,0.4280036477807605,False,-1.0
+2021-09-11,Crystal Palace,Tottenham,bet365_total_2_5,over_2.5,2.1,0.5018854962218026,True,1.1
+2021-09-11,Man United,Newcastle,bet365_total_2_5,under_2.5,2.75,0.4534029048979288,False,-1.0
+2021-09-11,Watford,Wolves,bet365_total_2_5,over_2.5,2.3,0.46656259922205434,False,-1.0
+2021-09-17,Newcastle,Leeds,bet365_total_2_5,under_2.5,2.3,0.5250978186247803,True,1.2999999999999998
+2021-09-18,Liverpool,Crystal Palace,bet365_total_2_5,over_2.5,1.5,0.7023169019474425,True,0.5
+2021-09-18,Man City,Southampton,bet365_total_2_5,under_2.5,3.2,0.35441965881751414,True,2.2
+2021-09-18,Wolves,Brentford,bet365_total_2_5,over_2.5,2.5,0.4225198172674783,False,-1.0
+2021-09-19,Tottenham,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5900248383748362,True,1.0
+2021-09-25,Brentford,Liverpool,bet365_total_2_5,over_2.5,1.72,0.6230707392366365,True,0.72
+2021-09-25,Chelsea,Man City,bet365_total_2_5,over_2.5,2.1,0.5519506970931173,False,-1.0
+2021-09-25,Everton,Norwich,bet365_total_2_5,over_2.5,1.9,0.5540389382720519,False,-1.0
+2021-09-25,Leeds,West Ham,bet365_total_2_5,under_2.5,2.37,0.5223077016105087,False,-1.0
+2021-09-26,Southampton,Wolves,bet365_total_2_5,over_2.5,2.1,0.5244108115746796,False,-1.0
+2021-09-27,Crystal Palace,Brighton,bet365_total_2_5,over_2.5,2.3,0.4852170782687562,False,-1.0
+2021-10-02,Burnley,Norwich,bet365_total_2_5,under_2.5,1.9,0.5734126205738528,True,0.8999999999999999
+2021-10-02,Leeds,Watford,bet365_total_2_5,under_2.5,2.2,0.48159758491032334,True,1.2000000000000002
+2021-10-03,Liverpool,Man City,bet365_total_2_5,over_2.5,1.72,0.6123780282969846,True,0.72
+2021-10-16,Aston Villa,Wolves,bet365_total_2_5,over_2.5,2.1,0.5203915028090595,True,1.1
+2021-10-22,Arsenal,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5133154957713555,False,-1.0
+2021-10-23,Crystal Palace,Newcastle,bet365_total_2_5,under_2.5,1.9,0.5690500592368464,True,0.8999999999999999
+2021-10-23,Southampton,Burnley,bet365_total_2_5,under_2.5,1.9,0.5806247715671877,False,-1.0
+2021-10-24,Brentford,Leicester,bet365_total_2_5,under_2.5,1.9,0.5612956547055479,False,-1.0
+2021-10-31,Norwich,Leeds,bet365_total_2_5,under_2.5,2.1,0.530094696794194,False,-1.0
+2021-11-05,Southampton,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5537662543803048,True,1.1
+2021-11-06,Crystal Palace,Wolves,bet365_total_2_5,over_2.5,2.37,0.44716495086141944,False,-1.0
+2021-11-07,Arsenal,Watford,bet365_total_2_5,under_2.5,2.37,0.46967408028548574,True,1.37
+2021-11-07,Everton,Tottenham,bet365_total_2_5,over_2.5,2.0,0.5329099701320837,False,-1.0
+2021-11-07,Leeds,Leicester,bet365_total_2_5,under_2.5,2.2,0.5484481666111694,True,1.2000000000000002
+2021-11-07,West Ham,Liverpool,bet365_total_2_5,under_2.5,2.62,0.4469163464129855,False,-1.0
+2021-11-20,Aston Villa,Brighton,bet365_total_2_5,over_2.5,2.1,0.5396424331847799,False,-1.0
+2021-11-20,Leicester,Chelsea,bet365_total_2_5,over_2.5,2.03,0.5611179724063504,True,1.0299999999999998
+2021-11-20,Liverpool,Arsenal,bet365_total_2_5,under_2.5,2.62,0.4355165251005141,False,-1.0
+2021-11-20,Newcastle,Brentford,bet365_total_2_5,under_2.5,1.9,0.6013942553301388,False,-1.0
+2021-11-20,Watford,Man United,bet365_total_2_5,under_2.5,2.2,0.4940227391466795,False,-1.0
+2021-11-21,Tottenham,Leeds,bet365_total_2_5,under_2.5,2.1,0.5001897527858026,False,-1.0
+2021-11-27,Arsenal,Newcastle,bet365_total_2_5,under_2.5,2.3,0.506633435169318,True,1.2999999999999998
+2021-11-27,Brighton,Leeds,bet365_total_2_5,under_2.5,1.95,0.5388628160372075,True,0.95
+2021-11-27,Liverpool,Southampton,bet365_total_2_5,under_2.5,3.0,0.3780197757070165,False,-1.0
+2021-11-28,Chelsea,Man United,bet365_total_2_5,over_2.5,1.8,0.6188753122470905,False,-1.0
+2021-11-28,Leicester,Watford,bet365_total_2_5,under_2.5,2.2,0.4809527845841358,False,-1.0
+2021-11-30,Leeds,Crystal Palace,bet365_total_2_5,under_2.5,1.96,0.5479337510011761,True,0.96
+2021-11-30,Newcastle,Norwich,bet365_total_2_5,under_2.5,2.05,0.5472696360710989,True,1.0499999999999998
+2021-12-01,West Ham,Brighton,bet365_total_2_5,over_2.5,2.06,0.5425980556522566,False,-1.0
+2021-12-01,Wolves,Burnley,bet365_total_2_5,over_2.5,2.2,0.49180910269495476,False,-1.0
+2021-12-02,Tottenham,Brentford,bet365_total_2_5,under_2.5,1.98,0.556902764341197,True,0.98
+2021-12-04,Newcastle,Burnley,bet365_total_2_5,under_2.5,1.94,0.6254858170117199,True,0.94
+2021-12-04,West Ham,Chelsea,bet365_total_2_5,over_2.5,2.0,0.5416459619040433,True,1.0
+2021-12-05,Leeds,Brentford,bet365_total_2_5,under_2.5,1.94,0.5427211096991804,False,-1.0
+2021-12-11,Arsenal,Southampton,bet365_total_2_5,over_2.5,1.8,0.5893912150861937,True,0.8
+2021-12-11,Liverpool,Aston Villa,bet365_total_2_5,under_2.5,3.0,0.3868423167543352,True,2.0
+2021-12-11,Norwich,Man United,bet365_total_2_5,under_2.5,2.1,0.5209189854790981,True,1.1
+2021-12-12,Burnley,West Ham,bet365_total_2_5,under_2.5,2.03,0.5551002719403444,True,1.0299999999999998
+2021-12-12,Crystal Palace,Everton,bet365_total_2_5,over_2.5,2.3,0.5338687195263022,True,1.2999999999999998
+2021-12-12,Leicester,Newcastle,bet365_total_2_5,under_2.5,2.37,0.5033134482410753,False,-1.0
+2021-12-15,Crystal Palace,Southampton,bet365_total_2_5,over_2.5,2.1,0.5139858427945567,True,1.1
+2021-12-16,Liverpool,Newcastle,bet365_total_2_5,under_2.5,3.4,0.36202309543128686,False,-1.0
+2021-12-19,Wolves,Chelsea,bet365_total_2_5,over_2.5,2.1,0.5861320540625055,False,-1.0
+2021-12-26,Aston Villa,Chelsea,bet365_total_2_5,over_2.5,2.05,0.5323830510229709,True,1.0499999999999998
+2021-12-26,Tottenham,Crystal Palace,bet365_total_2_5,over_2.5,1.95,0.5430137182412331,True,0.95
+2021-12-27,Newcastle,Man United,bet365_total_2_5,under_2.5,2.3,0.4627215529537865,True,1.2999999999999998
+2021-12-28,Crystal Palace,Norwich,bet365_total_2_5,over_2.5,2.2,0.497796306108581,True,1.2000000000000002
+2021-12-28,Leicester,Liverpool,bet365_total_2_5,under_2.5,3.5,0.3209676086286152,True,2.5
+2021-12-28,Watford,West Ham,bet365_total_2_5,under_2.5,2.1,0.5973294799399917,False,-1.0
+2021-12-29,Chelsea,Brighton,bet365_total_2_5,over_2.5,1.93,0.5986022693516029,False,-1.0
+2022-01-02,Chelsea,Liverpool,bet365_total_2_5,over_2.5,1.83,0.5838840888737801,True,0.8300000000000001
+2022-01-02,Leeds,Burnley,bet365_total_2_5,under_2.5,2.1,0.5882431076616739,False,-1.0
+2022-01-03,Man United,Wolves,bet365_total_2_5,over_2.5,1.98,0.5443565172583603,False,-1.0
+2022-01-14,Brighton,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.5137881294470963,False,-1.0
+2022-01-15,Man City,Chelsea,bet365_total_2_5,over_2.5,1.85,0.6142673257803948,False,-1.0
+2022-01-15,Newcastle,Watford,bet365_total_2_5,under_2.5,2.0,0.5279838366683722,True,1.0
+2022-01-15,Norwich,Everton,bet365_total_2_5,over_2.5,2.1,0.519442533806754,True,1.1
+2022-01-15,Wolves,Southampton,bet365_total_2_5,over_2.5,2.5,0.42155442276437954,True,1.5
+2022-01-19,Brentford,Man United,bet365_total_2_5,under_2.5,1.97,0.5367056507682513,False,-1.0
+2022-01-19,Leicester,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5010623943553418,False,-1.0
+2022-01-21,Watford,Norwich,bet365_total_2_5,under_2.5,1.96,0.5631024886506792,False,-1.0
+2022-01-22,Brentford,Wolves,bet365_total_2_5,over_2.5,2.5,0.44874065092691623,True,1.5
+2022-01-22,Leeds,Newcastle,bet365_total_2_5,under_2.5,2.2,0.4965672490889679,True,1.2000000000000002
+2022-01-22,Man United,West Ham,bet365_total_2_5,under_2.5,2.2,0.48289946741936896,True,1.2000000000000002
+2022-01-23,Arsenal,Burnley,bet365_total_2_5,over_2.5,1.8,0.5920206907652599,False,-1.0
+2022-01-23,Crystal Palace,Liverpool,bet365_total_2_5,over_2.5,1.72,0.6194877640322636,True,0.72
+2022-02-08,Newcastle,Everton,bet365_total_2_5,under_2.5,1.99,0.5535514631744904,False,-1.0
+2022-02-08,West Ham,Watford,bet365_total_2_5,under_2.5,2.1,0.5740663442995537,True,1.1
+2022-02-09,Aston Villa,Leeds,bet365_total_2_5,under_2.5,2.1,0.5256714839648258,False,-1.0
+2022-02-10,Liverpool,Leicester,bet365_total_2_5,under_2.5,3.4,0.4002716938425701,True,2.4
+2022-02-10,Wolves,Arsenal,bet365_total_2_5,over_2.5,2.3,0.4726414058975559,False,-1.0
+2022-02-12,Brentford,Crystal Palace,bet365_total_2_5,over_2.5,2.3,0.4676796886115726,False,-1.0
+2022-02-12,Everton,Leeds,bet365_total_2_5,under_2.5,2.2,0.4872614948468742,False,-1.0
+2022-02-12,Watford,Brighton,bet365_total_2_5,over_2.5,2.3,0.5110318374240278,False,-1.0
+2022-02-13,Leicester,West Ham,bet365_total_2_5,under_2.5,2.2,0.5086793104198817,False,-1.0
+2022-02-13,Tottenham,Wolves,bet365_total_2_5,over_2.5,2.2,0.5057884050206994,False,-1.0
+2022-02-19,Arsenal,Brentford,bet365_total_2_5,over_2.5,1.97,0.562316879567161,True,0.97
+2022-02-19,Aston Villa,Watford,bet365_total_2_5,under_2.5,1.89,0.5712311042734559,True,0.8899999999999999
+2022-02-19,Brighton,Burnley,bet365_total_2_5,over_2.5,2.2,0.4887564895526076,True,1.2000000000000002
+2022-02-19,Crystal Palace,Chelsea,bet365_total_2_5,over_2.5,2.05,0.5302774757753078,False,-1.0
+2022-02-23,Burnley,Tottenham,bet365_total_2_5,over_2.5,2.1,0.5019114336128797,False,-1.0
+2022-02-23,Liverpool,Leeds,bet365_total_2_5,under_2.5,3.75,0.2880344543066269,False,-1.0
+2022-02-24,Arsenal,Wolves,bet365_total_2_5,over_2.5,2.2,0.5309831625794271,True,1.2000000000000002
+2022-02-26,Brentford,Newcastle,bet365_total_2_5,over_2.5,2.3,0.4667726470782972,False,-1.0
+2022-02-26,Everton,Man City,bet365_total_2_5,over_2.5,1.57,0.6743177948798069,False,-1.0
+2022-02-26,Man United,Watford,bet365_total_2_5,under_2.5,2.3,0.49602488406087686,True,1.2999999999999998
+2022-03-05,Burnley,Chelsea,bet365_total_2_5,over_2.5,2.1,0.5473300452201612,True,1.1
+2022-03-05,Leicester,Leeds,bet365_total_2_5,under_2.5,2.5,0.4204748038935353,True,1.5
+2022-03-05,Liverpool,West Ham,bet365_total_2_5,under_2.5,2.62,0.4015878313119443,True,1.62
+2022-03-05,Newcastle,Brighton,bet365_total_2_5,over_2.5,2.3,0.5137152333463668,True,1.2999999999999998
+2022-03-05,Wolves,Crystal Palace,bet365_total_2_5,over_2.5,2.62,0.4663452524876415,False,-1.0
+2022-03-06,Watford,Arsenal,bet365_total_2_5,over_2.5,2.05,0.602792789218196,True,1.0499999999999998
+2022-03-10,Wolves,Watford,bet365_total_2_5,over_2.5,2.3,0.4572593258306426,True,1.2999999999999998
+2022-03-12,Brighton,Liverpool,bet365_total_2_5,over_2.5,1.72,0.6310654516649936,False,-1.0
+2022-03-13,Chelsea,Newcastle,bet365_total_2_5,under_2.5,2.1,0.5069419819916225,True,1.1
+2022-03-13,Everton,Wolves,bet365_total_2_5,over_2.5,2.3,0.4709031202817338,False,-1.0
+2022-03-13,Leeds,Norwich,bet365_total_2_5,under_2.5,2.2,0.5564963836480776,False,-1.0
+2022-03-18,Wolves,Leeds,bet365_total_2_5,over_2.5,1.99,0.537306050011089,True,0.99
+2022-04-02,Leeds,Southampton,bet365_total_2_5,under_2.5,2.3,0.49224943387793696,True,1.2999999999999998
+2022-04-02,Man United,Leicester,bet365_total_2_5,under_2.5,2.37,0.46622588120246233,True,1.37
+2022-04-02,Wolves,Aston Villa,bet365_total_2_5,over_2.5,2.37,0.464871033646479,True,1.37
+2022-04-03,West Ham,Everton,bet365_total_2_5,over_2.5,2.0,0.5602048586844759,True,1.0
+2022-04-04,Crystal Palace,Arsenal,bet365_total_2_5,over_2.5,2.1,0.5454688590520647,True,1.1
+2022-04-06,Burnley,Everton,bet365_total_2_5,over_2.5,2.2,0.4932908444424468,True,1.2000000000000002
+2022-04-08,Newcastle,Wolves,bet365_total_2_5,over_2.5,2.37,0.5861669042025922,False,-1.0
+2022-04-09,Arsenal,Brighton,bet365_total_2_5,over_2.5,2.04,0.5387794774592392,True,1.04
+2022-04-09,Everton,Man United,bet365_total_2_5,over_2.5,1.85,0.5823585881655673,False,-1.0
+2022-04-09,Southampton,Chelsea,bet365_total_2_5,over_2.5,1.95,0.5688371241628102,True,0.95
+2022-04-09,Watford,Leeds,bet365_total_2_5,under_2.5,2.1,0.5571905304315399,False,-1.0
+2022-04-10,Leicester,Crystal Palace,bet365_total_2_5,under_2.5,1.91,0.5520248357262039,False,-1.0
+2022-04-10,Man City,Liverpool,bet365_total_2_5,over_2.5,1.72,0.6118952004510363,True,0.72
+2022-04-16,Man United,Norwich,bet365_total_2_5,under_2.5,2.62,0.4691167827069447,False,-1.0
+2022-04-16,Southampton,Arsenal,bet365_total_2_5,over_2.5,1.9,0.5715836575558185,False,-1.0
+2022-04-19,Liverpool,Man United,bet365_total_2_5,under_2.5,2.62,0.4180465210758608,False,-1.0
+2022-04-20,Chelsea,Arsenal,bet365_total_2_5,over_2.5,2.1,0.5093630504280957,True,1.1
+2022-04-20,Everton,Leicester,bet365_total_2_5,under_2.5,1.98,0.5712869180706113,True,0.98
+2022-04-20,Newcastle,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.4820576328933706,False,-1.0
+2022-04-23,Brentford,Tottenham,bet365_total_2_5,under_2.5,2.01,0.5604974196301502,True,1.0099999999999998
+2022-04-24,Burnley,Wolves,bet365_total_2_5,over_2.5,2.37,0.568636498947241,False,-1.0
+2022-04-28,Man United,Chelsea,bet365_total_2_5,over_2.5,1.86,0.6016748659654434,False,-1.0
+2022-04-30,Aston Villa,Norwich,bet365_total_2_5,under_2.5,2.2,0.5245870149374656,True,1.2000000000000002
+2022-04-30,Wolves,Brighton,bet365_total_2_5,over_2.5,2.5,0.5049117804389723,True,1.5
+2022-05-01,Everton,Chelsea,bet365_total_2_5,over_2.5,2.02,0.5791776087769583,False,-1.0
+2022-05-01,Tottenham,Leicester,bet365_total_2_5,under_2.5,2.37,0.5147546197357358,False,-1.0
+2022-05-01,West Ham,Arsenal,bet365_total_2_5,over_2.5,1.89,0.558355959204758,True,0.8899999999999999
+2022-05-07,Brighton,Man United,bet365_total_2_5,under_2.5,1.95,0.5743494929360757,False,-1.0
+2022-05-07,Burnley,Aston Villa,bet365_total_2_5,over_2.5,2.07,0.5193017338319875,True,1.0699999999999998
+2022-05-07,Chelsea,Wolves,bet365_total_2_5,over_2.5,1.93,0.5764303852285239,True,0.9299999999999999
+2022-05-08,Norwich,West Ham,bet365_total_2_5,under_2.5,2.05,0.5381559965643121,False,-1.0
+2022-05-11,Leicester,Norwich,bet365_total_2_5,under_2.5,2.3,0.5277303766270793,False,-1.0
+2022-05-11,Watford,Everton,bet365_total_2_5,under_2.5,1.96,0.5462130138650885,True,0.96
+2022-05-15,Tottenham,Burnley,bet365_total_2_5,under_2.5,2.37,0.44420159590609865,True,1.37
+2022-05-15,Watford,Leicester,bet365_total_2_5,under_2.5,2.1,0.5606309098025453,False,-1.0
+2022-05-15,Wolves,Norwich,bet365_total_2_5,under_2.5,2.04,0.5402982124540427,True,1.04
+2022-05-17,Southampton,Liverpool,bet365_total_2_5,under_2.5,2.75,0.3940360130074243,False,-1.0
+2022-05-19,Chelsea,Leicester,bet365_total_2_5,under_2.5,2.3,0.4770212331788005,True,1.2999999999999998
+2022-05-19,Everton,Crystal Palace,bet365_total_2_5,over_2.5,2.0,0.5466334405486865,True,1.0
+2022-05-22,Arsenal,Everton,bet365_total_2_5,under_2.5,2.37,0.46799232509951283,False,-1.0
+2022-05-22,Brentford,Leeds,bet365_total_2_5,under_2.5,2.37,0.46556711929697936,False,-1.0
+2022-05-22,Chelsea,Watford,bet365_total_2_5,under_2.5,2.75,0.3832397438903641,False,-1.0
+2022-05-22,Leicester,Southampton,bet365_total_2_5,under_2.5,2.37,0.4965941214784756,False,-1.0
+2022-05-22,Liverpool,Wolves,bet365_total_2_5,under_2.5,2.75,0.3851096723110602,False,-1.0
+2022-05-22,Norwich,Tottenham,bet365_total_2_5,under_2.5,2.75,0.46721092752978466,False,-1.0
+2022-08-05,Crystal Palace,Arsenal,bet365_total_2_5,over_2.5,2.1,0.5688734189692511,False,-1.0
+2022-08-06,Everton,Chelsea,bet365_total_2_5,over_2.5,2.02,0.6010016021512845,False,-1.0
+2022-08-06,Leeds,Wolves,bet365_total_2_5,under_2.5,1.85,0.6028261898118801,False,-1.0
+2022-08-07,Leicester,Brentford,bet365_total_2_5,under_2.5,2.1,0.5123319367505563,False,-1.0
+2022-08-13,Arsenal,Leicester,bet365_total_2_5,under_2.5,2.2,0.4822731759830182,False,-1.0
+2022-08-13,Man City,Bournemouth,bet365_total_2_5,under_2.5,3.4,0.3734898317365406,False,-1.0
+2022-08-14,Nott'm Forest,West Ham,bet365_total_2_5,under_2.5,1.98,0.5876684157162553,True,0.98
+2022-08-20,Crystal Palace,Aston Villa,bet365_total_2_5,over_2.5,2.2,0.4862487968779721,True,1.2000000000000002
+2022-08-20,Everton,Nott'm Forest,bet365_total_2_5,over_2.5,2.1,0.5273342256296744,False,-1.0
+2022-08-20,Fulham,Brentford,bet365_total_2_5,under_2.5,1.94,0.5618827810176601,False,-1.0
+2022-08-20,Leicester,Southampton,bet365_total_2_5,under_2.5,2.3,0.5184744973187061,False,-1.0
+2022-08-20,Tottenham,Wolves,bet365_total_2_5,under_2.5,2.1,0.5095553800169594,True,1.1
+2022-08-21,West Ham,Brighton,bet365_total_2_5,over_2.5,1.99,0.5405658064892639,False,-1.0
+2022-08-27,Brentford,Everton,bet365_total_2_5,over_2.5,2.06,0.5179359441113504,False,-1.0
+2022-08-27,Liverpool,Bournemouth,bet365_total_2_5,over_2.5,1.36,0.7772297033516703,True,0.3600000000000001
+2022-08-28,Aston Villa,West Ham,bet365_total_2_5,under_2.5,1.99,0.549586742273529,True,0.99
+2022-08-28,Nott'm Forest,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5030330675276646,True,1.1
+2022-08-30,Leeds,Everton,bet365_total_2_5,under_2.5,2.03,0.5360124513855085,True,1.0299999999999998
+2022-09-03,Wolves,Southampton,bet365_total_2_5,under_2.5,1.86,0.574035822119338,True,0.8600000000000001
+2022-09-04,Brighton,Leicester,bet365_total_2_5,under_2.5,1.89,0.5608812013090283,False,-1.0
+2022-09-16,Aston Villa,Southampton,bet365_total_2_5,under_2.5,2.02,0.5449554872071027,True,1.02
+2022-10-01,Crystal Palace,Chelsea,bet365_total_2_5,over_2.5,2.1,0.5185573610276358,True,1.1
+2022-10-01,Fulham,Newcastle,bet365_total_2_5,over_2.5,1.91,0.569151355643631,True,0.9099999999999999
+2022-10-03,Leicester,Nott'm Forest,bet365_total_2_5,under_2.5,2.2,0.5044398881027505,False,-1.0
+2022-10-08,Bournemouth,Leicester,bet365_total_2_5,under_2.5,2.0,0.546782465106165,False,-1.0
+2022-10-08,Chelsea,Wolves,bet365_total_2_5,over_2.5,1.87,0.5663024945163883,True,0.8700000000000001
+2022-10-09,Crystal Palace,Leeds,bet365_total_2_5,under_2.5,2.04,0.5211870823886444,False,-1.0
+2022-10-15,Tottenham,Everton,bet365_total_2_5,over_2.5,1.72,0.6362891762539966,False,-1.0
+2022-10-18,Crystal Palace,Wolves,bet365_total_2_5,over_2.5,2.5,0.45382779701836945,True,1.5
+2022-10-20,Leicester,Leeds,bet365_total_2_5,under_2.5,2.1,0.5015030040434292,True,1.1
+2022-10-22,Chelsea,Man United,bet365_total_2_5,over_2.5,1.91,0.5605672672601192,False,-1.0
+2022-10-22,Everton,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.48965623498346805,True,1.2000000000000002
+2022-10-22,Nott'm Forest,Liverpool,bet365_total_2_5,under_2.5,2.62,0.4491355317485387,True,1.62
+2022-10-23,Leeds,Fulham,bet365_total_2_5,under_2.5,2.1,0.5300017481638064,False,-1.0
+2022-10-23,Tottenham,Newcastle,bet365_total_2_5,over_2.5,1.92,0.5674892076212776,True,0.9199999999999999
+2022-10-29,Brighton,Chelsea,bet365_total_2_5,over_2.5,2.1,0.5154495212677584,True,1.1
+2022-10-29,Leicester,Man City,bet365_total_2_5,under_2.5,2.75,0.43471578613645534,True,1.75
+2022-10-29,Liverpool,Leeds,bet365_total_2_5,under_2.5,3.2,0.37952311552263496,False,-1.0
+2022-10-29,Newcastle,Aston Villa,bet365_total_2_5,over_2.5,1.94,0.5705570532168854,True,0.94
+2022-11-05,Leeds,Bournemouth,bet365_total_2_5,under_2.5,2.0,0.5764113094779006,False,-1.0
+2022-11-05,Nott'm Forest,Brentford,bet365_total_2_5,under_2.5,1.87,0.5708766510984216,False,-1.0
+2022-11-05,Wolves,Brighton,bet365_total_2_5,over_2.5,2.1,0.545575857718441,True,1.1
+2022-11-06,Chelsea,Arsenal,bet365_total_2_5,over_2.5,1.93,0.5441330102761112,False,-1.0
+2022-11-06,West Ham,Crystal Palace,bet365_total_2_5,over_2.5,2.1,0.5487665742892862,True,1.1
+2022-11-13,Brighton,Aston Villa,bet365_total_2_5,over_2.5,1.96,0.554423852418953,True,0.96
+2022-12-26,Leicester,Newcastle,bet365_total_2_5,under_2.5,2.04,0.5202641107753476,False,-1.0
+2022-12-26,Southampton,Brighton,bet365_total_2_5,over_2.5,1.94,0.5548408928283953,True,0.94
+2022-12-27,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,2.2,0.5054506769569105,True,1.2000000000000002
+2022-12-30,Liverpool,Leicester,bet365_total_2_5,under_2.5,2.75,0.4819264420500614,False,-1.0
+2022-12-31,Wolves,Man United,bet365_total_2_5,over_2.5,2.03,0.5427736666434742,False,-1.0
+2023-01-01,Tottenham,Aston Villa,bet365_total_2_5,over_2.5,1.8,0.6167529278278988,False,-1.0
+2023-01-02,Brentford,Liverpool,bet365_total_2_5,under_2.5,2.38,0.46102452548402173,False,-1.0
+2023-01-03,Leicester,Fulham,bet365_total_2_5,under_2.5,2.1,0.506283913095342,True,1.1
+2023-01-03,Man United,Bournemouth,bet365_total_2_5,under_2.5,2.5,0.45989662370085316,False,-1.0
+2023-01-04,Aston Villa,Wolves,bet365_total_2_5,over_2.5,2.08,0.5343068048734968,False,-1.0
+2023-01-12,Fulham,Chelsea,bet365_total_2_5,under_2.5,2.03,0.5522934746505286,False,-1.0
+2023-01-14,Everton,Southampton,bet365_total_2_5,under_2.5,1.73,0.621093704067885,False,-1.0
+2023-01-14,Nott'm Forest,Leicester,bet365_total_2_5,under_2.5,1.87,0.5982099554047511,True,0.8700000000000001
+2023-01-14,Wolves,West Ham,bet365_total_2_5,over_2.5,2.2,0.48534593791148645,False,-1.0
+2023-01-19,Man City,Tottenham,bet365_total_2_5,under_2.5,2.5,0.42088986547857665,False,-1.0
+2023-01-21,Bournemouth,Nott'm Forest,bet365_total_2_5,over_2.5,2.3,0.4610818197874225,False,-1.0
+2023-01-21,Crystal Palace,Newcastle,bet365_total_2_5,over_2.5,2.1,0.5256382210126095,False,-1.0
+2023-01-21,West Ham,Everton,bet365_total_2_5,under_2.5,1.73,0.6191584425113223,True,0.73
+2023-01-22,Leeds,Brentford,bet365_total_2_5,under_2.5,2.2,0.5234951769575169,True,1.2000000000000002
+2023-02-04,Aston Villa,Leicester,bet365_total_2_5,under_2.5,1.96,0.5555775152968803,False,-1.0
+2023-02-04,Everton,Arsenal,bet365_total_2_5,over_2.5,1.87,0.5632660736224643,False,-1.0
+2023-02-04,Newcastle,West Ham,bet365_total_2_5,over_2.5,2.0,0.6075738788709235,False,-1.0
+2023-02-05,Nott'm Forest,Leeds,bet365_total_2_5,under_2.5,1.96,0.5525661947434339,True,0.96
+2023-02-11,Bournemouth,Newcastle,bet365_total_2_5,over_2.5,2.04,0.5646670090858403,False,-1.0
+2023-02-11,Southampton,Wolves,bet365_total_2_5,over_2.5,2.3,0.4699832067789631,True,1.2999999999999998
+2023-02-12,Man City,Aston Villa,bet365_total_2_5,under_2.5,2.63,0.4060641372156786,False,-1.0
+2023-02-18,Chelsea,Southampton,bet365_total_2_5,over_2.5,1.98,0.5488395495776783,False,-1.0
+2023-02-18,Newcastle,Liverpool,bet365_total_2_5,over_2.5,1.8,0.590869469334622,False,-1.0
+2023-02-25,Everton,Aston Villa,bet365_total_2_5,over_2.5,2.3,0.4626080835032535,False,-1.0
+2023-02-26,Tottenham,Chelsea,bet365_total_2_5,over_2.5,2.08,0.5282097522108479,False,-1.0
+2023-03-01,Arsenal,Everton,bet365_total_2_5,over_2.5,1.85,0.5947984476021331,True,0.8500000000000001
+2023-03-04,Aston Villa,Crystal Palace,bet365_total_2_5,over_2.5,2.3,0.47216669145068385,False,-1.0
+2023-03-04,Brighton,West Ham,bet365_total_2_5,over_2.5,1.95,0.5737389388929272,True,0.95
+2023-03-04,Southampton,Leicester,bet365_total_2_5,under_2.5,1.84,0.5726722482514683,True,0.8400000000000001
+2023-03-05,Nott'm Forest,Everton,bet365_total_2_5,over_2.5,2.5,0.474169824107522,True,1.5
+2023-03-06,Brentford,Fulham,bet365_total_2_5,under_2.5,1.96,0.5654678648628295,False,-1.0
+2023-03-11,Everton,Brentford,bet365_total_2_5,over_2.5,2.2,0.4895721427557263,False,-1.0
+2023-03-11,Tottenham,Nott'm Forest,bet365_total_2_5,under_2.5,2.05,0.5176666724653871,False,-1.0
+2023-03-12,Man United,Southampton,bet365_total_2_5,over_2.5,1.62,0.6576165520337969,False,-1.0
+2023-03-12,Newcastle,Wolves,bet365_total_2_5,over_2.5,2.2,0.5628519832214384,True,1.2000000000000002
+2023-03-15,Brighton,Crystal Palace,bet365_total_2_5,over_2.5,1.93,0.5444693199052953,False,-1.0
+2023-03-18,Aston Villa,Bournemouth,bet365_total_2_5,under_2.5,1.93,0.5658194964857706,False,-1.0
+2023-03-18,Brentford,Leicester,bet365_total_2_5,under_2.5,2.01,0.5424883561554179,True,1.0099999999999998
+2023-03-18,Chelsea,Everton,bet365_total_2_5,over_2.5,2.1,0.5030850769047782,True,1.1
+2023-04-01,Brighton,Brentford,bet365_total_2_5,under_2.5,2.1,0.5204928254091779,False,-1.0
+2023-04-01,Nott'm Forest,Wolves,bet365_total_2_5,over_2.5,2.38,0.449125446752427,False,-1.0
+2023-04-02,West Ham,Southampton,bet365_total_2_5,over_2.5,2.0,0.5369516406584464,False,-1.0
+2023-04-03,Everton,Tottenham,bet365_total_2_5,over_2.5,2.1,0.5105289710158202,False,-1.0
+2023-04-04,Leeds,Nott'm Forest,bet365_total_2_5,under_2.5,1.92,0.5634288101966267,False,-1.0
+2023-04-04,Leicester,Aston Villa,bet365_total_2_5,under_2.5,1.91,0.5689586585132367,False,-1.0
+2023-04-05,Man United,Brentford,bet365_total_2_5,under_2.5,2.1,0.5054765480383874,True,1.1
+2023-04-05,West Ham,Newcastle,bet365_total_2_5,over_2.5,2.1,0.5408634737054284,True,1.1
+2023-04-08,Leicester,Bournemouth,bet365_total_2_5,under_2.5,2.02,0.5332430173682181,True,1.02
+2023-04-08,Man United,Everton,bet365_total_2_5,over_2.5,1.86,0.5902192877554708,False,-1.0
+2023-04-08,Wolves,Chelsea,bet365_total_2_5,over_2.5,2.2,0.5458357648817532,False,-1.0
+2023-04-09,Liverpool,Arsenal,bet365_total_2_5,under_2.5,2.3,0.502063204632182,False,-1.0
+2023-04-15,Chelsea,Brighton,bet365_total_2_5,over_2.5,1.94,0.5700112156787952,True,0.94
+2023-04-15,Man City,Leicester,bet365_total_2_5,under_2.5,3.4,0.3545666184170545,False,-1.0
+2023-04-22,Liverpool,Nott'm Forest,bet365_total_2_5,under_2.5,2.75,0.452078088327058,False,-1.0
+2023-04-25,Aston Villa,Fulham,bet365_total_2_5,under_2.5,2.09,0.5299526762575866,True,1.0899999999999999
+2023-04-25,Wolves,Crystal Palace,bet365_total_2_5,over_2.5,2.5,0.44086084562467504,False,-1.0
+2023-04-26,West Ham,Liverpool,bet365_total_2_5,under_2.5,2.2,0.5030274997661988,False,-1.0
+2023-04-29,Brighton,Wolves,bet365_total_2_5,over_2.5,1.85,0.6041832433709358,True,0.8500000000000001
+2023-04-30,Fulham,Man City,bet365_total_2_5,under_2.5,2.5,0.42390157433615594,False,-1.0
+2023-04-30,Liverpool,Tottenham,bet365_total_2_5,under_2.5,2.63,0.4106341775798015,False,-1.0
+2023-05-03,Liverpool,Fulham,bet365_total_2_5,under_2.5,2.75,0.42349942125191764,True,1.75
+2023-05-06,Liverpool,Brentford,bet365_total_2_5,under_2.5,2.63,0.4557308859490491,True,1.63
+2023-05-06,Wolves,Aston Villa,bet365_total_2_5,over_2.5,2.2,0.49636737963097805,False,-1.0
+2023-05-08,Nott'm Forest,Southampton,bet365_total_2_5,under_2.5,1.87,0.6055636484915807,False,-1.0
+2023-05-13,Southampton,Fulham,bet365_total_2_5,under_2.5,1.99,0.5530858992925378,True,0.99
+2023-05-14,Brentford,West Ham,bet365_total_2_5,under_2.5,1.9,0.5576011965561356,True,0.8999999999999999
+2023-05-15,Leicester,Liverpool,bet365_total_2_5,under_2.5,2.63,0.4844236586262204,False,-1.0
+2023-05-20,Fulham,Crystal Palace,bet365_total_2_5,over_2.5,2.05,0.5132148112288252,True,1.0499999999999998
+2023-05-20,Liverpool,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.480203454654324,True,1.5
+2023-05-20,Nott'm Forest,Arsenal,bet365_total_2_5,under_2.5,2.38,0.486739214584764,True,1.38
+2023-05-20,Wolves,Everton,bet365_total_2_5,over_2.5,2.1,0.5279422947433001,False,-1.0
+2023-05-21,Brighton,Southampton,bet365_total_2_5,under_2.5,3.0,0.43275865341264064,False,-1.0
+2023-05-24,Brighton,Man City,bet365_total_2_5,under_2.5,2.5,0.44901696588420315,True,1.5
+2023-05-28,Arsenal,Wolves,bet365_total_2_5,under_2.5,2.75,0.4421104390366464,False,-1.0
+2023-05-28,Aston Villa,Brighton,bet365_total_2_5,under_2.5,2.5,0.4260584485278034,False,-1.0
+2023-05-28,Brentford,Man City,bet365_total_2_5,under_2.5,2.3,0.5056213572241983,True,1.2999999999999998
+2023-05-28,Crystal Palace,Nott'm Forest,bet365_total_2_5,under_2.5,2.2,0.4993019073643038,True,1.2000000000000002
+2023-05-28,Everton,Bournemouth,bet365_total_2_5,under_2.5,2.2,0.5278129222031032,True,1.2000000000000002
+2023-05-28,Leeds,Tottenham,bet365_total_2_5,under_2.5,2.63,0.5129498048730019,False,-1.0
+2023-05-28,Leicester,West Ham,bet365_total_2_5,under_2.5,2.2,0.5304753819649095,False,-1.0
+2023-05-28,Man United,Fulham,bet365_total_2_5,under_2.5,2.63,0.4415640328401774,False,-1.0
+2023-05-28,Southampton,Liverpool,bet365_total_2_5,under_2.5,3.0,0.42077807636407805,False,-1.0
+2023-08-12,Arsenal,Nott'm Forest,bet365_total_2_5,under_2.5,2.75,0.3871947102172719,False,-1.0
+2023-08-12,Sheffield United,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.51927163740639,False,-1.0
+2023-08-19,Liverpool,Bournemouth,bet365_total_2_5,under_2.5,3.4,0.4083928674755499,False,-1.0
+2023-08-19,Man City,Newcastle,bet365_total_2_5,over_2.5,1.73,0.6539897802731305,False,-1.0
+2023-08-21,Crystal Palace,Arsenal,bet365_total_2_5,over_2.5,1.94,0.5438768598089351,False,-1.0
+2023-08-25,Chelsea,Luton,bet365_total_2_5,over_2.5,1.67,0.6300791886937146,True,0.6699999999999999
+2023-08-26,Arsenal,Fulham,bet365_total_2_5,under_2.5,2.75,0.39125335534193817,False,-1.0
+2023-08-26,Bournemouth,Tottenham,bet365_total_2_5,under_2.5,2.5,0.4870152293420893,True,1.5
+2023-08-26,Brentford,Crystal Palace,bet365_total_2_5,over_2.5,2.1,0.5069447327137849,False,-1.0
+2023-08-26,Brighton,West Ham,bet365_total_2_5,under_2.5,2.63,0.4129221906705841,False,-1.0
+2023-08-26,Everton,Wolves,bet365_total_2_5,over_2.5,2.1,0.5367861877985768,False,-1.0
+2023-08-27,Sheffield United,Man City,bet365_total_2_5,under_2.5,2.38,0.44255546853799554,False,-1.0
+2023-09-02,Brentford,Bournemouth,bet365_total_2_5,under_2.5,2.1,0.5052332525733796,False,-1.0
+2023-09-02,Sheffield United,Everton,bet365_total_2_5,over_2.5,2.2,0.4826559471140002,True,1.2000000000000002
+2023-09-03,Crystal Palace,Wolves,bet365_total_2_5,over_2.5,2.2,0.5193293476783254,True,1.2000000000000002
+2023-09-03,Liverpool,Aston Villa,bet365_total_2_5,under_2.5,3.0,0.3892417405263767,False,-1.0
+2023-09-16,West Ham,Man City,bet365_total_2_5,under_2.5,2.3,0.47620049825238464,False,-1.0
+2023-09-16,Wolves,Liverpool,bet365_total_2_5,under_2.5,2.75,0.4142468413185947,False,-1.0
+2023-09-17,Bournemouth,Chelsea,bet365_total_2_5,under_2.5,2.2,0.5184054611121727,True,1.2000000000000002
+2023-09-23,Brentford,Everton,bet365_total_2_5,over_2.5,1.95,0.5391132220640662,True,0.95
+2023-09-23,Crystal Palace,Fulham,bet365_total_2_5,over_2.5,2.0,0.5266502037193331,False,-1.0
+2023-09-24,Brighton,Bournemouth,bet365_total_2_5,under_2.5,3.2,0.4115511239738219,False,-1.0
+2023-09-24,Chelsea,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5199683346511448,True,1.1
+2023-09-24,Liverpool,West Ham,bet365_total_2_5,under_2.5,3.0,0.3845210539929159,False,-1.0
+2023-09-24,Sheffield United,Newcastle,bet365_total_2_5,under_2.5,2.2,0.49917556072696956,False,-1.0
+2023-09-30,Aston Villa,Brighton,bet365_total_2_5,under_2.5,2.75,0.4264701243627409,False,-1.0
+2023-09-30,Bournemouth,Arsenal,bet365_total_2_5,under_2.5,2.5,0.47875294891428766,False,-1.0
+2023-09-30,Tottenham,Liverpool,bet365_total_2_5,under_2.5,3.2,0.39164483062198374,False,-1.0
+2023-10-03,Luton,Burnley,bet365_total_2_5,over_2.5,2.2,0.49057052018871855,True,1.2000000000000002
+2023-10-07,Crystal Palace,Nott'm Forest,bet365_total_2_5,over_2.5,2.25,0.5203374887160129,False,-1.0
+2023-10-07,Everton,Bournemouth,bet365_total_2_5,under_2.5,2.05,0.5376483201372253,False,-1.0
+2023-10-08,Arsenal,Man City,bet365_total_2_5,over_2.5,1.75,0.6210620788027543,False,-1.0
+2023-10-08,Brighton,Liverpool,bet365_total_2_5,under_2.5,3.1,0.36554507542075054,False,-1.0
+2023-10-08,Wolves,Aston Villa,bet365_total_2_5,under_2.5,2.05,0.524646875405929,True,1.0499999999999998
+2023-10-21,Bournemouth,Wolves,bet365_total_2_5,under_2.5,2.05,0.5564527240071362,False,-1.0
+2023-10-21,Liverpool,Everton,bet365_total_2_5,under_2.5,2.88,0.4104089871413352,True,1.88
+2023-10-21,Sheffield United,Man United,bet365_total_2_5,under_2.5,2.4,0.44947701546494156,False,-1.0
+2023-10-27,Crystal Palace,Tottenham,bet365_total_2_5,over_2.5,1.94,0.5832291864216836,True,0.94
+2023-10-28,Bournemouth,Burnley,bet365_total_2_5,under_2.5,2.05,0.5697930201505452,False,-1.0
+2023-10-28,Wolves,Newcastle,bet365_total_2_5,under_2.5,2.05,0.5135972300894531,False,-1.0
+2023-10-29,Brighton,Fulham,bet365_total_2_5,under_2.5,2.5,0.4505661994785103,True,1.5
+2023-11-04,Burnley,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.4965681935338313,False,-1.0
+2023-11-04,Everton,Brighton,bet365_total_2_5,under_2.5,2.35,0.4562604369121368,True,1.35
+2023-11-04,Newcastle,Arsenal,bet365_total_2_5,over_2.5,1.95,0.5495358976854585,False,-1.0
+2023-11-05,Luton,Liverpool,bet365_total_2_5,under_2.5,3.1,0.4005389083468758,True,2.1
+2023-11-11,Crystal Palace,Everton,bet365_total_2_5,over_2.5,2.25,0.5041690269243598,True,1.25
+2023-11-11,Wolves,Tottenham,bet365_total_2_5,under_2.5,2.25,0.49354483810342675,False,-1.0
+2023-11-12,Brighton,Sheffield United,bet365_total_2_5,under_2.5,2.88,0.40541563468232766,True,1.88
+2023-11-12,Liverpool,Brentford,bet365_total_2_5,under_2.5,2.7,0.39499967754115994,False,-1.0
+2023-11-12,West Ham,Nott'm Forest,bet365_total_2_5,under_2.5,2.05,0.5133081318144417,False,-1.0
+2023-11-25,Nott'm Forest,Brighton,bet365_total_2_5,under_2.5,2.08,0.5133402009771937,False,-1.0
+2023-11-25,Sheffield United,Bournemouth,bet365_total_2_5,under_2.5,2.05,0.5199463485133846,False,-1.0
+2023-11-26,Tottenham,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.45938696209205887,False,-1.0
+2023-11-27,Fulham,Wolves,bet365_total_2_5,over_2.5,2.08,0.5391238586509085,True,1.08
+2023-12-02,Arsenal,Wolves,bet365_total_2_5,over_2.5,1.65,0.6468624712970927,True,0.6499999999999999
+2023-12-02,Nott'm Forest,Everton,bet365_total_2_5,over_2.5,2.05,0.5179062929061706,False,-1.0
+2023-12-03,Bournemouth,Aston Villa,bet365_total_2_5,under_2.5,2.4,0.4964286840643366,False,-1.0
+2023-12-03,Chelsea,Brighton,bet365_total_2_5,under_2.5,2.4,0.4669143709546656,False,-1.0
+2023-12-03,West Ham,Crystal Palace,bet365_total_2_5,over_2.5,2.04,0.5291080533397151,False,-1.0
+2023-12-05,Luton,Arsenal,bet365_total_2_5,under_2.5,2.2,0.4807143497504466,False,-1.0
+2023-12-06,Brighton,Brentford,bet365_total_2_5,under_2.5,2.25,0.4820745851789706,False,-1.0
+2023-12-06,Sheffield United,Liverpool,bet365_total_2_5,under_2.5,3.4,0.3177254597858744,True,2.4
+2023-12-07,Tottenham,West Ham,bet365_total_2_5,under_2.5,2.5,0.46603317557816315,False,-1.0
+2023-12-09,Man United,Bournemouth,bet365_total_2_5,under_2.5,2.5,0.4221121118761346,False,-1.0
+2023-12-10,Luton,Man City,bet365_total_2_5,under_2.5,3.1,0.4551537037756961,False,-1.0
+2023-12-10,Tottenham,Newcastle,bet365_total_2_5,under_2.5,2.4,0.4752983181369175,False,-1.0
+2023-12-15,Nott'm Forest,Tottenham,bet365_total_2_5,under_2.5,2.25,0.499233605220746,True,1.25
+2023-12-16,Chelsea,Sheffield United,bet365_total_2_5,under_2.5,2.5,0.43212404237849456,True,1.5
+2023-12-17,Liverpool,Man United,bet365_total_2_5,under_2.5,3.4,0.3961394051323932,True,2.4
+2023-12-23,Tottenham,Everton,bet365_total_2_5,under_2.5,2.4,0.4409462704679791,False,-1.0
+2023-12-23,West Ham,Man United,bet365_total_2_5,under_2.5,2.1,0.5119505897897647,True,1.1
+2023-12-24,Wolves,Chelsea,bet365_total_2_5,over_2.5,1.86,0.5647830515374853,True,0.8600000000000001
+2023-12-27,Brentford,Wolves,bet365_total_2_5,over_2.5,2.03,0.537843954864444,True,1.0299999999999998
+2023-12-28,Brighton,Tottenham,bet365_total_2_5,under_2.5,2.7,0.5050087952245317,False,-1.0
+2023-12-30,Luton,Chelsea,bet365_total_2_5,under_2.5,2.2,0.5087523989331215,False,-1.0
+2023-12-31,Fulham,Arsenal,bet365_total_2_5,over_2.5,1.73,0.6129548210856879,True,0.73
+2023-12-31,Tottenham,Bournemouth,bet365_total_2_5,under_2.5,2.88,0.423313268038886,False,-1.0
+2024-01-13,Chelsea,Fulham,bet365_total_2_5,under_2.5,2.25,0.4768149408057547,True,1.25
+2024-01-14,Man United,Tottenham,bet365_total_2_5,under_2.5,2.6,0.48975885979342737,False,-1.0
+2024-01-20,Arsenal,Crystal Palace,bet365_total_2_5,over_2.5,1.73,0.6404901953015086,True,0.73
+2024-01-22,Brighton,Wolves,bet365_total_2_5,under_2.5,2.25,0.4996760159535304,True,1.25
+2024-01-30,Fulham,Everton,bet365_total_2_5,over_2.5,2.05,0.5160153774614187,False,-1.0
+2024-01-30,Luton,Brighton,bet365_total_2_5,under_2.5,2.2,0.4901334059507779,False,-1.0
+2024-02-01,Wolves,Man United,bet365_total_2_5,under_2.5,2.05,0.5267217786550222,False,-1.0
+2024-02-03,Everton,Tottenham,bet365_total_2_5,under_2.5,2.25,0.47981296167107956,False,-1.0
+2024-02-03,Newcastle,Luton,bet365_total_2_5,under_2.5,2.35,0.4510620600364309,False,-1.0
+2024-02-03,Sheffield United,Aston Villa,bet365_total_2_5,under_2.5,2.25,0.5008346483388428,False,-1.0
+2024-02-04,Arsenal,Liverpool,bet365_total_2_5,over_2.5,1.67,0.6671398169052091,True,0.6699999999999999
+2024-02-04,Chelsea,Wolves,bet365_total_2_5,under_2.5,2.1,0.5238698405967528,False,-1.0
+2024-02-04,Man United,West Ham,bet365_total_2_5,under_2.5,2.3,0.5254166584957789,False,-1.0
+2024-02-10,Tottenham,Brighton,bet365_total_2_5,under_2.5,2.88,0.4073514640487319,False,-1.0
+2024-02-10,Wolves,Brentford,bet365_total_2_5,under_2.5,2.05,0.5125150592368526,True,1.0499999999999998
+2024-02-11,Aston Villa,Man United,bet365_total_2_5,under_2.5,2.4,0.4600653597391009,False,-1.0
+2024-02-17,Man City,Chelsea,bet365_total_2_5,over_2.5,1.44,0.7558590883270835,False,-1.0
+2024-02-17,Nott'm Forest,West Ham,bet365_total_2_5,under_2.5,2.01,0.5225202191770251,True,1.0099999999999998
+2024-02-17,Tottenham,Wolves,bet365_total_2_5,under_2.5,2.7,0.43097920601194717,False,-1.0
+2024-02-18,Luton,Man United,bet365_total_2_5,under_2.5,2.35,0.48882192397822377,False,-1.0
+2024-02-18,Sheffield United,Brighton,bet365_total_2_5,under_2.5,2.35,0.49002775124350395,False,-1.0
+2024-02-24,Brighton,Everton,bet365_total_2_5,under_2.5,2.2,0.4902630815895431,True,1.2000000000000002
+2024-02-24,Man United,Fulham,bet365_total_2_5,under_2.5,2.35,0.4534980115790712,False,-1.0
+2024-02-26,West Ham,Brentford,bet365_total_2_5,under_2.5,2.1,0.5646022545838849,False,-1.0
+2024-03-02,Brentford,Chelsea,bet365_total_2_5,under_2.5,2.4,0.4579752408411616,False,-1.0
+2024-03-02,Everton,West Ham,bet365_total_2_5,under_2.5,1.98,0.5678090263714044,False,-1.0
+2024-03-02,Luton,Aston Villa,bet365_total_2_5,under_2.5,2.7,0.450034063639824,False,-1.0
+2024-03-02,Newcastle,Wolves,bet365_total_2_5,under_2.5,2.35,0.46693452343831965,False,-1.0
+2024-03-02,Nott'm Forest,Liverpool,bet365_total_2_5,over_2.5,1.48,0.7120656447817799,False,-1.0
+2024-03-03,Burnley,Bournemouth,bet365_total_2_5,under_2.5,2.1,0.5040761021194045,True,1.1
+2024-03-09,Arsenal,Brentford,bet365_total_2_5,over_2.5,1.44,0.7294277202002852,True,0.43999999999999995
+2024-03-09,Bournemouth,Sheffield United,bet365_total_2_5,under_2.5,2.4,0.48115872210853283,False,-1.0
+2024-03-10,Aston Villa,Tottenham,bet365_total_2_5,under_2.5,3.1,0.428687873403683,False,-1.0
+2024-03-10,West Ham,Burnley,bet365_total_2_5,under_2.5,2.1,0.518718083206029,False,-1.0
+2024-03-11,Chelsea,Newcastle,bet365_total_2_5,under_2.5,2.7,0.48236724325269276,False,-1.0
+2024-03-13,Bournemouth,Luton,bet365_total_2_5,under_2.5,2.7,0.46495196944439987,False,-1.0
+2024-03-16,Burnley,Brentford,bet365_total_2_5,under_2.5,2.05,0.6011521099549102,False,-1.0
+2024-03-16,Fulham,Tottenham,bet365_total_2_5,under_2.5,2.6,0.46141166975003556,False,-1.0
+2024-03-17,West Ham,Aston Villa,bet365_total_2_5,under_2.5,2.35,0.5133267777308781,True,1.35
+2024-03-30,Bournemouth,Everton,bet365_total_2_5,under_2.5,2.1,0.5372392040040002,False,-1.0
+2024-03-30,Brentford,Man United,bet365_total_2_5,under_2.5,2.4,0.4635927446330491,True,1.4
+2024-03-30,Chelsea,Burnley,bet365_total_2_5,under_2.5,2.6,0.4182249537903563,False,-1.0
+2024-03-30,Newcastle,West Ham,bet365_total_2_5,under_2.5,2.5,0.422498111835113,False,-1.0
+2024-03-30,Tottenham,Luton,bet365_total_2_5,under_2.5,4.0,0.39044629214536153,False,-1.0
+2024-03-31,Man City,Arsenal,bet365_total_2_5,over_2.5,1.7,0.6231268587012363,False,-1.0
+2024-04-02,Burnley,Wolves,bet365_total_2_5,under_2.5,2.06,0.5319603932271046,True,1.06
+2024-04-02,Newcastle,Everton,bet365_total_2_5,under_2.5,2.2,0.48569972136142114,True,1.2000000000000002
+2024-04-02,West Ham,Tottenham,bet365_total_2_5,under_2.5,3.4,0.46525820650368543,True,2.4
+2024-04-03,Arsenal,Luton,bet365_total_2_5,under_2.5,4.0,0.27054825840309427,True,3.0
+2024-04-03,Brentford,Brighton,bet365_total_2_5,under_2.5,2.38,0.4893454707513224,True,1.38
+2024-04-04,Chelsea,Man United,bet365_total_2_5,under_2.5,3.0,0.41163219656296635,False,-1.0
+2024-04-06,Everton,Burnley,bet365_total_2_5,under_2.5,2.0,0.5518694374119311,True,1.0
+2024-04-06,Fulham,Newcastle,bet365_total_2_5,under_2.5,2.63,0.4193198576311019,True,1.63
+2024-04-06,Luton,Bournemouth,bet365_total_2_5,under_2.5,2.63,0.46098387041570654,False,-1.0
+2024-04-07,Sheffield United,Chelsea,bet365_total_2_5,under_2.5,3.0,0.423496322859385,False,-1.0
+2024-04-07,Tottenham,Nott'm Forest,bet365_total_2_5,under_2.5,3.0,0.4369979891541911,False,-1.0
+2024-04-13,Bournemouth,Man United,bet365_total_2_5,under_2.5,2.75,0.4459073456250292,False,-1.0
+2024-04-13,Brentford,Sheffield United,bet365_total_2_5,under_2.5,2.5,0.5596709756573737,True,1.5
+2024-04-13,Newcastle,Tottenham,bet365_total_2_5,under_2.5,3.2,0.4354557589724578,False,-1.0
+2024-04-14,Liverpool,Crystal Palace,bet365_total_2_5,over_2.5,1.4,0.7828244648635694,False,-1.0
+2024-04-20,Luton,Brentford,bet365_total_2_5,under_2.5,2.38,0.4817568069479369,False,-1.0
+2024-04-20,Sheffield United,Burnley,bet365_total_2_5,under_2.5,2.2,0.5239010227515679,False,-1.0
+2024-04-21,Aston Villa,Bournemouth,bet365_total_2_5,under_2.5,2.75,0.4027781246938349,False,-1.0
+2024-04-24,Man United,Sheffield United,bet365_total_2_5,under_2.5,3.2,0.4667932453695429,False,-1.0
+2024-04-24,Wolves,Bournemouth,bet365_total_2_5,under_2.5,2.2,0.5155152061353636,True,1.2000000000000002
+2024-04-27,Aston Villa,Chelsea,bet365_total_2_5,under_2.5,2.75,0.4121177098479468,False,-1.0
+2024-04-27,Man United,Burnley,bet365_total_2_5,under_2.5,3.2,0.42621789775880614,True,2.2
+2024-04-27,Newcastle,Sheffield United,bet365_total_2_5,under_2.5,3.4,0.42827981801072246,False,-1.0
+2024-04-27,West Ham,Liverpool,bet365_total_2_5,under_2.5,3.2,0.33573143940061057,False,-1.0
+2024-04-27,Wolves,Luton,bet365_total_2_5,under_2.5,2.3,0.5245504448618854,False,-1.0
+2024-04-28,Bournemouth,Brighton,bet365_total_2_5,under_2.5,2.75,0.44792866078320415,False,-1.0
+2024-04-28,Tottenham,Arsenal,bet365_total_2_5,under_2.5,2.63,0.4301525361952403,False,-1.0
+2024-05-02,Chelsea,Tottenham,bet365_total_2_5,under_2.5,3.5,0.4155650461853039,True,2.5
+2024-05-03,Luton,Everton,bet365_total_2_5,under_2.5,2.1,0.5048105760693646,True,1.1
+2024-05-04,Arsenal,Bournemouth,bet365_total_2_5,under_2.5,3.4,0.34425315714392046,False,-1.0
+2024-05-04,Brentford,Fulham,bet365_total_2_5,under_2.5,2.38,0.4856861235561878,True,1.38
+2024-05-04,Burnley,Newcastle,bet365_total_2_5,under_2.5,2.63,0.4823762841819964,False,-1.0
+2024-05-04,Sheffield United,Nott'm Forest,bet365_total_2_5,under_2.5,2.38,0.5368601918025357,False,-1.0
+2024-05-05,Brighton,Aston Villa,bet365_total_2_5,under_2.5,2.63,0.49328391112476233,True,1.63
+2024-05-05,Chelsea,West Ham,bet365_total_2_5,under_2.5,3.0,0.40393240717239554,False,-1.0
+2024-05-05,Liverpool,Tottenham,bet365_total_2_5,under_2.5,4.0,0.29471289960073366,False,-1.0
+2024-05-06,Crystal Palace,Man United,bet365_total_2_5,under_2.5,2.5,0.4673134580619709,False,-1.0
+2024-05-11,Bournemouth,Brentford,bet365_total_2_5,under_2.5,2.75,0.4710040807700878,False,-1.0
+2024-05-11,Everton,Sheffield United,bet365_total_2_5,under_2.5,2.5,0.49710307850918045,True,1.5
+2024-05-11,Fulham,Man City,bet365_total_2_5,under_2.5,3.2,0.38751010085036,False,-1.0
+2024-05-11,Newcastle,Brighton,bet365_total_2_5,under_2.5,3.4,0.38939413569879955,True,2.4
+2024-05-11,Nott'm Forest,Chelsea,bet365_total_2_5,under_2.5,2.63,0.41591357426636555,False,-1.0
+2024-05-11,Tottenham,Burnley,bet365_total_2_5,under_2.5,4.0,0.39872145103104484,False,-1.0
+2024-05-11,West Ham,Luton,bet365_total_2_5,under_2.5,2.75,0.5173672068932553,False,-1.0
+2024-05-11,Wolves,Crystal Palace,bet365_total_2_5,under_2.5,2.0,0.5320000370434366,False,-1.0
+2024-05-12,Man United,Arsenal,bet365_total_2_5,under_2.5,3.2,0.43763055107409454,True,2.2
+2024-05-13,Aston Villa,Liverpool,bet365_total_2_5,under_2.5,3.4,0.3334431158530087,False,-1.0
+2024-05-14,Tottenham,Man City,bet365_total_2_5,under_2.5,4.0,0.3960822184405519,True,3.0
+2024-05-15,Brighton,Chelsea,bet365_total_2_5,under_2.5,3.0,0.4415994579440792,False,-1.0
+2024-05-15,Man United,Newcastle,bet365_total_2_5,under_2.5,3.4,0.420096197285722,False,-1.0
+2024-05-19,Arsenal,Everton,bet365_total_2_5,under_2.5,3.2,0.3758121458521201,False,-1.0
+2024-05-19,Brentford,Newcastle,bet365_total_2_5,under_2.5,3.2,0.416886197124265,False,-1.0
+2024-05-19,Brighton,Man United,bet365_total_2_5,under_2.5,3.4,0.4998035657410689,True,2.4
+2024-05-19,Burnley,Nott'm Forest,bet365_total_2_5,under_2.5,2.5,0.512845443263249,False,-1.0
+2024-05-19,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,3.75,0.3301799161539558,False,-1.0
+2024-05-19,Crystal Palace,Aston Villa,bet365_total_2_5,under_2.5,3.0,0.4841019250131794,False,-1.0
+2024-05-19,Liverpool,Wolves,bet365_total_2_5,under_2.5,4.33,0.28253669250771596,True,3.33
+2024-05-19,Luton,Fulham,bet365_total_2_5,under_2.5,2.75,0.53886271098572,False,-1.0
+2024-05-19,Man City,West Ham,bet365_total_2_5,under_2.5,4.5,0.2378305045608431,False,-1.0
+2024-05-19,Sheffield United,Tottenham,bet365_total_2_5,under_2.5,4.33,0.44006027104874723,False,-1.0
+2024-08-17,Arsenal,Wolves,bet365_total_2_5,over_2.5,1.44,0.7495498173348757,False,-1.0
+2024-08-18,Chelsea,Man City,bet365_total_2_5,under_2.5,2.63,0.45549442879772684,True,1.63
+2024-08-19,Leicester,Tottenham,bet365_total_2_5,under_2.5,2.5,0.46576115230430626,True,1.5
+2024-08-24,Southampton,Nott'm Forest,bet365_total_2_5,over_2.5,2.01,0.5383514062608836,False,-1.0
+2024-08-24,Tottenham,Everton,bet365_total_2_5,under_2.5,2.63,0.4704987656106865,False,-1.0
+2024-08-31,Brentford,Southampton,bet365_total_2_5,under_2.5,2.1,0.5071571609140968,False,-1.0
+2024-08-31,Everton,Bournemouth,bet365_total_2_5,over_2.5,1.92,0.5503554276696688,True,0.9199999999999999
+2024-08-31,Leicester,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.5206595754870287,False,-1.0
+2024-08-31,Nott'm Forest,Wolves,bet365_total_2_5,over_2.5,1.85,0.5973172788497033,False,-1.0
+2024-08-31,West Ham,Man City,bet365_total_2_5,under_2.5,2.75,0.38729577710844043,False,-1.0
+2024-09-01,Chelsea,Crystal Palace,bet365_total_2_5,under_2.5,2.63,0.4205662366283479,True,1.63
+2024-09-01,Newcastle,Tottenham,bet365_total_2_5,under_2.5,3.2,0.41719543908277457,False,-1.0
+2024-09-14,Aston Villa,Everton,bet365_total_2_5,under_2.5,2.2,0.48362579389825344,False,-1.0
+2024-09-14,Bournemouth,Chelsea,bet365_total_2_5,under_2.5,2.75,0.4079072232777574,True,1.75
+2024-09-14,Brighton,Ipswich,bet365_total_2_5,under_2.5,2.5,0.4432479906028596,True,1.5
+2024-09-21,Leicester,Everton,bet365_total_2_5,under_2.5,2.03,0.5443642705551772,True,1.0299999999999998
+2024-09-21,Southampton,Ipswich,bet365_total_2_5,under_2.5,2.0,0.5308288128432572,True,1.0
+2024-09-21,Tottenham,Brentford,bet365_total_2_5,under_2.5,2.75,0.4049849456476008,False,-1.0
+2024-09-21,West Ham,Chelsea,bet365_total_2_5,under_2.5,2.63,0.42010796878865064,False,-1.0
+2024-09-22,Man City,Arsenal,bet365_total_2_5,over_2.5,2.04,0.6159557138092997,True,1.04
+2024-09-28,Arsenal,Leicester,bet365_total_2_5,over_2.5,1.5,0.7017641957936214,True,0.5
+2024-09-28,Chelsea,Brighton,bet365_total_2_5,under_2.5,2.63,0.41175811544750207,False,-1.0
+2024-09-28,Nott'm Forest,Fulham,bet365_total_2_5,over_2.5,2.02,0.572285610266612,False,-1.0
+2024-09-29,Ipswich,Aston Villa,bet365_total_2_5,under_2.5,2.1,0.5293466240127509,False,-1.0
+2024-10-05,Arsenal,Southampton,bet365_total_2_5,over_2.5,1.36,0.7868913511128373,True,0.3600000000000001
+2024-10-05,Man City,Fulham,bet365_total_2_5,over_2.5,1.44,0.7473119928620598,True,0.43999999999999995
+2024-10-06,Aston Villa,Man United,bet365_total_2_5,under_2.5,2.5,0.42333783219277976,True,1.5
+2024-10-06,Brighton,Tottenham,bet365_total_2_5,under_2.5,3.0,0.4122900287834854,False,-1.0
+2024-10-19,Bournemouth,Arsenal,bet365_total_2_5,over_2.5,1.73,0.6720014429690484,False,-1.0
+2024-10-19,Ipswich,Everton,bet365_total_2_5,under_2.5,2.04,0.5297250258495714,True,1.04
+2024-10-19,Man United,Brentford,bet365_total_2_5,under_2.5,2.63,0.444033832874264,False,-1.0
+2024-10-21,Nott'm Forest,Crystal Palace,bet365_total_2_5,over_2.5,2.1,0.5209382956533565,False,-1.0
+2024-10-26,Man City,Southampton,bet365_total_2_5,over_2.5,1.29,0.8648208818034415,False,-1.0
+2024-10-27,Arsenal,Liverpool,bet365_total_2_5,over_2.5,1.92,0.6369347327769512,True,0.9199999999999999
+2024-10-27,Chelsea,Newcastle,bet365_total_2_5,under_2.5,2.75,0.38538038375111916,False,-1.0
+2024-11-02,Bournemouth,Man City,bet365_total_2_5,over_2.5,1.57,0.6829567364520568,True,0.5700000000000001
+2024-11-02,Liverpool,Brighton,bet365_total_2_5,under_2.5,3.0,0.36787001419007015,False,-1.0
+2024-11-02,Newcastle,Arsenal,bet365_total_2_5,over_2.5,1.84,0.5841424399276036,False,-1.0
+2024-11-02,Nott'm Forest,West Ham,bet365_total_2_5,over_2.5,1.89,0.5743129150055256,True,0.8899999999999999
+2024-11-02,Southampton,Everton,bet365_total_2_5,under_2.5,2.06,0.5217813224383208,True,1.06
+2024-11-03,Man United,Chelsea,bet365_total_2_5,under_2.5,2.75,0.3862288695516023,True,1.75
+2024-11-03,Tottenham,Aston Villa,bet365_total_2_5,under_2.5,2.75,0.3843752869137377,False,-1.0
+2024-11-09,Crystal Palace,Fulham,bet365_total_2_5,over_2.5,1.95,0.585131195117694,False,-1.0
+2024-11-09,Wolves,Southampton,bet365_total_2_5,under_2.5,2.2,0.5028729687490441,True,1.2000000000000002
+2024-11-10,Chelsea,Arsenal,bet365_total_2_5,over_2.5,1.73,0.6099893397234015,False,-1.0
+2024-11-10,Man United,Leicester,bet365_total_2_5,under_2.5,2.75,0.4067124538974247,False,-1.0
+2024-11-10,Tottenham,Ipswich,bet365_total_2_5,under_2.5,3.5,0.3494390803075086,False,-1.0
+2024-11-23,Aston Villa,Crystal Palace,bet365_total_2_5,over_2.5,1.73,0.6152145037265411,True,0.73
+2024-11-24,Ipswich,Man United,bet365_total_2_5,under_2.5,2.38,0.47913249721142215,True,1.38
+2024-11-24,Southampton,Liverpool,bet365_total_2_5,under_2.5,2.75,0.38835876060995767,False,-1.0
+2024-11-30,Nott'm Forest,Ipswich,bet365_total_2_5,over_2.5,1.92,0.5932919778309117,False,-1.0
+2024-12-01,Man United,Everton,bet365_total_2_5,under_2.5,2.1,0.5129164651340075,False,-1.0
+2024-12-01,Tottenham,Fulham,bet365_total_2_5,under_2.5,2.75,0.40078673731157566,True,1.75
+2024-12-04,Everton,Wolves,bet365_total_2_5,over_2.5,2.03,0.5186830658437622,True,1.0299999999999998
+2024-12-04,Newcastle,Liverpool,bet365_total_2_5,under_2.5,2.38,0.4489643977456831,False,-1.0
+2024-12-05,Bournemouth,Tottenham,bet365_total_2_5,under_2.5,2.75,0.4092396056491694,True,1.75
+2024-12-08,Fulham,Arsenal,bet365_total_2_5,over_2.5,1.8,0.6492009227458648,False,-1.0
+2024-12-08,Tottenham,Chelsea,bet365_total_2_5,under_2.5,3.2,0.3611296156608602,False,-1.0
+2024-12-14,Newcastle,Leicester,bet365_total_2_5,under_2.5,2.75,0.43398286740087944,False,-1.0
+2024-12-14,Nott'm Forest,Aston Villa,bet365_total_2_5,over_2.5,1.9,0.5751505199634076,True,0.8999999999999999
+2024-12-15,Chelsea,Brentford,bet365_total_2_5,under_2.5,3.4,0.33658054271620963,False,-1.0
+2024-12-15,Man City,Man United,bet365_total_2_5,under_2.5,2.75,0.4146038766178768,False,-1.0
+2024-12-15,Southampton,Tottenham,bet365_total_2_5,under_2.5,3.5,0.4119770821559876,False,-1.0
+2024-12-21,Ipswich,Newcastle,bet365_total_2_5,under_2.5,2.3,0.4632751646666067,False,-1.0
+2024-12-21,West Ham,Brighton,bet365_total_2_5,under_2.5,2.63,0.4047117552907633,True,1.63
+2024-12-22,Man United,Bournemouth,bet365_total_2_5,under_2.5,2.38,0.4486433222237409,False,-1.0
+2024-12-22,Tottenham,Liverpool,bet365_total_2_5,under_2.5,3.5,0.3846724905902229,False,-1.0
+2024-12-26,Chelsea,Fulham,bet365_total_2_5,under_2.5,2.75,0.40401905263880855,False,-1.0
+2024-12-26,Liverpool,Leicester,bet365_total_2_5,under_2.5,4.5,0.23415219450459213,False,-1.0
+2024-12-26,Nott'm Forest,Tottenham,bet365_total_2_5,under_2.5,2.63,0.4449342662656506,True,1.63
+2024-12-27,Brighton,Brentford,bet365_total_2_5,under_2.5,2.75,0.4456110381728451,True,1.75
+2024-12-29,Leicester,Man City,bet365_total_2_5,under_2.5,3.2,0.4007662828977494,True,2.2
+2024-12-29,Tottenham,Wolves,bet365_total_2_5,under_2.5,3.4,0.4103509992005405,False,-1.0
+2024-12-30,Ipswich,Chelsea,bet365_total_2_5,under_2.5,2.75,0.4184618579933611,True,1.75
+2025-01-04,Aston Villa,Leicester,bet365_total_2_5,under_2.5,2.63,0.40106876602372776,False,-1.0
+2025-01-04,Brighton,Arsenal,bet365_total_2_5,under_2.5,2.1,0.517889470904914,True,1.1
+2025-01-04,Man City,West Ham,bet365_total_2_5,under_2.5,3.4,0.3844361794086524,False,-1.0
+2025-01-04,Southampton,Brentford,bet365_total_2_5,under_2.5,2.2,0.5301172460439423,False,-1.0
+2025-01-04,Tottenham,Newcastle,bet365_total_2_5,under_2.5,3.4,0.4364931498753196,False,-1.0
+2025-01-14,Brentford,Man City,bet365_total_2_5,under_2.5,3.0,0.4293550366964406,False,-1.0
+2025-01-14,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,3.0,0.3928717972378324,False,-1.0
+2025-01-15,Arsenal,Tottenham,bet365_total_2_5,under_2.5,2.75,0.40530733753722004,False,-1.0
+2025-01-15,Everton,Aston Villa,bet365_total_2_5,over_2.5,2.08,0.5103147165932963,False,-1.0
+2025-01-15,Newcastle,Wolves,bet365_total_2_5,under_2.5,2.75,0.4357812117837577,False,-1.0
+2025-01-16,Man United,Southampton,bet365_total_2_5,under_2.5,2.5,0.4247563387519603,False,-1.0
+2025-01-18,Arsenal,Aston Villa,bet365_total_2_5,over_2.5,1.87,0.5900070097588486,True,0.8700000000000001
+2025-01-19,Everton,Tottenham,bet365_total_2_5,under_2.5,2.2,0.504353579301074,False,-1.0
+2025-01-19,Ipswich,Man City,bet365_total_2_5,under_2.5,2.75,0.47094646478768787,False,-1.0
+2025-01-20,Chelsea,Wolves,bet365_total_2_5,under_2.5,3.2,0.42312698883147015,False,-1.0
+2025-01-25,Man City,Chelsea,bet365_total_2_5,under_2.5,3.0,0.35260953967294173,False,-1.0
+2025-01-25,Southampton,Newcastle,bet365_total_2_5,under_2.5,2.7,0.3989025674621438,False,-1.0
+2025-01-26,Tottenham,Leicester,bet365_total_2_5,under_2.5,3.4,0.4584353825196551,False,-1.0
+2025-02-01,Nott'm Forest,Brighton,bet365_total_2_5,over_2.5,1.95,0.5785812163014152,True,0.95
+2025-02-02,Brentford,Tottenham,bet365_total_2_5,under_2.5,3.4,0.44465024739174897,True,2.4
+2025-02-12,Everton,Liverpool,bet365_total_2_5,over_2.5,1.73,0.6228340521037408,True,0.73
+2025-02-15,Aston Villa,Ipswich,bet365_total_2_5,under_2.5,2.38,0.44427476348865913,True,1.38
+2025-02-15,Crystal Palace,Everton,bet365_total_2_5,over_2.5,2.2,0.4830736190504976,True,1.2000000000000002
+2025-02-15,Leicester,Arsenal,bet365_total_2_5,over_2.5,1.73,0.6179079892467855,False,-1.0
+2025-02-15,Man City,Newcastle,bet365_total_2_5,under_2.5,2.75,0.4208862904523334,False,-1.0
+2025-02-15,West Ham,Brentford,bet365_total_2_5,under_2.5,2.3,0.4794346840053727,True,1.2999999999999998
+2025-02-16,Tottenham,Man United,bet365_total_2_5,under_2.5,2.63,0.42751185681541315,True,1.63
+2025-02-21,Leicester,Brentford,bet365_total_2_5,under_2.5,2.38,0.4753337054231713,False,-1.0
+2025-02-22,Arsenal,West Ham,bet365_total_2_5,over_2.5,1.67,0.6720006117912665,False,-1.0
+2025-02-22,Everton,Man United,bet365_total_2_5,over_2.5,2.2,0.48469635893644175,True,1.2000000000000002
+2025-02-22,Ipswich,Tottenham,bet365_total_2_5,under_2.5,2.5,0.48540958504389986,False,-1.0
+2025-02-23,Man City,Liverpool,bet365_total_2_5,under_2.5,3.0,0.3683865783859004,True,2.0
+2025-02-25,Chelsea,Southampton,bet365_total_2_5,under_2.5,3.75,0.3719592692566871,False,-1.0
+2025-02-26,Liverpool,Newcastle,bet365_total_2_5,under_2.5,2.75,0.4027793830680694,True,1.75
+2025-02-26,Nott'm Forest,Arsenal,bet365_total_2_5,over_2.5,2.2,0.563515163833855,False,-1.0
+2025-02-26,Tottenham,Man City,bet365_total_2_5,under_2.5,3.2,0.4615375240842453,True,2.2
+2025-03-08,Brentford,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.43852606477227063,True,1.5
+2025-03-08,Wolves,Everton,bet365_total_2_5,over_2.5,2.3,0.48613633775755694,False,-1.0
+2025-03-09,Chelsea,Leicester,bet365_total_2_5,under_2.5,3.2,0.39163217633605973,True,2.2
+2025-03-09,Man United,Arsenal,bet365_total_2_5,over_2.5,2.15,0.5485444877967752,False,-1.0
+2025-03-09,Tottenham,Bournemouth,bet365_total_2_5,under_2.5,3.0,0.43977406204751934,False,-1.0
+2025-03-15,Bournemouth,Brentford,bet365_total_2_5,under_2.5,2.75,0.46525471059479184,False,-1.0
+2025-03-15,Everton,West Ham,bet365_total_2_5,over_2.5,2.3,0.47366576297068536,False,-1.0
+2025-03-15,Man City,Brighton,bet365_total_2_5,under_2.5,2.75,0.4636403021315374,False,-1.0
+2025-03-15,Southampton,Wolves,bet365_total_2_5,over_2.5,1.84,0.5956537739478587,True,0.8400000000000001
+2025-03-16,Arsenal,Chelsea,bet365_total_2_5,over_2.5,1.86,0.6141646892262325,False,-1.0
+2025-03-16,Fulham,Tottenham,bet365_total_2_5,under_2.5,2.38,0.4432011660351364,True,1.38
+2025-04-01,Arsenal,Fulham,bet365_total_2_5,over_2.5,2.1,0.5487262568568854,True,1.1
+2025-04-02,Bournemouth,Ipswich,bet365_total_2_5,under_2.5,2.5,0.42394579637900853,False,-1.0
+2025-04-02,Brighton,Aston Villa,bet365_total_2_5,under_2.5,2.3,0.4735586149687566,False,-1.0
+2025-04-02,Liverpool,Everton,bet365_total_2_5,over_2.5,1.73,0.6113028152224754,False,-1.0
+2025-04-02,Man City,Leicester,bet365_total_2_5,under_2.5,3.0,0.4326830385166318,True,2.0
+2025-04-02,Newcastle,Brentford,bet365_total_2_5,under_2.5,2.75,0.483613461609287,False,-1.0
+2025-04-02,Southampton,Crystal Palace,bet365_total_2_5,over_2.5,1.8,0.6256298132415229,False,-1.0
+2025-04-03,Chelsea,Tottenham,bet365_total_2_5,under_2.5,3.0,0.4496820568493505,True,2.0
+2025-04-05,Everton,Arsenal,bet365_total_2_5,over_2.5,2.38,0.513795423252921,False,-1.0
+2025-04-06,Brentford,Chelsea,bet365_total_2_5,under_2.5,2.5,0.4315122783371288,True,1.5
+2025-04-06,Tottenham,Southampton,bet365_total_2_5,under_2.5,3.0,0.4402517125666293,False,-1.0
+2025-04-07,Leicester,Newcastle,bet365_total_2_5,under_2.5,2.3,0.4677871641178991,False,-1.0
+2025-04-12,Man City,Crystal Palace,bet365_total_2_5,under_2.5,2.5,0.491193817446577,False,-1.0
+2025-04-12,Nott'm Forest,Everton,bet365_total_2_5,over_2.5,2.2,0.5216697499514192,False,-1.0
+2025-04-13,Wolves,Tottenham,bet365_total_2_5,under_2.5,2.2,0.49447981199588853,False,-1.0
+2025-04-19,Aston Villa,Newcastle,bet365_total_2_5,under_2.5,2.3,0.48935623128183237,False,-1.0
+2025-04-19,Brentford,Brighton,bet365_total_2_5,under_2.5,2.38,0.47620585488138,False,-1.0
+2025-04-19,Crystal Palace,Bournemouth,bet365_total_2_5,over_2.5,1.8,0.5974376148444014,False,-1.0
+2025-04-20,Fulham,Chelsea,bet365_total_2_5,over_2.5,1.84,0.5845395202251485,True,0.8400000000000001
+2025-04-20,Leicester,Liverpool,bet365_total_2_5,under_2.5,2.75,0.3884783126687126,True,1.75
+2025-04-21,Tottenham,Nott'm Forest,bet365_total_2_5,under_2.5,2.38,0.5019238608851444,False,-1.0
+2025-04-22,Man City,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.4517900581173241,False,-1.0
+2025-04-23,Arsenal,Crystal Palace,bet365_total_2_5,over_2.5,1.91,0.57873399937148,True,0.9099999999999999
+2025-04-26,Brighton,West Ham,bet365_total_2_5,under_2.5,2.2,0.4830505044843135,False,-1.0
+2025-04-26,Chelsea,Everton,bet365_total_2_5,over_2.5,1.88,0.603956613171829,False,-1.0
+2025-04-26,Newcastle,Ipswich,bet365_total_2_5,under_2.5,3.2,0.3627531095794022,False,-1.0
+2025-04-26,Wolves,Leicester,bet365_total_2_5,under_2.5,2.1,0.5177182479971494,False,-1.0
+2025-04-27,Bournemouth,Man United,bet365_total_2_5,under_2.5,2.2,0.49400733053365464,True,1.2000000000000002
+2025-04-27,Liverpool,Tottenham,bet365_total_2_5,under_2.5,3.4,0.3444982931709295,False,-1.0
+2025-05-02,Man City,Wolves,bet365_total_2_5,under_2.5,2.5,0.4798629353339442,True,1.5
+2025-05-03,Arsenal,Bournemouth,bet365_total_2_5,over_2.5,1.87,0.5856183437732111,True,0.8700000000000001
+2025-05-03,Leicester,Southampton,bet365_total_2_5,under_2.5,2.05,0.5690154003874797,True,1.0499999999999998
+2025-05-04,Brentford,Man United,bet365_total_2_5,under_2.5,2.2,0.4810375228244912,False,-1.0
+2025-05-04,Brighton,Newcastle,bet365_total_2_5,under_2.5,2.5,0.4609401342930979,True,1.5
+2025-05-04,West Ham,Tottenham,bet365_total_2_5,under_2.5,2.38,0.4973302254956298,True,1.38
+2025-05-05,Crystal Palace,Nott'm Forest,bet365_total_2_5,over_2.5,2.01,0.5350218257705371,False,-1.0
+2025-05-10,Bournemouth,Aston Villa,bet365_total_2_5,under_2.5,2.3,0.49404085018946853,True,1.2999999999999998
+2025-05-10,Fulham,Everton,bet365_total_2_5,over_2.5,2.0,0.5569900924913914,True,1.0
+2025-05-10,Ipswich,Brentford,bet365_total_2_5,under_2.5,2.5,0.48034408741738444,True,1.5
+2025-05-10,Southampton,Man City,bet365_total_2_5,under_2.5,3.2,0.4290175080625561,True,2.2
+2025-05-11,Man United,West Ham,bet365_total_2_5,under_2.5,2.1,0.5464570129506976,True,1.1
+2025-05-11,Tottenham,Crystal Palace,bet365_total_2_5,under_2.5,2.5,0.48984861205418095,True,1.5
+2025-05-16,Aston Villa,Tottenham,bet365_total_2_5,under_2.5,3.2,0.39220618250297723,True,2.2
+2025-05-16,Chelsea,Man United,bet365_total_2_5,under_2.5,2.63,0.4126806138485233,True,1.63
+2025-05-18,Brentford,Fulham,bet365_total_2_5,under_2.5,2.3,0.4880347647310348,False,-1.0
+2025-05-18,Leicester,Ipswich,bet365_total_2_5,under_2.5,2.1,0.5140786767404735,True,1.1
+2025-05-19,Brighton,Liverpool,bet365_total_2_5,under_2.5,2.75,0.4359672913068463,False,-1.0
+2025-05-25,Bournemouth,Leicester,bet365_total_2_5,under_2.5,2.63,0.48026973069404966,True,1.63
+2025-05-25,Fulham,Man City,bet365_total_2_5,under_2.5,2.5,0.4407429711860362,True,1.5
+2025-05-25,Ipswich,West Ham,bet365_total_2_5,under_2.5,2.63,0.5006512763015001,False,-1.0
+2025-05-25,Liverpool,Crystal Palace,bet365_total_2_5,under_2.5,3.5,0.3251791011825901,True,2.5
+2025-05-25,Man United,Aston Villa,bet365_total_2_5,under_2.5,2.3,0.5182562347944901,True,1.2999999999999998
+2025-05-25,Southampton,Arsenal,bet365_total_2_5,under_2.5,2.63,0.43099131776356636,False,-1.0
+2025-05-25,Tottenham,Brighton,bet365_total_2_5,under_2.5,3.4,0.45719022302446843,False,-1.0
+2025-05-25,Wolves,Brentford,bet365_total_2_5,under_2.5,2.5,0.4752973181376786,True,1.5
+2025-08-15,Liverpool,Bournemouth,bet365_total_2_5,under_2.5,3.2,0.38469063284980587,False,-1.0
+2025-08-16,Tottenham,Burnley,bet365_total_2_5,under_2.5,2.1,0.5457102575113157,False,-1.0
+2025-08-16,Wolves,Man City,bet365_total_2_5,under_2.5,2.3,0.47105288695613323,False,-1.0
+2025-08-17,Nott'm Forest,Brentford,bet365_total_2_5,over_2.5,2.0,0.5440356885329786,True,1.0
+2025-08-23,Arsenal,Leeds,bet365_total_2_5,under_2.5,2.5,0.5927718809389251,False,-1.0
+2025-08-23,Bournemouth,Wolves,bet365_total_2_5,under_2.5,2.1,0.5455156047031944,True,1.1
+2025-08-24,Crystal Palace,Nott'm Forest,bet365_total_2_5,over_2.5,2.1,0.5577250449680963,False,-1.0
+2025-08-24,Everton,Brighton,bet365_total_2_5,over_2.5,2.0,0.5640675220933672,False,-1.0
+2025-08-30,Man United,Burnley,bet365_total_2_5,under_2.5,2.2,0.5811574107169977,False,-1.0
+2025-08-30,Tottenham,Bournemouth,bet365_total_2_5,under_2.5,2.38,0.4622615257624726,True,1.38
+2025-08-30,Wolves,Everton,bet365_total_2_5,over_2.5,2.2,0.49368724975627115,True,1.2000000000000002
+2025-08-31,Aston Villa,Crystal Palace,bet365_total_2_5,over_2.5,1.98,0.5758229170100974,True,0.98
+2025-08-31,Brighton,Man City,bet365_total_2_5,under_2.5,2.3,0.4879382088908325,False,-1.0
+2025-08-31,Liverpool,Arsenal,bet365_total_2_5,over_2.5,1.73,0.6141394375924047,False,-1.0
+2025-09-14,Burnley,Liverpool,bet365_total_2_5,under_2.5,2.5,0.43464614998607964,True,1.5
+2025-09-20,Man United,Chelsea,bet365_total_2_5,under_2.5,2.38,0.5145877847455662,False,-1.0
+2025-09-20,West Ham,Crystal Palace,bet365_total_2_5,over_2.5,2.05,0.552781769876886,True,1.0499999999999998
+2025-09-27,Man City,Burnley,bet365_total_2_5,under_2.5,2.75,0.4185211501617224,False,-1.0
+2025-10-03,Bournemouth,Fulham,bet365_total_2_5,over_2.5,2.0,0.5329905477497772,True,1.0
+2025-10-04,Man United,Sunderland,bet365_total_2_5,under_2.5,2.3,0.5314485464943863,True,1.2999999999999998
+2025-10-05,Aston Villa,Burnley,bet365_total_2_5,over_2.5,1.98,0.5519938885042434,True,0.98
+2025-10-05,Brentford,Man City,bet365_total_2_5,under_2.5,2.38,0.48031520315178444,True,1.38
+2025-10-05,Everton,Crystal Palace,bet365_total_2_5,over_2.5,2.2,0.5225568392355248,True,1.2000000000000002
+2025-10-18,Burnley,Leeds,bet365_total_2_5,over_2.5,2.2,0.4888228924083498,False,-1.0
+2025-10-18,Fulham,Arsenal,bet365_total_2_5,over_2.5,1.98,0.5538436112161559,False,-1.0
+2025-10-18,Nott'm Forest,Chelsea,bet365_total_2_5,under_2.5,2.1,0.5099066297236856,False,-1.0
+2025-10-18,Sunderland,Wolves,bet365_total_2_5,over_2.5,2.5,0.4999706856553854,False,-1.0
+2025-10-19,Liverpool,Man United,bet365_total_2_5,under_2.5,2.75,0.400489790527089,False,-1.0
+2025-10-24,Leeds,West Ham,bet365_total_2_5,over_2.5,2.1,0.5024505534122716,True,1.1
+2025-10-25,Brentford,Liverpool,bet365_total_2_5,under_2.5,2.5,0.45836530376392837,False,-1.0
+2025-10-25,Man United,Brighton,bet365_total_2_5,under_2.5,2.5,0.4468709154940501,False,-1.0
+2025-10-26,Aston Villa,Man City,bet365_total_2_5,under_2.5,2.1,0.55127029864719,True,1.1
+2025-10-26,Bournemouth,Nott'm Forest,bet365_total_2_5,over_2.5,1.88,0.5651044109357541,False,-1.0
+2025-11-01,Fulham,Wolves,bet365_total_2_5,over_2.5,2.2,0.5004537784024772,True,1.2000000000000002
+2025-11-01,Liverpool,Aston Villa,bet365_total_2_5,under_2.5,2.5,0.44908207351348295,True,1.5
+2025-11-01,Nott'm Forest,Man United,bet365_total_2_5,under_2.5,2.1,0.5081053009285081,False,-1.0
+2025-11-02,Man City,Bournemouth,bet365_total_2_5,under_2.5,2.5,0.42257152658033936,False,-1.0
+2025-11-03,Sunderland,Everton,bet365_total_2_5,over_2.5,2.3,0.481891729641923,False,-1.0
+2025-11-08,Chelsea,Wolves,bet365_total_2_5,under_2.5,2.3,0.4580453313682874,False,-1.0
+2025-11-08,Everton,Fulham,bet365_total_2_5,over_2.5,2.2,0.5050739875483294,False,-1.0
+2025-11-08,West Ham,Burnley,bet365_total_2_5,over_2.5,2.0,0.5256839380252469,True,1.0
+2025-11-09,Man City,Liverpool,bet365_total_2_5,under_2.5,2.63,0.404380345846062,False,-1.0
+2025-11-22,Burnley,Chelsea,bet365_total_2_5,over_2.5,1.8,0.5968709224897982,False,-1.0
+2025-11-22,Fulham,Sunderland,bet365_total_2_5,over_2.5,2.2,0.4802290215733609,False,-1.0
+2025-11-22,Newcastle,Man City,bet365_total_2_5,under_2.5,2.2,0.49068468452341085,False,-1.0
+2025-11-23,Arsenal,Tottenham,bet365_total_2_5,over_2.5,1.8,0.5996933784274529,True,0.8
+2025-11-29,Sunderland,Bournemouth,bet365_total_2_5,over_2.5,2.0,0.5416162047551037,True,1.0
+2025-11-30,West Ham,Liverpool,bet365_total_2_5,under_2.5,2.5,0.43097333257073367,True,1.5
+2025-12-03,Burnley,Crystal Palace,bet365_total_2_5,over_2.5,2.0,0.53034414160896,False,-1.0
+2025-12-04,Man United,West Ham,bet365_total_2_5,under_2.5,2.5,0.45106446901640884,True,1.5
+2025-12-06,Aston Villa,Arsenal,bet365_total_2_5,over_2.5,2.1,0.5223642120437791,True,1.1
+2025-12-06,Bournemouth,Chelsea,bet365_total_2_5,under_2.5,2.3,0.4926643065406735,True,1.2999999999999998
+2025-12-06,Everton,Nott'm Forest,bet365_total_2_5,over_2.5,2.1,0.5084985593310453,True,1.1
+2025-12-06,Newcastle,Burnley,bet365_total_2_5,under_2.5,2.38,0.4468412093097832,False,-1.0
+2025-12-06,Tottenham,Brentford,bet365_total_2_5,under_2.5,2.03,0.5175501521124954,True,1.0299999999999998
+2025-12-08,Wolves,Man United,bet365_total_2_5,under_2.5,2.2,0.5245416248800356,False,-1.0
+2025-12-13,Arsenal,Wolves,bet365_total_2_5,over_2.5,1.53,0.6979137196347629,True,0.53
+2025-12-13,Burnley,Fulham,bet365_total_2_5,over_2.5,2.1,0.5099878428607146,True,1.1
+2025-12-13,Liverpool,Brighton,bet365_total_2_5,under_2.5,2.5,0.43783156217705077,True,1.5
+2025-12-14,Brentford,Leeds,bet365_total_2_5,over_2.5,1.9,0.6258907741807703,False,-1.0
+2025-12-14,Nott'm Forest,Tottenham,bet365_total_2_5,over_2.5,2.03,0.5356239192859499,True,1.0299999999999998
+2025-12-20,Bournemouth,Burnley,bet365_total_2_5,under_2.5,2.2,0.5031326305454251,True,1.2000000000000002
+2025-12-20,Everton,Arsenal,bet365_total_2_5,over_2.5,2.1,0.5285663169496161,False,-1.0
+2025-12-20,Man City,West Ham,bet365_total_2_5,under_2.5,3.2,0.34085772182200214,False,-1.0
+2025-12-20,Wolves,Brentford,bet365_total_2_5,under_2.5,1.85,0.5807538015414297,True,0.8500000000000001
+2025-12-22,Fulham,Nott'm Forest,bet365_total_2_5,over_2.5,2.05,0.5342204181078717,False,-1.0
+2025-12-27,Chelsea,Aston Villa,bet365_total_2_5,under_2.5,2.2,0.5014560354026267,False,-1.0
+2025-12-27,Liverpool,Wolves,bet365_total_2_5,under_2.5,2.63,0.40595706249474284,False,-1.0
+2025-12-28,Sunderland,Leeds,bet365_total_2_5,over_2.5,2.2,0.5206251148061654,False,-1.0
+2025-12-30,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,2.63,0.4219809698671124,False,-1.0
+2025-12-30,Nott'm Forest,Everton,bet365_total_2_5,over_2.5,2.3,0.47847946249250506,False,-1.0
+2026-01-01,Brentford,Tottenham,bet365_total_2_5,over_2.5,1.93,0.5443482647598376,False,-1.0
+2026-01-01,Crystal Palace,Fulham,bet365_total_2_5,over_2.5,2.1,0.5098521655755398,False,-1.0
+2026-01-01,Sunderland,Man City,bet365_total_2_5,under_2.5,2.3,0.4912544855542962,True,1.2999999999999998
+2026-01-03,Bournemouth,Arsenal,bet365_total_2_5,under_2.5,2.3,0.5258294796885572,False,-1.0
+2026-01-03,Wolves,West Ham,bet365_total_2_5,under_2.5,1.88,0.5760891504400567,False,-1.0
+2026-01-04,Everton,Brentford,bet365_total_2_5,over_2.5,2.2,0.4914843174900929,True,1.2000000000000002
+2026-01-04,Leeds,Man United,bet365_total_2_5,over_2.5,1.83,0.5856864939564346,False,-1.0
+2026-01-07,Bournemouth,Tottenham,bet365_total_2_5,under_2.5,2.1,0.5282452484845197,False,-1.0
+2026-01-07,Brentford,Sunderland,bet365_total_2_5,over_2.5,2.05,0.5182572290668238,True,1.0499999999999998
+2026-01-07,Everton,Wolves,bet365_total_2_5,over_2.5,2.1,0.5162868058451077,False,-1.0
+2026-01-07,Newcastle,Leeds,bet365_total_2_5,over_2.5,1.83,0.577762763842379,True,0.8300000000000001
+2026-01-17,Chelsea,Brentford,bet365_total_2_5,under_2.5,2.3,0.46151881644409454,True,1.2999999999999998
+2026-01-17,Leeds,Fulham,bet365_total_2_5,over_2.5,2.1,0.5185947724552042,False,-1.0
+2026-01-17,Man United,Man City,bet365_total_2_5,under_2.5,2.5,0.47429908648025454,True,1.5
+2026-01-17,Nott'm Forest,Arsenal,bet365_total_2_5,over_2.5,1.91,0.5731897272477592,False,-1.0
+2026-01-18,Aston Villa,Everton,bet365_total_2_5,over_2.5,1.93,0.5534120534778443,False,-1.0
+2026-01-19,Brighton,Bournemouth,bet365_total_2_5,under_2.5,2.63,0.4250841538267114,True,1.63
+2026-01-24,Bournemouth,Liverpool,bet365_total_2_5,under_2.5,2.3,0.4891898737164766,False,-1.0
+2026-01-24,Man City,Wolves,bet365_total_2_5,under_2.5,3.0,0.39754044614460704,True,2.0
+2026-01-26,Everton,Leeds,bet365_total_2_5,over_2.5,2.2,0.5204382904200452,False,-1.0
+2026-01-31,Chelsea,West Ham,bet365_total_2_5,under_2.5,2.5,0.42144669959084535,False,-1.0
+2026-01-31,Liverpool,Newcastle,bet365_total_2_5,under_2.5,2.3,0.490760019745455,False,-1.0
+2026-02-01,Tottenham,Man City,bet365_total_2_5,under_2.5,2.3,0.5008753832567847,False,-1.0
+2026-02-02,Sunderland,Burnley,bet365_total_2_5,over_2.5,2.2,0.5263872669218249,True,1.2000000000000002
+2026-02-07,Arsenal,Sunderland,bet365_total_2_5,over_2.5,1.73,0.6150908679063349,True,0.73
+2026-02-07,Fulham,Everton,bet365_total_2_5,over_2.5,2.2,0.507266499682576,True,1.2000000000000002
+2026-02-07,Man United,Tottenham,bet365_total_2_5,under_2.5,2.75,0.4405497287132293,True,1.75
+2026-02-08,Liverpool,Man City,bet365_total_2_5,under_2.5,2.38,0.4521570020253213,False,-1.0
+2026-02-10,West Ham,Man United,bet365_total_2_5,under_2.5,2.63,0.4344668458894011,True,1.63
+2026-02-11,Crystal Palace,Burnley,bet365_total_2_5,over_2.5,1.98,0.53859036579815,True,0.98
+2026-02-11,Man City,Fulham,bet365_total_2_5,under_2.5,2.5,0.43263061978535156,False,-1.0
+2026-02-21,Aston Villa,Leeds,bet365_total_2_5,over_2.5,1.83,0.5789049743871615,False,-1.0
+2026-02-21,Man City,Newcastle,bet365_total_2_5,under_2.5,2.75,0.42484288666159264,False,-1.0
+2026-02-28,Liverpool,West Ham,bet365_total_2_5,under_2.5,2.75,0.4494223215540992,False,-1.0
+2026-03-01,Arsenal,Chelsea,bet365_total_2_5,over_2.5,1.73,0.624434962117645,True,0.73
+2026-03-01,Brighton,Nott'm Forest,bet365_total_2_5,under_2.5,2.03,0.5237974709840785,False,-1.0
+2026-03-03,Bournemouth,Brentford,bet365_total_2_5,under_2.5,2.3,0.47987836265523554,True,1.2999999999999998
+2026-03-03,Everton,Burnley,bet365_total_2_5,over_2.5,1.98,0.5799424583982765,False,-1.0
+2026-03-04,Man City,Nott'm Forest,bet365_total_2_5,under_2.5,2.38,0.4807932265672763,False,-1.0
+2026-03-04,Newcastle,Man United,bet365_total_2_5,under_2.5,2.38,0.4426023327056149,False,-1.0
+2026-03-05,Tottenham,Crystal Palace,bet365_total_2_5,under_2.5,2.0,0.5252569031885659,False,-1.0
+2026-03-14,Arsenal,Everton,bet365_total_2_5,over_2.5,1.98,0.5545994888691527,False,-1.0
+2026-03-14,Sunderland,Brighton,bet365_total_2_5,over_2.5,2.1,0.5027640413279096,False,-1.0
+2026-03-15,Crystal Palace,Leeds,bet365_total_2_5,over_2.5,2.1,0.517368939287653,False,-1.0
+2026-03-20,Bournemouth,Man United,bet365_total_2_5,under_2.5,2.38,0.47693873901459094,False,-1.0
+2026-03-22,Tottenham,Nott'm Forest,bet365_total_2_5,under_2.5,1.93,0.5565410070367389,False,-1.0
+2026-04-12,Sunderland,Tottenham,bet365_total_2_5,over_2.5,2.0,0.5396564495035768,False,-1.0
+2026-04-18,Brentford,Fulham,bet365_total_2_5,under_2.5,2.1,0.518418801742494,True,1.1
+2026-04-18,Newcastle,Bournemouth,bet365_total_2_5,under_2.5,2.63,0.4019447055919356,False,-1.0
+2026-04-18,Tottenham,Brighton,bet365_total_2_5,under_2.5,2.2,0.5277890593269887,False,-1.0
+2026-04-19,Aston Villa,Sunderland,bet365_total_2_5,over_2.5,1.98,0.5549525754545787,True,0.98
+2026-04-19,Everton,Liverpool,bet365_total_2_5,over_2.5,1.9,0.5542068659861118,True,0.8999999999999999
+2026-04-19,Man City,Arsenal,bet365_total_2_5,over_2.5,2.0,0.5629935936151781,True,1.0
+2026-04-19,Nott'm Forest,Burnley,bet365_total_2_5,under_2.5,2.1,0.5044628206514523,False,-1.0
+2026-04-22,Burnley,Man City,bet365_total_2_5,under_2.5,3.4,0.35916605674056923,True,2.4
+2026-04-24,Sunderland,Nott'm Forest,bet365_total_2_5,over_2.5,2.2,0.4976934161932583,True,1.2000000000000002
+2026-04-25,Liverpool,Crystal Palace,bet365_total_2_5,under_2.5,2.38,0.4437955083333579,False,-1.0
+2026-04-27,Man United,Brentford,bet365_total_2_5,under_2.5,2.38,0.4563094423571724,False,-1.0
+2026-05-01,Leeds,Burnley,bet365_total_2_5,under_2.5,2.2,0.5295028973139122,False,-1.0
+2026-05-02,Brentford,West Ham,bet365_total_2_5,under_2.5,2.3,0.5353081158588071,False,-1.0
+2026-05-02,Wolves,Sunderland,bet365_total_2_5,over_2.5,2.1,0.5174128625536417,False,-1.0
+2026-05-03,Bournemouth,Crystal Palace,bet365_total_2_5,under_2.5,2.2,0.5069019588755099,False,-1.0
+2026-05-03,Man United,Liverpool,bet365_total_2_5,under_2.5,2.63,0.4089462745584591,False,-1.0
+2026-05-09,Brighton,Wolves,bet365_total_2_5,under_2.5,2.5,0.43015332659515326,False,-1.0
+2026-05-09,Fulham,Bournemouth,bet365_total_2_5,under_2.5,2.38,0.47410258891341883,True,1.38
+2026-05-09,Liverpool,Chelsea,bet365_total_2_5,under_2.5,2.75,0.4094614279425425,True,1.75
+2026-05-09,Man City,Brentford,bet365_total_2_5,under_2.5,3.2,0.40679761430609895,False,-1.0
+2026-05-10,Crystal Palace,Everton,bet365_total_2_5,over_2.5,2.03,0.5225139224255326,True,1.0299999999999998
+2026-05-17,Brentford,Crystal Palace,bet365_total_2_5,under_2.5,2.2,0.5038337979106355,False,-1.0
+2026-05-17,Leeds,Brighton,bet365_total_2_5,under_2.5,2.2,0.5193774738332879,True,1.2000000000000002
+2026-05-17,Newcastle,West Ham,bet365_total_2_5,under_2.5,2.63,0.47335359514505004,False,-1.0
+2026-05-17,Wolves,Fulham,bet365_total_2_5,under_2.5,2.1,0.5431859113992332,True,1.1
+2026-05-18,Arsenal,Burnley,bet365_total_2_5,under_2.5,3.4,0.35300141150648545,True,2.4
+2026-05-19,Bournemouth,Man City,bet365_total_2_5,under_2.5,2.75,0.46554444789931404,True,1.75
+2026-05-24,Brighton,Man United,bet365_total_2_5,under_2.5,2.63,0.4318908009332013,False,-1.0
+2026-05-24,Burnley,Wolves,bet365_total_2_5,under_2.5,2.1,0.5593440873813078,True,1.1
+2026-05-24,Crystal Palace,Arsenal,bet365_total_2_5,under_2.5,2.2,0.4927986723831622,False,-1.0
+2026-05-24,Fulham,Newcastle,bet365_total_2_5,under_2.5,2.3,0.509507645041176,True,1.2999999999999998
+2026-05-24,Liverpool,Brentford,bet365_total_2_5,under_2.5,2.63,0.44841026199840683,True,1.63
+2026-05-24,Man City,Aston Villa,bet365_total_2_5,under_2.5,3.5,0.3747781974769956,False,-1.0
+2026-05-24,Nott'm Forest,Bournemouth,bet365_total_2_5,under_2.5,2.38,0.4419030390082068,True,1.38
+2026-05-24,West Ham,Leeds,bet365_total_2_5,under_2.5,2.2,0.48880436009350337,False,-1.0
+2026-08-22,Hull,Man United,bet365_total_2_5,under_2.5,2.2,0.5308573663119402,True,1.2000000000000002
+2026-08-22,Ipswich,Sunderland,bet365_total_2_5,under_2.5,1.88,0.5598417567799154,False,-1.0
+2026-08-23,Man City,Bournemouth,bet365_total_2_5,under_2.5,2.75,0.46668148334793214,False,-1.0
+2026-08-23,Newcastle,Liverpool,bet365_total_2_5,under_2.5,2.63,0.47088891988069437,False,-1.0
+2026-08-24,Fulham,Chelsea,bet365_total_2_5,under_2.5,2.2,0.5286759278282052,False,-1.0
+2026-08-29,Coventry,Hull,bet365_total_2_5,under_2.5,1.91,0.6096788170511798,True,0.9099999999999999
+2026-08-29,Liverpool,Nott'm Forest,bet365_total_2_5,under_2.5,2.3,0.5095635126348277,False,-1.0
+2026-08-29,Tottenham,Newcastle,bet365_total_2_5,under_2.5,2.3,0.4643403727534582,True,1.2999999999999998
+2026-08-30,Chelsea,Brighton,bet365_total_2_5,under_2.5,2.3,0.5122500387233357,False,-1.0
+2026-09-04,Ipswich,Liverpool,bet365_total_2_5,under_2.5,3.0,0.4370208502027805,True,2.0
+2026-09-05,Hull,Aston Villa,bet365_total_2_5,under_2.5,1.98,0.5622345786493528,True,0.98
+2026-09-05,Man City,Coventry,bet365_total_2_5,under_2.5,3.2,0.35262715868721717,True,2.2
+2026-09-05,Newcastle,Bournemouth,bet365_total_2_5,under_2.5,2.38,0.49016055520734525,False,-1.0
+2026-09-06,Arsenal,Chelsea,bet365_total_2_5,over_2.5,1.73,0.6439753895563981,True,0.73
+2026-09-12,Bournemouth,Brentford,bet365_total_2_5,under_2.5,2.3,0.4594938785390633,False,-1.0
+2026-09-12,Chelsea,Hull,bet365_total_2_5,under_2.5,3.0,0.5412758905139354,False,-1.0
+2026-09-12,Crystal Palace,Ipswich,bet365_total_2_5,over_2.5,1.8,0.5845507098961009,True,0.8
+2026-09-12,Liverpool,Fulham,bet365_total_2_5,under_2.5,2.75,0.4797834127616353,True,1.75
+2026-09-13,Coventry,Brighton,bet365_total_2_5,under_2.5,2.1,0.5024660389204141,False,-1.0
+2026-09-13,Man United,Man City,bet365_total_2_5,under_2.5,2.5,0.43192241351487337,True,1.5
+2026-09-18,Brentford,Chelsea,bet365_total_2_5,under_2.5,2.63,0.4848920980994781,False,-1.0
+2026-09-19,Brighton,Arsenal,bet365_total_2_5,under_2.5,2.1,0.5094396401726808,False,-1.0
+2026-09-19,Newcastle,Hull,bet365_total_2_5,under_2.5,2.3,0.4977523412688952,False,-1.0
+2026-09-19,Nott'm Forest,Coventry,bet365_total_2_5,under_2.5,2.0,0.553878707945876,True,1.0
+2026-09-19,Tottenham,Aston Villa,bet365_total_2_5,under_2.5,2.03,0.5451232801623132,False,-1.0
+2026-09-20,Bournemouth,Liverpool,bet365_total_2_5,under_2.5,2.63,0.4375572029930962,True,1.63
+2026-09-20,Fulham,Man United,bet365_total_2_5,under_2.5,2.38,0.5038157096708695,True,1.38
+2026-09-20,Leeds,Crystal Palace,bet365_total_2_5,under_2.5,2.1,0.5129888027363494,True,1.1
+2026-10-10,Arsenal,Leeds,bet365_total_2_5,over_2.5,1.85,0.6048825358225898,True,0.8500000000000001
+2026-10-10,Chelsea,Bournemouth,bet365_total_2_5,under_2.5,2.63,0.4250909883368106,False,-1.0
+2026-10-10,Man United,Tottenham,bet365_total_2_5,under_2.5,2.5,0.43330978942618736,True,1.5
+2026-10-11,Crystal Palace,Nott'm Forest,bet365_total_2_5,over_2.5,1.91,0.5636499033277559,True,0.9099999999999999
+2026-10-11,Liverpool,Man City,bet365_total_2_5,under_2.5,2.38,0.49512208546086256,False,-1.0
+2026-10-17,Brentford,Liverpool,bet365_total_2_5,under_2.5,2.38,0.4796298180541585,False,-1.0
+2026-10-17,Man City,Ipswich,bet365_total_2_5,under_2.5,3.0,0.35269054289862145,False,-1.0
+2026-10-18,Brighton,Crystal Palace,bet365_total_2_5,under_2.5,2.38,0.45353371931952224,False,-1.0
+2026-10-19,Tottenham,Coventry,bet365_total_2_5,under_2.5,2.38,0.5657934687848611,False,-1.0
+2026-10-24,Aston Villa,Man City,bet365_total_2_5,under_2.5,2.5,0.4874652172330388,False,-1.0
+2026-10-24,Chelsea,Tottenham,bet365_total_2_5,under_2.5,2.5,0.4495150368996085,True,1.5
+2026-10-24,Coventry,Fulham,bet365_total_2_5,under_2.5,2.1,0.5033988750786009,True,1.1
+2026-10-25,Crystal Palace,Newcastle,bet365_total_2_5,under_2.5,2.38,0.44840240183881075,True,1.38
+2026-10-25,Hull,Brentford,bet365_total_2_5,under_2.5,2.2,0.48917905548512275,True,1.2000000000000002
+2026-10-25,Liverpool,Brighton,bet365_total_2_5,under_2.5,2.5,0.47067532268234846,True,1.5
+2026-10-25,Sunderland,Leeds,bet365_total_2_5,over_2.5,2.1,0.5444744297864579,False,-1.0
+2026-10-31,Aston Villa,Fulham,bet365_total_2_5,under_2.5,2.2,0.49896659274277066,True,1.2000000000000002
+2026-10-31,Man City,Brighton,bet365_total_2_5,under_2.5,3.0,0.4149563863355875,True,2.0
+2026-10-31,Tottenham,Crystal Palace,bet365_total_2_5,under_2.5,2.38,0.509210096453699,True,1.38
+2026-11-07,Fulham,Newcastle,bet365_total_2_5,under_2.5,2.2,0.5007473231394366,True,1.2000000000000002
+2026-11-07,Nott'm Forest,Man City,bet365_total_2_5,under_2.5,2.3,0.5000674795028617,False,-1.0

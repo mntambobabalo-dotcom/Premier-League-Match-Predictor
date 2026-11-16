@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+inputs/
+predictions/
+private-data/
+.env
+.env.*
+!.env.example
+*.log
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Superseded local experiment; reviewed results live in market_trials_v2.
+artifacts/market_trials/

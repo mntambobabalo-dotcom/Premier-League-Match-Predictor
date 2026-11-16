@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# Preserve exact bytes for model/source fingerprints and reviewed reports.
+artifacts/** -text whitespace=cr-at-eol

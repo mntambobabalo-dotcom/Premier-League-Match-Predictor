@@ -1,0 +1,198 @@
+{
+  "home": "Man City",
+  "away": "Fulham",
+  "date": "2026-11-21",
+  "demo": false,
+  "created_utc": "2026-11-15T23:52:06.857181+00:00",
+  "history_through": "2026-11-08",
+  "result_focus": "1X",
+  "expected_home_goals": 1.9394827715949565,
+  "expected_away_goals": 1.0455304151540907,
+  "expected_total_goals": 2.9850131867490473,
+  "expected_yellows": 3.7083610885103653,
+  "top_scores": [
+    {
+      "score": "1-1",
+      "probability": 0.10248205889995074
+    },
+    {
+      "score": "2-1",
+      "probability": 0.09938109381701705
+    },
+    {
+      "score": "1-0",
+      "probability": 0.0980192038553435
+    },
+    {
+      "score": "2-0",
+      "probability": 0.09505327858144635
+    },
+    {
+      "score": "3-1",
+      "probability": 0.06424930642678886
+    }
+  ],
+  "head_to_head": {
+    "meetings": 12,
+    "home_team_wins": 12,
+    "draws": 0,
+    "away_team_wins": 0,
+    "mean_total_goals": 3.75
+  },
+  "last_five_meetings": [
+    {
+      "date": "2024-05-11",
+      "home": "Fulham",
+      "away": "Man City",
+      "hg": 0,
+      "ag": 4,
+      "archived_bet365_1x2": [
+        13.0,
+        7.0,
+        1.2
+      ]
+    },
+    {
+      "date": "2024-10-05",
+      "home": "Man City",
+      "away": "Fulham",
+      "hg": 3,
+      "ag": 2,
+      "archived_bet365_1x2": [
+        1.25,
+        7.0,
+        9.5
+      ]
+    },
+    {
+      "date": "2025-05-25",
+      "home": "Fulham",
+      "away": "Man City",
+      "hg": 0,
+      "ag": 2,
+      "archived_bet365_1x2": [
+        5.0,
+        4.2,
+        1.6
+      ]
+    },
+    {
+      "date": "2025-12-02",
+      "home": "Fulham",
+      "away": "Man City",
+      "hg": 4,
+      "ag": 5,
+      "archived_bet365_1x2": [
+        4.33,
+        4.1,
+        1.73
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "home": "Man City",
+      "away": "Fulham",
+      "hg": 3,
+      "ag": 0,
+      "archived_bet365_1x2": [
+        1.36,
+        5.5,
+        7.0
+      ]
+    }
+  ],
+  "probabilities": {
+    "home": 0.5818562698324397,
+    "draw": 0.21829030656403192,
+    "away": 0.19985342360352837,
+    "1X": 0.8001465763964716,
+    "X2": 0.4181437301675603,
+    "12": 0.781709693435968,
+    "over_1.5": 0.7986020677064505,
+    "under_1.5": 0.20139793229354952,
+    "over_2.5": 0.5734438734622173,
+    "under_2.5": 0.42655612653778274,
+    "over_3.5": 0.34941048048767104,
+    "under_3.5": 0.650589519512329,
+    "btts_yes": 0.5552552141625207,
+    "btts_no": 0.44474478583747934,
+    "yellow_over_2.5": 0.7159791383551448,
+    "yellow_under_2.5": 0.2840208616448552,
+    "yellow_over_3.5": 0.5075904993758741,
+    "yellow_under_3.5": 0.4924095006241259,
+    "yellow_over_4.5": 0.31439541935628385,
+    "yellow_under_4.5": 0.6856045806437161,
+    "yellow_over_5.5": 0.17110799590902473,
+    "yellow_under_5.5": 0.8288920040909753,
+    "red_any": 0.08648125034609096,
+    "red_none": 0.913518749653909
+  },
+  "price_checks": {
+    "under_3.5": {
+      "probability": 0.650589519512329,
+      "entered_odds": 1.6,
+      "fair_odds": 1.5370674903425792,
+      "break_even_probability": 0.625,
+      "estimated_return_per_unit": 0.04094323121972643,
+      "passes_paper_filter": false
+    },
+    "btts_yes": {
+      "probability": 0.5552552141625207,
+      "entered_odds": 1.72,
+      "fair_odds": 1.800973632473273,
+      "break_even_probability": 0.5813953488372093,
+      "estimated_return_per_unit": -0.0449610316404645,
+      "passes_paper_filter": false
+    },
+    "1X": {
+      "probability": 0.8001465763964716,
+      "entered_odds": 1.09,
+      "fair_odds": 1.2497710163350138,
+      "break_even_probability": 0.9174311926605504,
+      "estimated_return_per_unit": -0.12784023172784587,
+      "passes_paper_filter": false
+    }
+  },
+  "paper_status": "no_selection_passes_fixed_price_filter",
+  "verified_fixture_source": "https://www.fulhamfc.com/news/2026/october/13/man-city-away-tickets/",
+  "model_sha256": "06aa1171425ae937eceebd90573ff56f685f870934ed78d456947e0977d457cc",
+  "requested_markets": {
+    "under_3.5": {
+      "probability": 0.650589519512329,
+      "decimal_odds": 1.6
+    },
+    "btts_yes": {
+      "probability": 0.5552552141625207,
+      "decimal_odds": 1.72
+    },
+    "1X": {
+      "probability": 0.8001465763964716,
+      "decimal_odds": 1.09
+    }
+  },
+  "same_game_joint": {
+    "selections": [
+      "under_3.5",
+      "btts_yes",
+      "1X"
+    ],
+    "qualifying_scores": [
+      {
+        "score": "1-1",
+        "probability": 0.10248205889995074
+      },
+      {
+        "score": "2-1",
+        "probability": 0.09938109381701705
+      }
+    ],
+    "probability": 0.2018631527169678,
+    "decimal_odds": null
+  },
+  "quote_metadata": {
+    "quotes_recorded_utc": "2026-11-16T00:03:09.232552+00:00",
+    "quote_source": "User-reported Betway decimal prices in chat",
+    "provider_quote_observed_at": null,
+    "independently_verified_quote": false
+  }
+}

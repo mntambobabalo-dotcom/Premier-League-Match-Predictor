@@ -1,0 +1,1018 @@
+{
+  "source_matches": 4280,
+  "from": "2015-08-08",
+  "through": "2026-11-08",
+  "all_walk_forward": {
+    "matches": 3520,
+    "exact_score_top_pick_accuracy": 0.1184659090909091,
+    "scoreline_log_loss": 2.945171616181946,
+    "total_goals_mae": 1.305906808352147,
+    "yellow_cards_mae": 1.597989043439587,
+    "event_metrics": {
+      "home": {
+        "matches": 3520,
+        "actual_rate": 0.440625,
+        "mean_probability": 0.4476505213956364,
+        "brier": 0.21281770392732352
+      },
+      "draw": {
+        "matches": 3520,
+        "actual_rate": 0.2346590909090909,
+        "mean_probability": 0.2285570192964021,
+        "brier": 0.17797304173200526
+      },
+      "away": {
+        "matches": 3520,
+        "actual_rate": 0.3247159090909091,
+        "mean_probability": 0.3237924593079616,
+        "brier": 0.19021904532401165
+      },
+      "1X": {
+        "matches": 3520,
+        "actual_rate": 0.6752840909090909,
+        "mean_probability": 0.6762075406920385,
+        "brier": 0.19021904532401163
+      },
+      "X2": {
+        "matches": 3520,
+        "actual_rate": 0.559375,
+        "mean_probability": 0.5523494786043637,
+        "brier": 0.21281770392732352
+      },
+      "12": {
+        "matches": 3520,
+        "actual_rate": 0.7653409090909091,
+        "mean_probability": 0.771442980703598,
+        "brier": 0.17797304173200526
+      },
+      "over_2.5": {
+        "matches": 3520,
+        "actual_rate": 0.5420454545454545,
+        "mean_probability": 0.5348313582634547,
+        "brier": 0.24442316302914105
+      },
+      "under_2.5": {
+        "matches": 3520,
+        "actual_rate": 0.45795454545454545,
+        "mean_probability": 0.46516864173654526,
+        "brier": 0.24442316302914105
+      },
+      "btts": {
+        "matches": 3520,
+        "actual_rate": 0.5286931818181818,
+        "mean_probability": 0.5230372923509236,
+        "brier": 0.24678413415410874
+      },
+      "yellow_over_3.5": {
+        "matches": 3520,
+        "actual_rate": 0.47102272727272726,
+        "mean_probability": 0.4422344149411808,
+        "brier": 0.24950025106840593,
+        "historical_rate_baseline_brier": 0.2488402415086739
+      },
+      "red_any": {
+        "matches": 3520,
+        "actual_rate": 0.10909090909090909,
+        "mean_probability": 0.10740163626999841,
+        "brier": 0.100489995770858,
+        "historical_rate_baseline_brier": 0.0973556789022298
+      },
+      "top_1x2": 0.5332386363636363,
+      "top_draw_cover": 0.7678977272727273
+    }
+  },
+  "latest_season": {
+    "matches": 100,
+    "exact_score_top_pick_accuracy": 0.11,
+    "scoreline_log_loss": 2.9661281070529175,
+    "total_goals_mae": 1.4007036008987057,
+    "yellow_cards_mae": 1.6875144235023631,
+    "event_metrics": {
+      "home": {
+        "matches": 100,
+        "actual_rate": 0.42,
+        "mean_probability": 0.43739618486486864,
+        "brier": 0.22604465289643966
+      },
+      "draw": {
+        "matches": 100,
+        "actual_rate": 0.27,
+        "mean_probability": 0.24069612184016356,
+        "brier": 0.19470648106470892
+      },
+      "away": {
+        "matches": 100,
+        "actual_rate": 0.31,
+        "mean_probability": 0.3219076932949678,
+        "brier": 0.19681052811404565
+      },
+      "1X": {
+        "matches": 100,
+        "actual_rate": 0.69,
+        "mean_probability": 0.6780923067050321,
+        "brier": 0.19681052811404565
+      },
+      "X2": {
+        "matches": 100,
+        "actual_rate": 0.58,
+        "mean_probability": 0.5626038151351314,
+        "brier": 0.22604465289643966
+      },
+      "12": {
+        "matches": 100,
+        "actual_rate": 0.73,
+        "mean_probability": 0.7593038781598365,
+        "brier": 0.19470648106470892
+      },
+      "over_2.5": {
+        "matches": 100,
+        "actual_rate": 0.47,
+        "mean_probability": 0.5282337300719749,
+        "brier": 0.25165255933072705
+      },
+      "under_2.5": {
+        "matches": 100,
+        "actual_rate": 0.53,
+        "mean_probability": 0.47176626992802506,
+        "brier": 0.25165255933072705
+      },
+      "btts": {
+        "matches": 100,
+        "actual_rate": 0.49,
+        "mean_probability": 0.54080746045184,
+        "brier": 0.2543045517342448
+      },
+      "yellow_over_3.5": {
+        "matches": 100,
+        "actual_rate": 0.58,
+        "mean_probability": 0.5008457741385043,
+        "brier": 0.2561006358093809,
+        "historical_rate_baseline_brier": 0.2506829241497327
+      },
+      "red_any": {
+        "matches": 100,
+        "actual_rate": 0.18,
+        "mean_probability": 0.11985441319971718,
+        "brier": 0.1549307908068728,
+        "historical_rate_baseline_brier": 0.15289121210590761
+      },
+      "top_1x2": 0.42,
+      "top_draw_cover": 0.69
+    }
+  },
+  "season_metrics": {
+    "2017/18": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.1368421052631579,
+      "scoreline_log_loss": 2.8784485979752175,
+      "total_goals_mae": 1.3427348984147607,
+      "yellow_cards_mae": 1.6693395395311665,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.45526315789473687,
+          "mean_probability": 0.4463283138497091,
+          "brier": 0.2132938846257003
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.26052631578947366,
+          "mean_probability": 0.21719929961493603,
+          "brier": 0.1920234075789819
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.28421052631578947,
+          "mean_probability": 0.3364723865353549,
+          "brier": 0.17066089613447608
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.7157894736842105,
+          "mean_probability": 0.6635276134646452,
+          "brier": 0.17066089613447608
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5447368421052632,
+          "mean_probability": 0.5536716861502908,
+          "brier": 0.2132938846257003
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7394736842105263,
+          "mean_probability": 0.7828007003850639,
+          "brier": 0.1920234075789819
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5105263157894737,
+          "mean_probability": 0.5460041545138303,
+          "brier": 0.24674993941143192
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.48947368421052634,
+          "mean_probability": 0.45399584548616967,
+          "brier": 0.24674993941143192
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.48947368421052634,
+          "mean_probability": 0.511004029567805,
+          "brier": 0.24429309426000212
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.39473684210526316,
+          "mean_probability": 0.46475489647518364,
+          "brier": 0.24711967206955135,
+          "historical_rate_baseline_brier": 0.24080931848742546
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.09210526315789473,
+          "mean_probability": 0.1085321010485229,
+          "brier": 0.09376029588116849,
+          "historical_rate_baseline_brier": 0.084541739877708
+        },
+        "top_1x2": 0.5473684210526316,
+        "top_draw_cover": 0.8078947368421052
+      }
+    },
+    "2018/19": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.09473684210526316,
+      "scoreline_log_loss": 2.903883246742086,
+      "total_goals_mae": 1.26670324923038,
+      "yellow_cards_mae": 1.503557879760536,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.4763157894736842,
+          "mean_probability": 0.47189827590571193,
+          "brier": 0.20705799951075574
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.1868421052631579,
+          "mean_probability": 0.22852254367397798,
+          "brier": 0.15274251601858108
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.3368421052631579,
+          "mean_probability": 0.29957918042031007,
+          "brier": 0.18363956696474495
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.6631578947368421,
+          "mean_probability": 0.7004208195796898,
+          "brier": 0.18363956696474495
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5236842105263158,
+          "mean_probability": 0.528101724094288,
+          "brier": 0.20705799951075574
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.8131578947368421,
+          "mean_probability": 0.771477456326022,
+          "brier": 0.15274251601858108
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5368421052631579,
+          "mean_probability": 0.51944353630265,
+          "brier": 0.2458191939660104
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.4631578947368421,
+          "mean_probability": 0.48055646369734994,
+          "brier": 0.2458191939660104
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5131578947368421,
+          "mean_probability": 0.5041011694717692,
+          "brier": 0.24814305707838671
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.3894736842105263,
+          "mean_probability": 0.40865427548597455,
+          "brier": 0.2458884974608293,
+          "historical_rate_baseline_brier": 0.23809618116429873
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.11578947368421053,
+          "mean_probability": 0.09336634568671114,
+          "brier": 0.10684348569940834,
+          "historical_rate_baseline_brier": 0.102421592101264
+        },
+        "top_1x2": 0.5736842105263158,
+        "top_draw_cover": 0.7605263157894737
+      }
+    },
+    "2019/20": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.12368421052631579,
+      "scoreline_log_loss": 2.8623080809405326,
+      "total_goals_mae": 1.1531607149601621,
+      "yellow_cards_mae": 1.5731337956495497,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.45263157894736844,
+          "mean_probability": 0.45474054801776925,
+          "brier": 0.22092731029701546
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.24210526315789474,
+          "mean_probability": 0.22886655448645718,
+          "brier": 0.1790084027862479
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.30526315789473685,
+          "mean_probability": 0.31639289749577354,
+          "brier": 0.18445813718439308
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.6947368421052632,
+          "mean_probability": 0.6836071025042264,
+          "brier": 0.18445813718439308
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5473684210526316,
+          "mean_probability": 0.5452594519822307,
+          "brier": 0.22092731029701546
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7578947368421053,
+          "mean_probability": 0.7711334455135428,
+          "brier": 0.1790084027862479
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5210526315789473,
+          "mean_probability": 0.5295075024060677,
+          "brier": 0.23748348129665633
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.4789473684210526,
+          "mean_probability": 0.47049249759393236,
+          "brier": 0.23748348129665633
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5105263157894737,
+          "mean_probability": 0.5160835363977289,
+          "brier": 0.2465926863623141
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.42894736842105263,
+          "mean_probability": 0.4250188585567669,
+          "brier": 0.2512559845211657,
+          "historical_rate_baseline_brier": 0.24555558457251772
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.11315789473684211,
+          "mean_probability": 0.11091210464971073,
+          "brier": 0.10128670529946586,
+          "historical_rate_baseline_brier": 0.10035716320172773
+        },
+        "top_1x2": 0.5210526315789473,
+        "top_draw_cover": 0.7631578947368421
+      }
+    },
+    "2020/21": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.13157894736842105,
+      "scoreline_log_loss": 2.9955113974453913,
+      "total_goals_mae": 1.3676593749804737,
+      "yellow_cards_mae": 1.3642892350239586,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.37894736842105264,
+          "mean_probability": 0.4500500539808113,
+          "brier": 0.21188013275718254
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.21842105263157896,
+          "mean_probability": 0.24004438635360864,
+          "brier": 0.1702222180606762
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.4026315789473684,
+          "mean_probability": 0.30990555966558003,
+          "brier": 0.23196679479285354
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.5973684210526315,
+          "mean_probability": 0.6900944403344199,
+          "brier": 0.23196679479285356
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.6210526315789474,
+          "mean_probability": 0.5499499460191887,
+          "brier": 0.21188013275718254
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.781578947368421,
+          "mean_probability": 0.7599556136463913,
+          "brier": 0.1702222180606762
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5,
+          "mean_probability": 0.49511575369173183,
+          "brier": 0.24786185832271643
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5,
+          "mean_probability": 0.5048842463082681,
+          "brier": 0.24786185832271643
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.48947368421052634,
+          "mean_probability": 0.4978701544496198,
+          "brier": 0.2460878242485196
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.3236842105263158,
+          "mean_probability": 0.41068165589151134,
+          "brier": 0.22439235203877694,
+          "historical_rate_baseline_brier": 0.2266451187609682
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.11052631578947368,
+          "mean_probability": 0.10310379064238828,
+          "brier": 0.10138263257072092,
+          "historical_rate_baseline_brier": 0.09831108803839513
+        },
+        "top_1x2": 0.49736842105263157,
+        "top_draw_cover": 0.7157894736842105
+      }
+    },
+    "2021/22": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.13421052631578947,
+      "scoreline_log_loss": 2.936610723707738,
+      "total_goals_mae": 1.3141374389890195,
+      "yellow_cards_mae": 1.6074675779425416,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.42894736842105263,
+          "mean_probability": 0.4337286731578805,
+          "brier": 0.2084981419473327
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.23157894736842105,
+          "mean_probability": 0.22982007296635787,
+          "brier": 0.17480853951165853
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.3394736842105263,
+          "mean_probability": 0.33645125387576164,
+          "brier": 0.18934131442699476
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.6605263157894737,
+          "mean_probability": 0.6635487461242384,
+          "brier": 0.18934131442699476
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5710526315789474,
+          "mean_probability": 0.5662713268421194,
+          "brier": 0.2084981419473327
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7684210526315789,
+          "mean_probability": 0.7701799270336422,
+          "brier": 0.17480853951165853
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5394736842105263,
+          "mean_probability": 0.5281074449294275,
+          "brier": 0.24680436390038774
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.4605263157894737,
+          "mean_probability": 0.4718925550705725,
+          "brier": 0.24680436390038774
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5,
+          "mean_probability": 0.5171418073830185,
+          "brier": 0.24956875339544202
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.45,
+          "mean_probability": 0.3966069384084766,
+          "brier": 0.2540756806452871,
+          "historical_rate_baseline_brier": 0.2514631202302405
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.11052631578947368,
+          "mean_probability": 0.10703927909885348,
+          "brier": 0.10334249820035676,
+          "historical_rate_baseline_brier": 0.09831056739709373
+        },
+        "top_1x2": 0.5473684210526316,
+        "top_draw_cover": 0.7789473684210526
+      }
+    },
+    "2022/23": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.10526315789473684,
+      "scoreline_log_loss": 2.992979571493999,
+      "total_goals_mae": 1.3902581010308195,
+      "yellow_cards_mae": 1.5659209603453457,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.4842105263157895,
+          "mean_probability": 0.43718330880088685,
+          "brier": 0.2207565048531683
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.22894736842105262,
+          "mean_probability": 0.2304438002010672,
+          "brier": 0.17735401629864087
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.2868421052631579,
+          "mean_probability": 0.3323728909980459,
+          "brier": 0.18743683095896055
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.7131578947368421,
+          "mean_probability": 0.6676271090019542,
+          "brier": 0.18743683095896055
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5157894736842106,
+          "mean_probability": 0.5628166911991132,
+          "brier": 0.2207565048531683
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7710526315789473,
+          "mean_probability": 0.7695561997989329,
+          "brier": 0.17735401629864087
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5263157894736842,
+          "mean_probability": 0.5290476424804466,
+          "brier": 0.2409980332883543
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.47368421052631576,
+          "mean_probability": 0.47095235751955344,
+          "brier": 0.2409980332883543
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5157894736842106,
+          "mean_probability": 0.5201757297958619,
+          "brier": 0.2501983603913764
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.46842105263157896,
+          "mean_probability": 0.4158092412166948,
+          "brier": 0.25521488510228635,
+          "historical_rate_baseline_brier": 0.2536351694444846
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.06842105263157895,
+          "mean_probability": 0.10867431822913076,
+          "brier": 0.06572874275506489,
+          "historical_rate_baseline_brier": 0.0655387929846963
+        },
+        "top_1x2": 0.5342105263157895,
+        "top_draw_cover": 0.7631578947368421
+      }
+    },
+    "2023/24": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.11052631578947368,
+      "scoreline_log_loss": 3.0824665069852237,
+      "total_goals_mae": 1.360097572578761,
+      "yellow_cards_mae": 1.7411953783718437,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.4605263157894737,
+          "mean_probability": 0.45172826279268763,
+          "brier": 0.1996095625538363
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.21578947368421053,
+          "mean_probability": 0.22081638803649614,
+          "brier": 0.16661903385315974
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.3236842105263158,
+          "mean_probability": 0.3274553491708162,
+          "brier": 0.1763544666668249
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.6763157894736842,
+          "mean_probability": 0.6725446508291837,
+          "brier": 0.1763544666668249
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5394736842105263,
+          "mean_probability": 0.5482717372073124,
+          "brier": 0.1996095625538363
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7842105263157895,
+          "mean_probability": 0.7791836119635039,
+          "brier": 0.16661903385315974
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.6473684210526316,
+          "mean_probability": 0.5613040210733302,
+          "brier": 0.23897302129295545
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.3526315789473684,
+          "mean_probability": 0.43869597892666984,
+          "brier": 0.23897302129295545
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.6157894736842106,
+          "mean_probability": 0.5399436213415137,
+          "brier": 0.24294194332177185
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.6105263157894737,
+          "mean_probability": 0.46313354027012305,
+          "brier": 0.2632832361307243,
+          "historical_rate_baseline_brier": 0.2738659664058451
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.1394736842105263,
+          "mean_probability": 0.10413819395358576,
+          "brier": 0.12583675197837615,
+          "historical_rate_baseline_brier": 0.12155627781060867
+        },
+        "top_1x2": 0.5947368421052631,
+        "top_draw_cover": 0.8105263157894737
+      }
+    },
+    "2024/25": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.11578947368421053,
+      "scoreline_log_loss": 2.964716004293359,
+      "total_goals_mae": 1.290840599269133,
+      "yellow_cards_mae": 1.7424216300624518,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.40789473684210525,
+          "mean_probability": 0.4519910154921061,
+          "brier": 0.20993426938953477
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.24473684210526317,
+          "mean_probability": 0.22110555903942702,
+          "brier": 0.18492829197615088
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.3473684210526316,
+          "mean_probability": 0.32690342546846696,
+          "brier": 0.19150649257703614
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.6526315789473685,
+          "mean_probability": 0.673096574531533,
+          "brier": 0.19150649257703617
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5921052631578947,
+          "mean_probability": 0.5480089845078939,
+          "brier": 0.20993426938953477
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7552631578947369,
+          "mean_probability": 0.7788944409605729,
+          "brier": 0.18492829197615088
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.5657894736842105,
+          "mean_probability": 0.5732441550478995,
+          "brier": 0.2454930506929287
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.4342105263157895,
+          "mean_probability": 0.42675584495210045,
+          "brier": 0.24549305069292868
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5736842105263158,
+          "mean_probability": 0.5556374437915439,
+          "brier": 0.2455993473501959
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.5921052631578947,
+          "mean_probability": 0.4993418503563513,
+          "brier": 0.2479984242979369,
+          "historical_rate_baseline_brier": 0.2578290236453113
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.12105263157894737,
+          "mean_probability": 0.12130856161364675,
+          "brier": 0.10896528746792553,
+          "historical_rate_baseline_brier": 0.10654516507308574
+        },
+        "top_1x2": 0.5342105263157895,
+        "top_draw_cover": 0.7789473684210526
+      }
+    },
+    "2025/26": {
+      "matches": 380,
+      "exact_score_top_pick_accuracy": 0.11578947368421053,
+      "scoreline_log_loss": 2.884105550035288,
+      "total_goals_mae": 1.242622801361457,
+      "yellow_cards_mae": 1.5910160837260545,
+      "event_metrics": {
+        "home": {
+          "matches": 380,
+          "actual_rate": 0.4263157894736842,
+          "mean_probability": 0.43390475017652425,
+          "brier": 0.21992075336688116
+        },
+        "draw": {
+          "matches": 380,
+          "actual_rate": 0.2736842105263158,
+          "mean_probability": 0.23700006862587972,
+          "brier": 0.19964741283744916
+        },
+        "away": {
+          "matches": 380,
+          "actual_rate": 0.3,
+          "mean_probability": 0.32909518119759607,
+          "brier": 0.19487230747560116
+        },
+        "1X": {
+          "matches": 380,
+          "actual_rate": 0.7,
+          "mean_probability": 0.6709048188024039,
+          "brier": 0.19487230747560116
+        },
+        "X2": {
+          "matches": 380,
+          "actual_rate": 0.5736842105263158,
+          "mean_probability": 0.5660952498234758,
+          "brier": 0.21992075336688116
+        },
+        "12": {
+          "matches": 380,
+          "actual_rate": 0.7263157894736842,
+          "mean_probability": 0.7629999313741203,
+          "brier": 0.19964741283744916
+        },
+        "over_2.5": {
+          "matches": 380,
+          "actual_rate": 0.55,
+          "mean_probability": 0.533444231870835,
+          "brier": 0.24772305237988468
+        },
+        "under_2.5": {
+          "matches": 380,
+          "actual_rate": 0.45,
+          "mean_probability": 0.46655576812916494,
+          "brier": 0.24772305237988468
+        },
+        "btts": {
+          "matches": 380,
+          "actual_rate": 0.5605263157894737,
+          "mean_probability": 0.5407017789328937,
+          "brier": 0.24565308372103964
+        },
+        "yellow_over_3.5": {
+          "matches": 380,
+          "actual_rate": 0.5526315789473685,
+          "mean_probability": 0.48068443591551285,
+          "brier": 0.25453658399620704,
+          "historical_rate_baseline_brier": 0.2511777743824842
+        },
+        "red_any": {
+          "matches": 380,
+          "actual_rate": 0.09210526315789473,
+          "mean_probability": 0.10626298494698361,
+          "brier": 0.08293703707575766,
+          "historical_rate_baseline_brier": 0.08400410963452087
+        },
+        "top_1x2": 0.4789473684210526,
+        "top_draw_cover": 0.7526315789473684
+      }
+    },
+    "2026/27": {
+      "matches": 100,
+      "exact_score_top_pick_accuracy": 0.11,
+      "scoreline_log_loss": 2.9661281070529175,
+      "total_goals_mae": 1.4007036008987057,
+      "yellow_cards_mae": 1.6875144235023631,
+      "event_metrics": {
+        "home": {
+          "matches": 100,
+          "actual_rate": 0.42,
+          "mean_probability": 0.43739618486486864,
+          "brier": 0.22604465289643966
+        },
+        "draw": {
+          "matches": 100,
+          "actual_rate": 0.27,
+          "mean_probability": 0.24069612184016356,
+          "brier": 0.19470648106470892
+        },
+        "away": {
+          "matches": 100,
+          "actual_rate": 0.31,
+          "mean_probability": 0.3219076932949678,
+          "brier": 0.19681052811404565
+        },
+        "1X": {
+          "matches": 100,
+          "actual_rate": 0.69,
+          "mean_probability": 0.6780923067050321,
+          "brier": 0.19681052811404565
+        },
+        "X2": {
+          "matches": 100,
+          "actual_rate": 0.58,
+          "mean_probability": 0.5626038151351314,
+          "brier": 0.22604465289643966
+        },
+        "12": {
+          "matches": 100,
+          "actual_rate": 0.73,
+          "mean_probability": 0.7593038781598365,
+          "brier": 0.19470648106470892
+        },
+        "over_2.5": {
+          "matches": 100,
+          "actual_rate": 0.47,
+          "mean_probability": 0.5282337300719749,
+          "brier": 0.25165255933072705
+        },
+        "under_2.5": {
+          "matches": 100,
+          "actual_rate": 0.53,
+          "mean_probability": 0.47176626992802506,
+          "brier": 0.25165255933072705
+        },
+        "btts": {
+          "matches": 100,
+          "actual_rate": 0.49,
+          "mean_probability": 0.54080746045184,
+          "brier": 0.2543045517342448
+        },
+        "yellow_over_3.5": {
+          "matches": 100,
+          "actual_rate": 0.58,
+          "mean_probability": 0.5008457741385043,
+          "brier": 0.2561006358093809,
+          "historical_rate_baseline_brier": 0.2506829241497327
+        },
+        "red_any": {
+          "matches": 100,
+          "actual_rate": 0.18,
+          "mean_probability": 0.11985441319971718,
+          "brier": 0.1549307908068728,
+          "historical_rate_baseline_brier": 0.15289121210590761
+        },
+        "top_1x2": 0.42,
+        "top_draw_cover": 0.69
+      }
+    }
+  },
+  "historical_prices": {
+    "bet365_1x2": {
+      "priced_fixtures": 3520,
+      "model_brier_sum": 0.5810097909833404,
+      "normalized_odds_brier_sum": 0.5684191731776529,
+      "paper_selections": 594,
+      "paper_net_units": -9.490000000000014,
+      "paper_return": -0.015976430976430974,
+      "paper_hit_rate": 0.2542087542087542,
+      "priced_fixture_coverage": 0.16875
+    },
+    "bet365_total_2_5": {
+      "priced_fixtures": 2759,
+      "model_brier_sum": 0.48795212555266815,
+      "normalized_odds_brier_sum": 0.48245269823366904,
+      "paper_selections": 1229,
+      "paper_net_units": -33.49999999999988,
+      "paper_return": -0.02725793327908869,
+      "paper_hit_rate": 0.42799023596419855,
+      "priced_fixture_coverage": 0.4454512504530627
+    },
+    "archive_average_total_2_5": {
+      "priced_fixtures": 760,
+      "model_brier_sum": 0.4925691333774423,
+      "normalized_odds_brier_sum": 0.4846663649309619
+    }
+  },
+  "latest_season_prices": {
+    "bet365_1x2": {
+      "priced_fixtures": 100,
+      "model_brier_sum": 0.6175616620751943,
+      "normalized_odds_brier_sum": 0.6051269956133597,
+      "paper_selections": 15,
+      "paper_net_units": 2.67,
+      "paper_return": 0.178,
+      "paper_hit_rate": 0.26666666666666666,
+      "priced_fixture_coverage": 0.15
+    },
+    "bet365_total_2_5": {
+      "priced_fixtures": 100,
+      "model_brier_sum": 0.5033051186614541,
+      "normalized_odds_brier_sum": 0.5070246447239675,
+      "paper_selections": 49,
+      "paper_net_units": 11.2,
+      "paper_return": 0.22857142857142856,
+      "paper_hit_rate": 0.5306122448979592,
+      "priced_fixture_coverage": 0.49
+    }
+  },
+  "paper_filter": {
+    "minimum_estimated_return": 0.05,
+    "minimum_win_probability": 0.65,
+    "one_selection_per_fixture_per_priced_market_family": true
+  },
+  "price_coverage": {
+    "double_chance": 0,
+    "correct_score": 0,
+    "btts": 0,
+    "cards": 0
+  },
+  "evaluation": "Fixed models refit before each season using preceding dates. Prior completed fixtures update features within each test season. Dates and some results were inspected in earlier work.",
+  "price_limits": "Archived Bet365 quotes and earlier archive averages. Quote timestamps are unaudited. Only Bet365 quotes enter unit simulations. Betway quotes enter through manual input.",
+  "card_limits": "Targets are archived yellow counts and any recorded red. Betway card settlement equivalence and historical prices remain unverified."
+}
